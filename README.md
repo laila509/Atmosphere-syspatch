@@ -24,9 +24,7 @@ https://github.com/Yuanbanba/homebrew-NRO/releases
 
 百度网盘
 
-https://pan.baidu.com/s/1iVVflODbMzFA_HFn_umvXA
-
-提取码: 41ey
+https://pan.baidu.com/s/1iVVflODbMzFA_HFn_umvXA    提取码41ey
 
 乐享二，可以用AK大佬的开机图和图标
 
