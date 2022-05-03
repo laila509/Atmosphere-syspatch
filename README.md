@@ -1,4 +1,4 @@
-img src="assets/LX-ATM.JPG" align="center" width="100%" 
+<img src="/laila509/LeXiang-ATM/blob/master/LX-ATM.jpg?raw=true" alt="LX-ATM.jpg">
 
 1.大气层整合包都源于三样玩意儿，分别是Atmosphere，Hekate，Sigpatch，感谢paulzheng大佬解释的三件套。这当中，所有整合包的Atmosphere和Sigpatch都一样的，区别就是Hekate的启动设置，ak478bb大佬的教程手把手教你选择大气层启动设置选项，只要会Hekate_ipl.ini编辑。大佬还提供Sigpatch制作方法。
 
