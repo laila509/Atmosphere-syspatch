@@ -1,13 +1,22 @@
 <img src="https://github.com/laila509/LeXiang-ATM/raw/master/LX-ATM.jpg" align="center" width="90%" style="max-width: 100%;">
 
+更新方法，TF卡保留nintendo，emummc和switch/checkpoint/saves三个文件夹，删除其余的之后再将压缩包中的文件全选复制到TF卡覆盖。它是纯净包只有三件套，可任加插件、软件、主题和开机图等，变成乐享整合包。真实系统无联网限制，虚拟系统有hosts和序号保护。
+
+通用Switch所有破解机，启动进Hekate，点Launch。
+
+ATM-Auto：自动识别真实或虚拟系统（原版FUSEE引导）
+
+ATM-EMU：虚拟系统（Hekate的Fss0引导）
+
+OFW-SYS：真实正版系统（Hekate的Fss0引导）
+
+ATM-SYS：真实破解系统（Hekate的Fss0引导）
 
 1.大气层整合包都源于三样玩意儿，分别是Atmosphere，Hekate，Sigpatch，感谢paulzheng大佬解释的三件套。这当中，所有整合包的Atmosphere和Sigpatch都一样的，区别就是Hekate的启动设置，ak478bb大佬的教程手把手教你选择大气层启动设置选项，只要会Hekate_ipl.ini编辑。大佬还提供Sigpatch制作方法。
 
 2.根据yuanbanban大佬的教程 +++整合大气层就像搭积木，欢迎讨论+++，所以如对Hekate的启动设置不喜欢，就修改“迷你包”的设置，而特斯拉插件包和相册NRO软件包都通用，可用在任何大气层整合包上，还可以根据说明书删掉不需要的插件。
 
 3.谢谢paulzheng大佬的教程浅谈玩家的大气层atmosphere个人整合包。虽一开始看得云里雾里，但跟着前面大佬的整合包琢磨之后回过头再来就很好懂了。
-
-看到这么多大佬们分享整合包和教程，我也来发布一款大气层的乐享包，全机型软破硬破通用，最高支持switch14.1.1系统，向下兼容。它是纯净包只有三件套，可任加插件、软件、主题和开机图等，变成乐享整合包。真实系统无联网限制，虚拟系统有hosts和序号保护。
 
 乐享一，可以加特斯拉插件包和相册NRO软件包
 
