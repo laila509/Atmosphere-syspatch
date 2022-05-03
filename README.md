@@ -1,4 +1,4 @@
-<img src="https://github.com/laila509/LeXiang-ATM/raw/master/LX-ATM.jpg" align="center" width="90%" style="max-width: 100%;">
+<img src="https://github.com/laila509/LeXiang-ATM/raw/master/LX-ATM.jpg" align="center" width="80%">
 
 更新方法，TF卡保留nintendo，emummc和switch/checkpoint/saves三个文件夹，删除其余的之后再将压缩包中的文件全选复制到TF卡覆盖。它是纯净包只有三件套，可任加插件、软件、主题和开机图等，变成乐享整合包。真实系统无联网限制，虚拟系统有hosts和序号保护。
 
