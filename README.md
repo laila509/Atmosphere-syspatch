@@ -1,3 +1,6 @@
+<img src="https://github.com/laila509/LeXiang-ATM/raw/master/LX-ATM.jpg" align="center" width="90%" style="max-width: 100%;">
+
+
 1.大气层整合包都源于三样玩意儿，分别是Atmosphere，Hekate，Sigpatch，感谢paulzheng大佬解释的三件套。这当中，所有整合包的Atmosphere和Sigpatch都一样的，区别就是Hekate的启动设置，ak478bb大佬的教程手把手教你选择大气层启动设置选项，只要会Hekate_ipl.ini编辑。大佬还提供Sigpatch制作方法。
 
 2.根据yuanbanban大佬的教程 +++整合大气层就像搭积木，欢迎讨论+++，所以如对Hekate的启动设置不喜欢，就修改“迷你包”的设置，而特斯拉插件包和相册NRO软件包都通用，可用在任何大气层整合包上，还可以根据说明书删掉不需要的插件。
