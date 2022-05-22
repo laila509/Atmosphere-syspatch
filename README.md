@@ -56,89 +56,89 @@ emummc.txt复制/atmosphere/hosts/
 
 [atmosphere]，是大气层的核心
 
-  --[config]，大气层配置文件
+--[config]，大气层配置文件
   
-    --override_config.ini，非必要，大气层默认设置
+--override_config.ini，非必要，大气层默认设置
     
-    --stratosphere.ini，非必要，Hekate设置autonogc=1也可以
+--stratosphere.ini，非必要，Hekate设置autonogc=1也可以
+
+--system_settings.ini，必要，开hosts和关闭金手指自动启动
     
-    --system_settings.ini，必要，开hosts和关闭金手指自动启动
-    
-  --[exefs_patches]，大气层插件
+--[exefs_patches]，大气层插件
   
-     --[es_patches]，es插件，与SW系统对应，因大气层向下兼容，所以所有SW系统都放上
+--[es_patches]，es插件，与SW系统对应，因大气层向下兼容，所以所有SW系统都放上
      
-        --这里一堆IPS文件，如现在总共有22个IPS文件，其中一个对应14.1.0/14.1.1系统
+--这里一堆IPS文件，如现在总共有22个IPS文件，其中一个对应14.1.0/14.1.1系统
         
-     --[nfim_ctest]，免联服务器插件，与SW系统对应，同样都放上
+--[nfim_ctest]，免联服务器插件，与SW系统对应，同样都放上
      
-        --这里一堆IPS文件，和es插件同理
+--这里一堆IPS文件，和es插件同理
         
-  --[fatal_errors]，非必要，大气层运行出错会生成日志
+--[fatal_errors]，非必要，大气层运行出错会生成日志
   
-  --[flags]，非必要，可删
+--[flags]，非必要，可删
   
-  --[hbl_html]，非必要，可删
+--[hbl_html]，非必要，可删
   
-  --[hosts]，host列表保护，阻止连服务器
+--[hosts]，host列表保护，阻止连服务器
   
-    --default.txt，默认不用管
+--default.txt，默认不用管
     
-    --emummc.txt，这是在虚拟系统做host保护
+--emummc.txt，这是在虚拟系统做host保护
     
-  --[kip_patches]，大气层插件
+--[kip_patches]，大气层插件
   
-    --[fs_patches]，fs插件，和es插件同理
+--[fs_patches]，fs插件，和es插件同理
     
-        --这里一堆IPS文件，但每次更新fs插件是2个，分别是exfat和fat
+--这里一堆IPS文件，但每次更新fs插件是2个，分别是exfat和fat
         
-    --[loader_patches]，loader插件，与大气层版本对应，只需要一个
+--[loader_patches]，loader插件，与大气层版本对应，只需要一个
     
-        --这里只需一个IPS文件，对应大气层版本，就是与当前package3对应
+--这里只需一个IPS文件，对应大气层版本，就是与当前package3对应
         
-  --hbl.nsp，有了它才能进相册，homebrew启动器
+--hbl.nsp，有了它才能进相册，homebrew启动器
   
-  --package3，大气层模块，以前名叫fusee-secondary.bin
+--package3，大气层模块，以前名叫fusee-secondary.bin
   
-  --reboot_payload.bin，重启payload，可以在Hekate设置，也可以用Hekate重命名
+--reboot_payload.bin，重启payload，可以在Hekate设置，也可以用Hekate重命名
   
-  --stratosphere.romfs，大气层模块，和package3，fusee.bin构成大气层基本核心
+--stratosphere.romfs，大气层模块，和package3，fusee.bin构成大气层基本核心
   
 [bootloader]，是Hekate的核心
 
-  --[ini]，是Hekate中more configs的引导配置
+--[ini]，是Hekate中more configs的引导配置
   
-    --lakka.ini，非必要，可以编辑
+--lakka.ini，非必要，可以编辑
     
-  --[payloads]，可以在Hekate中加载它们
+--[payloads]，可以在Hekate中加载它们
   
-    --commonproblemresolver.bin，一键关闭插件启动和删除主题，解决开机问题
+--commonproblemresolver.bin，一键关闭插件启动和删除主题，解决开机问题
     
-    --fusee.bin，大气层原版引导模块
+--fusee.bin，大气层原版引导模块
     
-    --lockpick_rcm.bin，主机Keys获取工具
+--lockpick_rcm.bin，主机Keys获取工具
     
-    --tegraexplorer.bin，主机固件获取工具
+--tegraexplorer.bin，主机固件获取工具
     
-  --[res]，Hekate的图标、开机图等，可以编辑，需Hekate_ipl.ini调整
+--[res]，Hekate的图标、开机图等，可以编辑，需Hekate_ipl.ini调整
   
-    --图标分辨率192*192，开机图720*1280，位深度都是32
+--图标分辨率192*192，开机图720*1280，位深度都是32
     
-    --[sys]，Hekate模块，和Hekate.bin构成Hekate基本核心
+--[sys]，Hekate模块，和Hekate.bin构成Hekate基本核心
     
-    --这里几个文件都是必要的
+--这里几个文件都是必要的
     
-  --bootlogo.bmp，开机图，
+--bootlogo.bmp，开机图，
   
-  --hekate_ipl.ini，Hekate启动设置文件
+--hekate_ipl.ini，Hekate启动设置文件
+
+--patches.ini，fss0引导的FS和Loader插件以文本，和fusee引导不一样
   
-  --patches.ini，fss0引导的FS和Loader插件以文本，和fusee引导不一样
-  
-  --update.bin，最新Hekate.bin的重命名，不需要更新注入器的Payload.bin
+--update.bin，最新Hekate.bin的重命名，不需要更新注入器的Payload.bin
   
 [switch]，所有相册的NRO软件，特斯拉的OVL插件都在这里
 
-  --daybreak.nro，大气层用Daybreak离线升级系统
+--daybreak.nro，大气层用Daybreak离线升级系统
   
 boot.dat，它如果是SX Gear的boot文件，TX注入器或TX芯片转大气层必要
 
