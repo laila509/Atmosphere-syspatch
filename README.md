@@ -1,53 +1,54 @@
 <img src="https://github.com/laila509/LeXiang-ATM/raw/master/LX-ATM.jpg" align="center" width="80%">
 
-更新方法，TF卡保留nintendo，emummc和switch/checkpoint/saves三个文件夹，删除其余的之后再将压缩包中的文件全选复制到TF卡覆盖。它是纯净包只有三件套，可任加插件、软件、主题和开机图等，变成乐享整合包。真实系统无联网限制，虚拟系统有hosts和序号保护。
+【分享】菜鸟都知道怎么整合大气层
 
-通用Switch所有破解机，启动进Hekate，点Launch。
+我不是什么大佬大神，也是和大家一样菜鸟入门，通过大佬大神们的教程，知道破解的流程，也学会整合大气层，通过使用觉得大气层越简单越好，那么多插件软件其实用途不大，而且可以根据需要增加。
 
-ATM-Auto：自动识别真实或虚拟系统（原版FUSEE引导）
+【第一章，纯净包整合教程】
+1.整合大气层首先做纯净包，就是Atmosphere+Hekate+Sigpatch的三件套，有了它就可以破解系统，运行已安装的破解游戏。纯净包是基础包可直接用，只要加合适的引导就可适用所有破解机，不区分软破用的TX注入器或DQC注入器，不区分TX芯片还是HW芯片，软硬破通用。
 
-ATM-EMU：虚拟系统（Hekate的Fss0引导）
+大气层整合包=纯净包+搭配包，搭配包就是特斯拉等一众插件和相册NRO软件的组合，搭配包不能直接使用，需要覆盖到纯净包或其它大气层整合包上使用，整合包应实用为主，需要插件和软件多少可以不断的添加删减。
 
-OFW-SYS：真实正版系统（Hekate的Fss0引导）
+2.最新的三件套版本是Atmosphere1.3.2，Hekate5.7.2，Sigpatchfor14.1.0/14.1.1
 
-ATM-SYS：真实破解系统（Hekate的Fss0引导）
+Atmosphere，https://github.com/Atmosphere-NX/Atmosphere/releases
 
-1.大气层整合包都源于三样玩意儿，分别是Atmosphere，Hekate，Sigpatch，感谢paulzheng大佬解释的三件套。这当中，所有整合包的Atmosphere和Sigpatch都一样的，区别就是Hekate的启动设置，ak478bb大佬的教程手把手教你选择大气层启动设置选项，只要会Hekate_ipl.ini编辑。大佬还提供Sigpatch制作方法。
+下atmosphere-1.3.2-master-e96972c93+hbl-2.4.1+hbmenu-3.5.0.zip和fusee.bin，解包后是[atmosphere],[switch]和hbmenu.nro
 
-2.根据yuanbanban大佬的教程 +++整合大气层就像搭积木，欢迎讨论+++，所以如对Hekate的启动设置不喜欢，就修改“迷你包”的设置，而特斯拉插件包和相册NRO软件包都通用，可用在任何大气层整合包上，还可以根据说明书删掉不需要的插件。
+Hekate，https://github.com/CTCaer/hekate/releases
 
-3.谢谢paulzheng大佬的教程浅谈玩家的大气层atmosphere个人整合包。虽一开始看得云里雾里，但跟着前面大佬的整合包琢磨之后回过头再来就很好懂了。
+下hekate_ctcaer_5.7.2_Nyx_1.2.2.zip，解包后是[bootloader]和hekate_ctcaer_5.7.2.bin
 
-乐享一，可以加特斯拉插件包和相册NRO软件包
+Sigpatch，https://github.com/ITotalJustice/patches/releases
 
-谢谢yuanbanban大佬，整合大气层和搭积木一样可以自己拼装，大气层增强包=大气层迷你包+特斯拉插件包+相册NRO软件包，迷你包的启动布局我不喜欢，所以特斯拉插件包和相册NRO软件包直接可以用yuanbanban大佬分享的，分别覆盖到我发的乐享包就完事。大佬还有可精简组件说明（2022.4.16），可以删除不需要的软件和插件
+下Sigpatches.zip，解包后是[atmosphere]和[Bootloader
 
-特斯拉插件包
+3.三件套不分先后复制到同一目录，fusee.bin移至/bootloader/payloads/
 
-https://www.91tvg.com/thread-294313-1-1.html
+4.通用的大气层设置，适用所有大气层包，在乐享或奇想大气层纯净包中找
 
-https://github.com/Yuanbanba/tesla/releases
+override_config.ini，stratosphere.ini和system_settings.ini复制/atmosphere/config/
 
-相册NRO软件包
+exosphere.ini，万能前端hbmenu.nsp和sx gear的boot.dat复制根目录
 
-https://www.91tvg.com/thread-286185-1-1.html
+把hekate_ctcaer_5.7.2.bin重命名payload.bin
 
-https://github.com/Yuanbanba/homebrew-NRO/releases
+把Lockpick_RCM.bin，TegraExplorer.bin等常用引导文件复制/bootloader/payloads/
 
-百度网盘
+emummc.txt复制/atmosphere/hosts/
 
-https://pan.baidu.com/s/1iVVflODbMzFA_HFn_umvXA    提取码41ey
+如想真实破解系统也开hosts和序号保护，把emummc.txt再复制成sysmmc.txt，打开exosphere.ini把blank_prodinfo_sysmmc=0改成blank_prodinfo_sysmmc=1保存。
 
-乐享二，可以用AK大佬的开机图和图标
+5.自编的Hekate设置，所有大气层包就这差别，可参照乐享或奇想大气层包调整
 
-谢谢ak478bb大佬分享的主题开机图和图标，可直接覆盖到AK大气层整合包，我做的乐享包也可以用，但是要删除主题包里的/bootloader/hekate_ipl.ini之后再覆盖，不删Hekate_ipl覆盖也没关系，但启动顺序变成AK大佬的布局。
+/bootloader/hekate_ipl.ini是启动文件，设置启动全靠它
 
-所以乐享包/bootloader/hekate_ipl.ini.txt是启动的备份文件，改名还原。
+/bootloader/bootlogo.bmp是开机图，720×1280，32位，文件名和位置以hekate_ipl.ini为准
 
-主题包和开机图
+/bootloader/res/的图片是开机图标，文件名和位置以hekate_ipl.ini
 
-https://www.91tvg.com/space-uid-2730701.html
+/bootloader/ini/的启动文件也和hekate_ipl.ini相似，在launch右边的more configs出现
 
-https://pan.baidu.com/s/1t7kvfTKvSZAOMgR6yZM3hA     提取码avmd
+6.后期升级三件套，只要在原版本上对比添加新的组件就行了
 
-
+下Beyond Compare，左右两边分别是旧整合包和新的三件套组件，区分哪些需要更新
