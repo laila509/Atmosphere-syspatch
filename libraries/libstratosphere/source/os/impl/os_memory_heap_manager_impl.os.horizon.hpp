@@ -13,16 +13,24 @@
  * You should have received a copy of the GNU General Public License
  * along with this program.  If not, see <http://www.gnu.org/licenses/>.
  */
-#include <vapours.hpp>
+#pragma once
+#include <stratosphere.hpp>
 
-namespace ams::crypto {
+namespace ams::os::impl {
 
-    void GenerateSha256(void *dst, size_t dst_size, const void *src, size_t src_size) {
-        Sha256Generator gen{};
+    class MemoryHeapManagerHorizonImpl {
+        public:
+            Result SetHeapSize(uintptr_t *out, size_t size) {
+                R_TRY_CATCH(svc::SetHeapSize(out, size)) {
+                    R_CONVERT(svc::ResultOutOfMemory,   os::ResultOutOfMemory())
+                    R_CONVERT(svc::ResultLimitReached,  os::ResultOutOfMemory())
+                    R_CONVERT(svc::ResultOutOfResource, os::ResultOutOfMemory())
+                } R_END_TRY_CATCH;
 
-        gen.Initialize();
-        gen.Update(src, src_size);
-        gen.GetHash(dst, dst_size);
-    }
+                R_SUCCEED();
+            }
+    };
+
+    using MemoryHeapManagerImpl = MemoryHeapManagerHorizonImpl;
 
 }

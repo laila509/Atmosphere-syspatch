@@ -13,16 +13,13 @@
  * You should have received a copy of the GNU General Public License
  * along with this program.  If not, see <http://www.gnu.org/licenses/>.
  */
-#include <vapours.hpp>
+#include <stratosphere.hpp>
 
-namespace ams::crypto {
+namespace ams::os::impl {
 
-    void GenerateSha256(void *dst, size_t dst_size, const void *src, size_t src_size) {
-        Sha256Generator gen{};
-
-        gen.Initialize();
-        gen.Update(src, src_size);
-        gen.GetHash(dst, dst_size);
+    void SetMemoryAttributeImpl(uintptr_t address, size_t size, MemoryAttribute attr) {
+        /* TODO: Should this do anything? */
+        AMS_UNUSED(address, size, attr);
     }
 
 }

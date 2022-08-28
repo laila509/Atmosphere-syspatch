@@ -13,16 +13,15 @@
  * You should have received a copy of the GNU General Public License
  * along with this program.  If not, see <http://www.gnu.org/licenses/>.
  */
-#include <vapours.hpp>
+#pragma once
+#include <stratosphere.hpp>
+#include "os_memory_heap_manager_types.hpp"
+#include "os_resource_manager.hpp"
 
-namespace ams::crypto {
+namespace ams::os::impl {
 
-    void GenerateSha256(void *dst, size_t dst_size, const void *src, size_t src_size) {
-        Sha256Generator gen{};
-
-        gen.Initialize();
-        gen.Update(src, src_size);
-        gen.GetHash(dst, dst_size);
+    ALWAYS_INLINE MemoryHeapManager &GetMemoryHeapManager() {
+        return GetResourceManager().GetMemoryHeapManager();
     }
 
 }
