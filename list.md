@@ -3,10 +3,15 @@
 【一、大气层三件套，必须有】
 
 -（1）atmosphere   https://github.com/Atmosphere-NX/Atmosphere
+
 -（2）hekate   https://github.com/CTCaer/hekate
+
 - “Bootloader/sys/nyx.bin.english”是英文原版文件，可以还原英文原版Hekate,
+
 - 汉化nyx.bin文件   https://space.bilibili.com/1339783
+
 -（3）Sigpatches for Atmosphere  https://github.com/fraxalotl/SwitchScript  https://jits.cc/patches
+
 -【二、特斯拉插件，可加可删可无】
 -（1）nx-ovlloader  Tesla启动器
 https://github.com/WerWolv/nx-ovlloader/releases
