@@ -6,8 +6,6 @@ https://codeberg.org/laila509/QL-ATM-Package/releases
 
 <img src="https://GitHub.com/laila509/QL-ATM-Package/blob/master/QL-ATM-1.4.1-v5.jpg?raw=true" align="center" width="80%" /> 
 
-<img src="https://GitHub.com/laila509/QL-ATM-Package/blob/master/QL-ATM.jpg?raw=true" align="center" width="80%" /> 
-
 奇乐融合大气层破解包软件表
 
 【一、大气层三件套，必须有】
