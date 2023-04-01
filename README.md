@@ -20,7 +20,7 @@ https://github.com/Atmosphere-NX/Atmosphere
 
 https://github.com/CTCaer/hekate
 
-“Bootloader/sys/nyx.bin.english”是英文原版文件，可以还原英文原版Hekate，汉化nyx.bin文件
+汉化nyx.bin文件，“Bootloader/sys/nyx.bin.english”是英文原版文件，可以还原英文原版Hekate
 
 https://space.bilibili.com/1339783
 
@@ -86,7 +86,9 @@ https://github.com/spacemeowx2/ldn_mitm/releases
 
 【三、相册NRO软件，可加可删，至少有dbi、jksv和edizon-se】
 
-（0）reboot_to_payload.nro，一键关机重启工具，支持Switch全机型，源文件Safe_Reboot_Shutdown.nro，改名reboot_to_payload.nro，比大气层reboot_to_payload.nro好，在App name前加00，自动排到相册第一个。
+（0）reboot_to_payload.nro，一键关机重启工具，支持Switch全机型，在App name前加00，自动排到相册第一个。
+
+源文件Safe_Reboot_Shutdown.nro，改名reboot_to_payload.nro，比大气层reboot_to_payload.nro好
 
 https://github.com/dezem/Safe_Reboot_Shutdown/releases
 
@@ -122,8 +124,6 @@ https://github.com/rashevskyv/dbi/releases
 
 https://github.com/WerWolv/Hekate-Toolbox/releases
 
-https://github.com/Team-Neptune/DeepSea-Toolbox/releases
-
 （9）Edizon-SE，金手指游戏修改工具
 
 https://github.com/tomvita/EdiZon-SE/releases
@@ -136,7 +136,7 @@ https://github.com/mtheall/ftpd/releases
 
 https://github.com/XorTroll/Goldleaf/releases
 
-（12）Haku33，系统洗白工具，硬破还可用haku33--v2.9
+（12）Haku33，系统洗白工具
 
 https://github.com/StarDustCFW/Haku33/releases
 
@@ -170,17 +170,15 @@ https://github.com/joel16/NX-Shell/releases
 
 https://github.com/DarkMatterCore/nxdumptool/releases
 
-（20）NXThemesInstaller，主题安装工具
+（20）NXThemesInstaller，主题安装工具和主题资源
 
 https://github.com/exelix11/SwitchThemeInjector/releases
+
+https://themezer.net/packs
 
 15.0/16.0以后的系统需要systemPatches补丁
 
 https://github.com/exelix11/theme-patches
-
-主题资源
-
-https://themezer.net/packs
 
 （21）pplay，影音播放工具
 
@@ -204,7 +202,9 @@ https://github.com/xfangfang/wiliwili/releases
 
 【四、Hekate的Payload插件，可加可删可无】
 
-（1）CommonProblemResolver，Hekate下删除主题和关闭插件自动启动，OLED不可用
+（1）CommonProblemResolver，Hekate下删除主题和关闭插件自动启动
+
+https://github.com/zdm65477730/CommonProblemResolver/releases
 
 https://github.com/Team-Neptune/CommonProblemResolver/releases
 
@@ -212,16 +212,16 @@ https://github.com/Team-Neptune/CommonProblemResolver/releases
 
 https://github.com/shchmue/Lockpick_RCM/releases
 
-https://github.com/dezem/Lockpick_RCM/releases
-
 （3）TegraExplorer，Hekate下的文件管理工具，OLED可用
 
 https://github.com/dezem/TegraExplorer/releases
-
-https://github.com/suchmememanyskill/TegraExplorer/releases
 
 有用的Tegraexplorer程序脚本
 
 https://github.com/suchmememanyskill/TegraScript
 
 https://github.com/JeffVi/Prodinfo-Restore-TegraScript
+
+（4）hwfly_toolbox.bin，国产芯片工具箱
+
+https://github.com/hwfly-nx/hwfly-toolbox/releases
