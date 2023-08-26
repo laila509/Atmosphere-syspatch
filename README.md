@@ -6,9 +6,9 @@ https://codeberg.org/laila509/QL-ATM-Package/releases
 
 <img src="https://GitHub.com/laila509/QL-ATM-Package/blob/master/QL-ATM-1.4.1-v5.jpg?raw=true" align="center" width="80%" /> 
 
-奇乐融合大气层破解包软件表
+# 奇乐融合大气层破解包软件表
 
-【一、大气层三件套，必须有】
+# 【一、大气层三件套，必须有】
 
 （1）atmosphere
 
@@ -28,7 +28,7 @@ https://github.com/fraxalotl/SwitchScript
 
 https://jits.cc/patches
 
-【二、特斯拉插件，可加可删可无】
+# 【二、特斯拉插件，可加可删可无】
 
 （1）nx-ovlloader，Tesla启动器
 
@@ -82,11 +82,9 @@ https://github.com/TTghostsemir/fastCFWswitch/releases
 
 https://github.com/spacemeowx2/ldn_mitm/releases
 
-【三、相册NRO软件，可加可删，至少有dbi、jksv和edizon-se】
+# 【三、相册NRO软件，可加可删，至少有dbi、jksv和edizon-se】
 
-（0）reboot_to_payload.nro，一键关机重启工具，支持Switch全机型，在App name前加00，自动排到相册第一个。
-
-源文件Safe_Reboot_Shutdown.nro，改名reboot_to_payload.nro，比大气层reboot_to_payload.nro好
+（0）reboot_to_payload.nro，一键关机重启工具，支持Switch全机型，在App name前加00，自动排到相册第一个。源文件Safe_Reboot_Shutdown.nro，改名reboot_to_payload.nro，比大气层reboot_to_payload.nro好
 
 https://github.com/dezem/Safe_Reboot_Shutdown/releases
 
@@ -106,35 +104,35 @@ https://github.com/dezem/AtmoXL-Titel-Installer/releases
 
 https://github.com/mrdude2478/Switch-Firmware-Dumper/releases
 
-（5）Calculator_NX，简易计算器
+（5）Calculator_NX.nro，简易计算器
 
 https://github.com/EmreTech/Calculator_NX/releases
 
-（6）Checkpoint，游戏存档管理工具
+（6）Checkpoint.nro，游戏存档管理工具
 
 https://github.com/FlagBrew/Checkpoint/releases
 
-（7）DBI，游戏安装，存档管理和文件传输工具
+（7）DBI.nro，游戏安装，存档管理和文件传输工具
 
 https://github.com/rashevskyv/dbi/releases
 
-（8）DeepSea-Toolbox，深海工具箱，插件管理，实际是Hekate-toolbox--v4.0.2，支持Mariko型主机重启
+（8）DeepSea-Toolbox.nro，深海工具箱，插件管理，实际是Hekate-toolbox--v4.0.2，支持Mariko型主机重启
 
 https://github.com/WerWolv/Hekate-Toolbox/releases
 
-（9）Edizon-SE，金手指游戏修改工具
+（9）Edizon-SE.nro，金手指游戏修改工具
 
 https://github.com/tomvita/EdiZon-SE/releases
 
-（10）ftpd，FTP传输工具
+（10）ftpd.nro，FTP传输工具
 
 https://github.com/mtheall/ftpd/releases
 
-（11）Goldleaf，文件管理工具
+（11）Goldleaf.nro，文件管理工具
 
 https://github.com/XorTroll/Goldleaf/releases
 
-（12）Haku33，系统洗白工具
+（12）Haku33.nro，系统洗白工具
 
 https://github.com/StarDustCFW/Haku33/releases
 
@@ -144,11 +142,11 @@ https://github.com/fortheusers/hb-appstore/releases
 
 https://apps.fortheusers.org/switch
 
-（14）JKSV，游戏存档管理工具
+（14）JKSV.nro，游戏存档管理工具
 
 https://github.com/J-D-K/JKSV/releases
 
-（15）linkalho，模拟关联任天堂账号工具
+（15）linkalho.nro，模拟关联任天堂账号工具
 
 https://github.com/rdmrocha/linkalho/releases
 
@@ -156,19 +154,19 @@ https://github.com/rdmrocha/linkalho/releases
 
 https://github.com/CompSciOrBust/N-Xplorer/releases
 
-（17）NX-Activity-Log，游戏游玩时间记录工具
+（17）NX-Activity-Log.nro，游戏游玩时间记录工具
 
 https://github.com/tallbl0nde/NX-Activity-Log/releases
 
-（18）NX-Shell，文件管理工具
+（18）NX-Shell.nro，文件管理工具
 
 https://github.com/joel16/NX-Shell/releases
 
-（19）nxdumptool，游戏的提取分享工具，前端进
+（19）nxdumptool.nro，游戏的提取分享工具，前端进
 
 https://github.com/DarkMatterCore/nxdumptool/releases
 
-（20）NXThemesInstaller，主题安装工具和主题资源
+（20）NXThemesInstaller.nro，主题安装工具和主题资源
 
 https://github.com/exelix11/SwitchThemeInjector/releases
 
@@ -178,39 +176,43 @@ https://themezer.net/packs
 
 https://github.com/exelix11/theme-patches
 
-（21）pplay，影音播放工具
+（21）pplay.nro，影音播放工具
 
 https://github.com/Cpasjuste/pplay/releases
 
-（22）switchtime，联网校准时钟，90dns的破解系统也可用
+（22）switchtime.nro，联网校准时钟，90dns的破解系统也可用
 
 https://github.com/3096/switch-time/releases
 
-（23）Tencent-switcher-GUI，国行和非国行系统切换工具
+（23）Tencent-switcher-GUI.nro，国行和非国行系统切换工具
 
 https://github.com/CaiMiao/Tencent-switcher-GUI/releases
 
-（24）Tinfoil，黑商店，文件管理工具，自动安装前端
+（24）Tinfoil.nro，黑商店，文件管理工具，自动安装前端
 
 http://tinfoil.io/Download#download
 
-（25）wiliwili，哔哩哔哩播放器，联网，自选安装前端
+（25）wiliwili.nro，哔哩哔哩播放器，联网，自选安装前端
 
 https://github.com/xfangfang/wiliwili/releases
 
-【四、Hekate的Payload插件，可加可删可无】
+# 【四、Hekate的Payload插件，可加可删可无】
 
-（1）CommonProblemResolver，Hekate下删除主题和关闭插件自动启动
+（1）CommonProblemResolver.bin，Hekate下删除主题和关闭插件自动启动
 
 https://github.com/zdm65477730/CommonProblemResolver/releases
 
 https://github.com/Team-Neptune/CommonProblemResolver/releases
 
-（2）Lockpick_RCM，主机系统的密钥提取工具，OLED可用
+（2）Lockpick_RCM.bin，主机系统的密钥提取工具，OLED可用
+
+https://github.com/iczero/Lockpick_RCM/releases
 
 https://github.com/shchmue/Lockpick_RCM/releases
 
-（3）TegraExplorer，Hekate下的文件管理工具，OLED可用
+（3）TegraExplorer.bin，Hekate下的文件管理工具，OLED可用
+
+https://github.com/zdm65477730/TegraExplorer/releases
 
 https://github.com/dezem/TegraExplorer/releases
 
