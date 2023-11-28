@@ -1,144 +1,145 @@
-ÆæÀÖÈÚºÏ´óÆø²ã1.6.2ÆÆ½â°üv5-À³À³Ìß¸öÇò
+å¥‡ä¹èžåˆå¤§æ°”å±‚1.6.2ç ´è§£åŒ…v6-èŽ±èŽ±è¸¢ä¸ªçƒ
 
-2023.11.16£¬´óÆø²ã¸ß¼¶°ü¸üÐÂv5£¬¸üÐÂaio-switch-updater.nro-v2.23.2ºÍWiliwili.nro-1.2.2¡£´Ë°ü¿ÉÒÔÔÚ1.5.2¸ß¼¶°üv2¼°ÒÔÉÏµÄ°æ±¾¸²¸ÇÉý¼¶¡£
+2023.11.28ï¼Œå¤§æ°”å±‚çº¯å‡€åŒ…æ›´æ–°v3ï¼Œé«˜çº§åŒ…æ›´æ–°v6ï¼Œæ›´æ–°2.0.0_aè¶…é¢‘æ’ä»¶ï¼ˆUncapped GPUï¼‰å’Œldnè”æœºæ’ä»¶ï¼Œæ›´æ–°DBI640ï¼ŒTinfoil-17v2ï¼Œæ­¤åŒ…å¯ä»¥åœ¨1.5.2é«˜çº§åŒ…v2åŠä»¥ä¸Šçš„ç‰ˆæœ¬è¦†ç›–å‡çº§ã€‚
 
-Èç¹ûÊÇ1.5.1¸ß¼¶°üv2Ö®Ç°µÄ°ü£¬²»¿ÉÒÔÖ±½Ó¸²¸ÇÉý¼¶
-±ØÐëÉ¾³ýTF¿¨ÉÏ
-tf£ºatmosphere/contents/
-tf£ºswitch/.overlays/
-tf£ºconfig/
-tf£ºsaltysd/
-ÕâËÄ¸ö¾ÉµÄÎÄ¼þ¼ÐºóÔÙ¸²¸ÇÉý¼¶¡£
+å¦‚æžœæ˜¯1.5.1é«˜çº§åŒ…v2ä¹‹å‰çš„åŒ…ï¼Œä¸å¯ä»¥ç›´æŽ¥è¦†ç›–å‡çº§
+å¿…é¡»åˆ é™¤TFå¡ä¸Š
+tfï¼šatmosphere/contents/
+tfï¼šswitch/.overlays/
+tfï¼šconfig/
+tfï¼šsaltysd/
+è¿™å››ä¸ªæ—§çš„æ–‡ä»¶å¤¹åŽå†è¦†ç›–å‡çº§ã€‚
 
-Ìá¹©Á½¸öÔ´ÏÂÔØ
+æä¾›ä¸¤ä¸ªæºä¸‹è½½
 https://github.com/laila509/QL-ATM-Package/releases
 https://codeberg.org/laila509/QL-ATM-Package/releases
-Ìá¹©°Ù¶ÈÍøÅÌÏÂÔØ
+æä¾›ç™¾åº¦ç½‘ç›˜ä¸‹è½½
 https://pan.baidu.com/s/1MKkurt0kQ0T069D6x0huPA?pwd=xcff
 
-¡¾Ò»¡¢À³À³ÓÐ»°Ëµ¡¿
-    ÕûºÏ´óÆø²ãÆÆ½â°üÕâÊÂ¶ù±¾À´¾ÍºÜÆÕÍ¨£¬ÎÞÄÔµÄ¼òµ¥ºÃÅª£¬¸ù±¾Ã»ÓÐÄÑ¶È£¬À³À³²»ÊÇÊ²Ã´´óÉñ´óÀÐ£¬Ö»ÊÇ°áÔËÕûºÏ¡¢×Ü½á·ÖÏí´óÆø²ãµÄÏà¹ØÎÄ¼þ£¬²¢ÎÞÌØÒâÍÆ¹ãÆæÀÖÈÚºÏ´óÆø²ãÆÆ½â°ü¡£ÆæÀÖÈÚºÏ´óÆø²ãÆÆ½â°ü¶¼ÊÇ¾­²âÊÔ²Å·¢²¼£¬µ«²»Ò»¶¨¾ÍÊÇ×îºÃÓÃ»òÕß×îÊÊºÏÃ¿Ò»¸öÈË£¬ËùÓÐ´óÆø²ãÕûºÏ°ü²»´æÔÚºÃ»µ£¬Ö»ÊÇ¿´¸öÈËÊ¹ÓÃÏ°¹ßÂÔÓÐ²»Í¬¶øÒÑ¡£ÆÆ½â°üÖ÷Òª»ùÓÚ´óÆø²ãÈý¼þÌ×µÄ×éºÏ£¬´ó¼ÒÏ²»¶ÓÃ¾ÍÓÃ£¬²»Ï²»¶ÓÃµÄÒ²¿ÉÒÔÏÂÂÛÌ³ÆäËûÈË·¢²¼µÄÆÆ½â°ü»òÕß¸É´à×Ô¼ºÕûºÏ£¬ÒòÎªËùÓÐµÄ´óÆø²ãÕûºÏ°ü¶¼¿ÉÒÔ¸ù¾ÝÐèÒª½øÐÐ±à¼­¡£
-    ²ËÄñ¶¼ÖªµÀÔõÃ´ÕûºÏ´óÆø²ãÆÆ½â°ü
+ã€ä¸€ã€èŽ±èŽ±æœ‰è¯è¯´ã€‘
+    æ•´åˆå¤§æ°”å±‚ç ´è§£åŒ…è¿™äº‹å„¿æœ¬æ¥å°±å¾ˆæ™®é€šï¼Œæ— è„‘çš„ç®€å•å¥½å¼„ï¼Œæ ¹æœ¬æ²¡æœ‰éš¾åº¦ï¼ŒèŽ±èŽ±ä¸æ˜¯ä»€ä¹ˆå¤§ç¥žå¤§ä½¬ï¼Œåªæ˜¯æ¬è¿æ•´åˆã€æ€»ç»“åˆ†äº«å¤§æ°”å±‚çš„ç›¸å…³æ–‡ä»¶ï¼Œå¹¶æ— ç‰¹æ„æŽ¨å¹¿å¥‡ä¹èžåˆå¤§æ°”å±‚ç ´è§£åŒ…ã€‚å¥‡ä¹èžåˆå¤§æ°”å±‚ç ´è§£åŒ…éƒ½æ˜¯ç»æµ‹è¯•æ‰å‘å¸ƒï¼Œä½†ä¸ä¸€å®šå°±æ˜¯æœ€å¥½ç”¨æˆ–è€…æœ€é€‚åˆæ¯ä¸€ä¸ªäººï¼Œæ‰€æœ‰å¤§æ°”å±‚æ•´åˆåŒ…ä¸å­˜åœ¨å¥½åï¼Œåªæ˜¯çœ‹ä¸ªäººä½¿ç”¨ä¹ æƒ¯ç•¥æœ‰ä¸åŒè€Œå·²ã€‚ç ´è§£åŒ…ä¸»è¦åŸºäºŽå¤§æ°”å±‚ä¸‰ä»¶å¥—çš„ç»„åˆï¼Œå¤§å®¶å–œæ¬¢ç”¨å°±ç”¨ï¼Œä¸å–œæ¬¢ç”¨çš„ä¹Ÿå¯ä»¥ä¸‹è®ºå›å…¶ä»–äººå‘å¸ƒçš„ç ´è§£åŒ…æˆ–è€…å¹²è„†è‡ªå·±æ•´åˆï¼Œå› ä¸ºæ‰€æœ‰çš„å¤§æ°”å±‚æ•´åˆåŒ…éƒ½å¯ä»¥æ ¹æ®éœ€è¦è¿›è¡Œç¼–è¾‘ã€‚
+    èœé¸Ÿéƒ½çŸ¥é“æ€Žä¹ˆæ•´åˆå¤§æ°”å±‚ç ´è§£åŒ…
 https://github.com/laila509/hekate_ipl
-¸ÐÐ»zdm65477730´óÀÐÌá¹©µÄÖÕ½á°æÌØË¹À­ÖÐÎÄ²å¼þ
+æ„Ÿè°¢zdm65477730å¤§ä½¬æä¾›çš„ç»ˆç»“ç‰ˆç‰¹æ–¯æ‹‰ä¸­æ–‡æ’ä»¶
 https://www.tekqart.com/thread-222735-1-1.html
-¸ÐÐ»ak478bb´óÀÐÌá¹©¿É¸²¸ÇÉý¼¶µÄ´óÆø²ãÈý¼þÌ×
+æ„Ÿè°¢ak478bbå¤§ä½¬æä¾›å¯è¦†ç›–å‡çº§çš„å¤§æ°”å±‚ä¸‰ä»¶å¥—
 https://github.com/AK478BB/Sigpatches/releases
-    ´óÆø²ãÆÆ½â°üºÍSWÏµÍ³ÀëÏßÉý¼¶°üÕâÁ½¸öÎÄ¼þ°üÔÚËùÓÐSwitchÐÍºÅ¶¼ÊÇÍ¨ÓÃµÄ£¬²»·Ö¹úÐÐ·Ç¹úÐÐ£¬²»·ÖÐøº½·ÇÐøº½£¬²»·ÖoledºÍlite¡£
-    Ö®Ç°·¢²¼µÄÀÖÏí´óÆø²ãºÍÆæÏë´óÆø²ãÆÆ½â°ü¶¼ÊÇ´¿¾»°ü£¬Ã»ÓÐ¶àÓàµÄ²å¼þºÍÈí¼þ£¬¶àÊýÈËÏ²»¶ÀÖÏíµÄÆô¶¯·½Ê½£¬ÉÙÊýÈËÏ²»¶ÆæÏëµÄÆô¶¯·½Ê½¡£ËùÒÔÎÒ×öÁËÈÚºÏ£¬Ä¬ÈÏÊÇÀÖÏí´óÆø²ãµÄÆô¶¯·½Ê½£¬µ«Ò²¿ÉÒÔËæÊ±ÇÐ»»¡£
+    å¤§æ°”å±‚ç ´è§£åŒ…å’ŒSWç³»ç»Ÿç¦»çº¿å‡çº§åŒ…è¿™ä¸¤ä¸ªæ–‡ä»¶åŒ…åœ¨æ‰€æœ‰Switchåž‹å·éƒ½æ˜¯é€šç”¨çš„ï¼Œä¸åˆ†å›½è¡Œéžå›½è¡Œï¼Œä¸åˆ†ç»­èˆªéžç»­èˆªï¼Œä¸åˆ†oledå’Œliteã€‚
+    ä¹‹å‰å‘å¸ƒçš„ä¹äº«å¤§æ°”å±‚å’Œå¥‡æƒ³å¤§æ°”å±‚ç ´è§£åŒ…éƒ½æ˜¯çº¯å‡€åŒ…ï¼Œæ²¡æœ‰å¤šä½™çš„æ’ä»¶å’Œè½¯ä»¶ï¼Œå¤šæ•°äººå–œæ¬¢ä¹äº«çš„å¯åŠ¨æ–¹å¼ï¼Œå°‘æ•°äººå–œæ¬¢å¥‡æƒ³çš„å¯åŠ¨æ–¹å¼ã€‚æ‰€ä»¥æˆ‘åšäº†èžåˆï¼Œé»˜è®¤æ˜¯ä¹äº«å¤§æ°”å±‚çš„å¯åŠ¨æ–¹å¼ï¼Œä½†ä¹Ÿå¯ä»¥éšæ—¶åˆ‡æ¢ã€‚
 				
-¡¾¶þ¡¢ÆæÀÖÈÚºÏ°üµÄÇø±ð¡¿
-    Çø±ðÊÇ×é¼þµÄ¶àÉÙ£¬¼ûÍ¼£¬×é¼þÊÇ´óÆø²ãÈý¼þÌ×¡¢¸÷ÖÖ²å¼þºÍNROÈí¼þ¡£
-    ´óÆø²ã¸üÐÂÊÇ¸ù¾ÝSwitchÏµÍ³£¬ËùÓÐ²å¼þÈí¼þµÄ¸üÐÂÒ²ÊÇ¸ú×Å´óÆø²ã°æ±¾Éý¼¶£¬ËùÒÔ´¿¾»°ü¸üÐÂµÄÆµÂÊ×îµÍ£¬´ÎÖ®ÊÇ±ê×¼°ü£¬¸ß¼¶°üÖÐÓÉÓÚ²å¼þÈí¼þ¶à£¬ËùÒÔ¾­³£»áÐèÒª¸üÐÂ£¬±ÈÈçÍ¬ÑùÊÇ´óÆø²ã1.3.2£¬µ«ÊÇ´¿¾»°üv1¿ÉÄÜÒ»Ö±²»±ä£¬µ«ÊÇ¸ß¼¶°ü¿ÉÄÜ»áÔÚÒ»¶ÎÊ±¼äºó¸üÐÂv2v3v4£¬µ«´óÆø²ãµÄÄÚºËÆäÊµ¶¼Ò»ÑùµÄ¡£À³À³²»±£Ö¤¸ß¼¶°ü¶¼Ê±Ê±¿Ì¿Ì±£³Ö×îÐÂ£¬´ó¼ÒÒ²¿ÉÒÔÔÚÆæÀÖÈÚºÏ°ü»ù´¡ÉÏ×ÔÐÐ±à¼­£¬¸ß¼¶°üÆµ·±¸üÐÂ²¢²»ÊÇ±ØÐëÒªÉý¼¶¡£
-£¨1£©´¿¾»°üMinimal Package£¬º¬´óÆø²ãÈý¼þÌ×ºÍDBIµÈ¼¸¸öÈí¼þ£¬ÒÑ°²×°µÄÆÆ½âÓÎÏ·Ò²¶¼ÄÜÍæ£¬ÍÆ¼ö²ËÄñÐÂÈËÍæ£¬ÔËÐÐ·Ç³£ÎÈ¶¨²»»á±¨´í¡£
-£¨2£©¸ß¼¶°üAdvanced Package£¬Âú×ãÀÏÄñÕÛÌÚµÄÐèÒª¡£¸ß¼¶°üÕûºÏzdm65477730´óÀÐ×öµÄÖÕ¼«°ætesla£¬AK478BB´óÀÐµÄAK´óÆø²ãÕûºÏ°üµÄNROÈí¼þ¡£
+ã€äºŒã€å¥‡ä¹èžåˆåŒ…çš„åŒºåˆ«ã€‘
+    åŒºåˆ«æ˜¯ç»„ä»¶çš„å¤šå°‘ï¼Œè§å›¾ï¼Œç»„ä»¶æ˜¯å¤§æ°”å±‚ä¸‰ä»¶å¥—ã€å„ç§æ’ä»¶å’ŒNROè½¯ä»¶ã€‚
+    å¤§æ°”å±‚æ›´æ–°æ˜¯æ ¹æ®Switchç³»ç»Ÿï¼Œæ‰€æœ‰æ’ä»¶è½¯ä»¶çš„æ›´æ–°ä¹Ÿæ˜¯è·Ÿç€å¤§æ°”å±‚ç‰ˆæœ¬å‡çº§ï¼Œæ‰€ä»¥çº¯å‡€åŒ…æ›´æ–°çš„é¢‘çŽ‡æœ€ä½Žï¼Œæ¬¡ä¹‹æ˜¯æ ‡å‡†åŒ…ï¼Œé«˜çº§åŒ…ä¸­ç”±äºŽæ’ä»¶è½¯ä»¶å¤šï¼Œæ‰€ä»¥ç»å¸¸ä¼šéœ€è¦æ›´æ–°ï¼Œæ¯”å¦‚åŒæ ·æ˜¯å¤§æ°”å±‚1.3.2ï¼Œä½†æ˜¯çº¯å‡€åŒ…v1å¯èƒ½ä¸€ç›´ä¸å˜ï¼Œä½†æ˜¯é«˜çº§åŒ…å¯èƒ½ä¼šåœ¨ä¸€æ®µæ—¶é—´åŽæ›´æ–°v2v3v4ï¼Œä½†å¤§æ°”å±‚çš„å†…æ ¸å…¶å®žéƒ½ä¸€æ ·çš„ã€‚èŽ±èŽ±ä¸ä¿è¯é«˜çº§åŒ…éƒ½æ—¶æ—¶åˆ»åˆ»ä¿æŒæœ€æ–°ï¼Œå¤§å®¶ä¹Ÿå¯ä»¥åœ¨å¥‡ä¹èžåˆåŒ…åŸºç¡€ä¸Šè‡ªè¡Œç¼–è¾‘ï¼Œé«˜çº§åŒ…é¢‘ç¹æ›´æ–°å¹¶ä¸æ˜¯å¿…é¡»è¦å‡çº§ã€‚
+ï¼ˆ1ï¼‰çº¯å‡€åŒ…Minimal Packageï¼Œå«å¤§æ°”å±‚ä¸‰ä»¶å¥—å’ŒDBIç­‰å‡ ä¸ªè½¯ä»¶ï¼Œå·²å®‰è£…çš„ç ´è§£æ¸¸æˆä¹Ÿéƒ½èƒ½çŽ©ï¼ŒæŽ¨èèœé¸Ÿæ–°äººçŽ©ï¼Œè¿è¡Œéžå¸¸ç¨³å®šä¸ä¼šæŠ¥é”™ã€‚
+ï¼ˆ2ï¼‰é«˜çº§åŒ…Advanced Packageï¼Œæ»¡è¶³è€é¸ŸæŠ˜è…¾çš„éœ€è¦ã€‚é«˜çº§åŒ…æ•´åˆzdm65477730å¤§ä½¬åšçš„ç»ˆæžç‰ˆteslaï¼ŒAK478BBå¤§ä½¬çš„AKå¤§æ°”å±‚æ•´åˆåŒ…çš„NROè½¯ä»¶ã€‚
 		
-¡¾Èý¡¢ÆæÀÖÈÚºÏ°üµÄÌØµã¡¿
-£¨1£©ÔÚBootloader/ÖÐ·Ö±ðÓÐÀÖÏíºÍÆæÏëµÄÆô¶¯ÉèÖÃ¡¢¿ª»úLOGO±¸·ÝÎÄ¼þ£¬ÇÐ»»ºÜÈÝÒ×¡£
-°ÑBOOT-QiXiang/ÖÐµÄhekate_ipl.iniºÍbootlogo.bmpÎÄ¼þ¸²¸Çµ½Bootloader/£¬ÖØÆô¿ª»ú¾ÍÊÇÆæÏëµÄÆô¶¯·½Ê½¡£
-°ÑBOOT-LeXiang/ÖÐµÄhekate_ipl.iniºÍbootlogo.bmpÎÄ¼þ¸²¸Çµ½Bootloader/£¬ÖØÆô¿ª»ú¾ÍÊÇÀÖÏíµÄÆô¶¯·½Ê½¡£
-°ÑBootlogo1»òBootlogo2ÖÐµÄbootlogo.bmpÎÄ¼þ¸²¸Çµ½Bootloader/£¬ÖØÆôÎ±×°Õý°æÖ÷»ú¡£
-ÀÖÏíµÄÆô¶¯·½Ê½ÊÇ±ê×¼µÄËÄÖÖ´óÆø²ãÆô¶¯·½Ê½£¬ÕæÊµÆÆ½âÏµÍ³Àï¿ÉÒÔ°²×°ÆÆ½âÓÎÏ·£¬µ«ÁªÍø»á±»BAN»ú¡£
-ÆæÏëµÄÆô¶¯·½Ê½ÊÇ×Ô¶¯Ñ¡Ôñ£¬ÕæÊµ°ëÆÆÏµÍ³ÊÇÖ¸ÔÚÕæÊµÏµÍ³ÖÐ¿ÉÒÔ¿ªÆô²å¼þºÍÈí¼þ£¬µ«²»ÄÜÍæÆÆ½âÓÎÏ·¡£
-£¨2£©ÆæÀÖ°ü´Ó1.4.1´¿¾»°üv3»ò¸ß¼¶°üv5¿ªÊ¼ÔÚ´óÆø²ãÕæÊµÏµÍ³ÐÂÔöÆôÓÃhosts±£»¤£¬É¾³ýsysmmc.txt¼´¿É½â³ý±£»¤£¬ÐéÄâÏµÍ³¼ÌÐøÑØÓÃÆôÓÃhostsºÍÒþ²ØÐòºÅµÄË«ÖØ±£»¤£¬Ö»ÓÐÑ¡Ôñ»úÉíÕý°æÏµÍ³²Å²»ÊÜÁªÍøÏÞÖÆ¡£
-ÒÔÏÂÊÇÁªÍø±£»¤´ëÊ©µÄ½â³ý·½·¨
-1£¬È¡ÏûÕæÊµÏµÍ³hosts±£»¤£¬É¾³ýatmosphere/hosts/sysmmc.txt¡£
-2£¬È¡ÏûÐéÄâÏµÍ³hosts±£»¤£¬É¾³ýatmosphere/hosts/emummc.txt¡£
-3£¬È¡ÏûÕæÊµÏµÍ³Òþ²ØÐòºÅ±£»¤£¬´ò¿ª¸ùÄ¿Â¼ÎÄ¼þexosphere.ini£¬ÐÞ¸ÄÎªblank_prodinfo_sysmmc=0²¢±£´æ¸ÃÎÄ¼þ¡£
-4£¬È¡ÏûÐéÄâÏµÍ³Òþ²ØÐòºÅ±£»¤£¬´ò¿ª¸ùÄ¿Â¼ÎÄ¼þexosphere.ini£¬ÐÞ¸ÄÎªblank_prodinfo_emummc=0²¢±£´æ¸ÃÎÄ¼þ¡£
-£¨3£©ÆæÀÖ°üÄ¬ÈÏHekateºº»¯×é¼þ£¬ÈçÐè»¹Ô­Ó¢ÎÄ°æ£¬¿ÉÔÚBootloader/sys/É¾ºº»¯µÄnyx.bin£¬°Ñnyx.bin.englishÖØÃüÃûnyx.binºóÖØÆô¿ª»ú¡£
-£¨4£©ÆæÀÖ°ü¸ùÄ¿Â¼ÓÐSxGearµÄBOOT.DATºÍHekate¸ÄÃûµÄPAYLOAD.BIN£¬ËùÒÔ²»¹ÜÈíÆÆÓ²ÆÆ»¹ÊÇOLED£¬Ô­×°»¹ÊÇ¹ú²úÐ¾Æ¬£¬TX×¢ÈëÆ÷»¹ÊÇ´óÆø²ã×¢ÈëÆ÷£¬¿ª»ú¶¼½øHekateÖ÷Ò³¡£
-£¨5£©ÆæÀÖ°üÀïµÄÖÕ¼«°æÌØË¹À­²å¼þÒÑÐÞ¸ÄÎªL+Ddown¿ªÆô²Ëµ¥£¬Ä¬ÈÏL+Ddown+RS£¬³ýteslaÍâ£¬ÆäÓà²å¼þÄ¬ÈÏ²»Æô¶¯£¬ËùÒÔ²å¼þ°æ±¾µÍÒ²²»»á¿¨ÏµÍ³£¬ÈçÐèÆô¶¯ÔÚÏà²áHekate/Deepsea¹¤¾ßÏäÀïÕÒBackground services£¬ÉèONÍê±Ï£¬È»ºó°´BÍË³ö£¬ÔÙ°´Home±£´æºóÖØÆô»úÆ÷¡£
-£¨6£©ÈçTeslaÖ÷½çÃæµÄ²å¼þÖÖÀàÌ«¶à£¬ÏëÒþ²Ø£¬¿ÉÒÔ½«tf£ºswitch/.overlays/£¬³ýÁËovlmenu.ovlÍâµÄÆäËüÄ³²å¼þµÄºó×º.ovlÐÞ¸Ä³É.ovl1¾ÍÒþ²ØÁË¸Ã²å¼þ£¬Èç¹ûÐèÒªÔÙ´ÎÏÔÊ¾£¬ÔÙ½«ºó×º.ovl1¸Ä»Ø.ovl¡£
-£¨7£©ÆæÀÖ°üÀïµÄNROÈí¼þ°´Â·¾¶´æ·Å£¬ËùÒÔÔÚÏà²áÀï²»»á³öÏÖ¿ÕÄ¿Â¼¡£¸ùÄ¿Â¼ÓÐÍòÄÜÇ°¶Ëhbmenu.nsp£¬ÈçÓÐ¾ÉµÄhbmenu²»ºÃÓÃ£¬¿ÉÒÔÉ¾³ýºóÖØÐÂ°²×°ÆæÀÖ°üÌá¹©µÄ£¬°²×°ºó¿ÉÔËÐÐNROÈí¼þ²»³öÏÖAPPLEÌáÊ¾£¬CheckpointÒ²¿ÉÒÔÕý³£Ê¹ÓÃ¡£
+ã€ä¸‰ã€å¥‡ä¹èžåˆåŒ…çš„ç‰¹ç‚¹ã€‘
+ï¼ˆ1ï¼‰åœ¨Bootloader/ä¸­åˆ†åˆ«æœ‰ä¹äº«å’Œå¥‡æƒ³çš„å¯åŠ¨è®¾ç½®ã€å¼€æœºLOGOå¤‡ä»½æ–‡ä»¶ï¼Œåˆ‡æ¢å¾ˆå®¹æ˜“ã€‚
+æŠŠBOOT-QiXiang/ä¸­çš„hekate_ipl.iniå’Œbootlogo.bmpæ–‡ä»¶è¦†ç›–åˆ°Bootloader/ï¼Œé‡å¯å¼€æœºå°±æ˜¯å¥‡æƒ³çš„å¯åŠ¨æ–¹å¼ã€‚
+æŠŠBOOT-LeXiang/ä¸­çš„hekate_ipl.iniå’Œbootlogo.bmpæ–‡ä»¶è¦†ç›–åˆ°Bootloader/ï¼Œé‡å¯å¼€æœºå°±æ˜¯ä¹äº«çš„å¯åŠ¨æ–¹å¼ã€‚
+æŠŠBootlogo1æˆ–Bootlogo2ä¸­çš„bootlogo.bmpæ–‡ä»¶è¦†ç›–åˆ°Bootloader/ï¼Œé‡å¯ä¼ªè£…æ­£ç‰ˆä¸»æœºã€‚
+ä¹äº«çš„å¯åŠ¨æ–¹å¼æ˜¯æ ‡å‡†çš„å››ç§å¤§æ°”å±‚å¯åŠ¨æ–¹å¼ï¼ŒçœŸå®žç ´è§£ç³»ç»Ÿé‡Œå¯ä»¥å®‰è£…ç ´è§£æ¸¸æˆï¼Œä½†è”ç½‘ä¼šè¢«BANæœºã€‚
+å¥‡æƒ³çš„å¯åŠ¨æ–¹å¼æ˜¯è‡ªåŠ¨é€‰æ‹©ï¼ŒçœŸå®žåŠç ´ç³»ç»Ÿæ˜¯æŒ‡åœ¨çœŸå®žç³»ç»Ÿä¸­å¯ä»¥å¼€å¯æ’ä»¶å’Œè½¯ä»¶ï¼Œä½†ä¸èƒ½çŽ©ç ´è§£æ¸¸æˆã€‚
+ï¼ˆ2ï¼‰å¥‡ä¹åŒ…ä»Ž1.4.1çº¯å‡€åŒ…v3æˆ–é«˜çº§åŒ…v5å¼€å§‹åœ¨å¤§æ°”å±‚çœŸå®žç³»ç»Ÿæ–°å¢žå¯ç”¨hostsä¿æŠ¤ï¼Œåˆ é™¤sysmmc.txtå³å¯è§£é™¤ä¿æŠ¤ï¼Œè™šæ‹Ÿç³»ç»Ÿç»§ç»­æ²¿ç”¨å¯ç”¨hostså’Œéšè—åºå·çš„åŒé‡ä¿æŠ¤ï¼Œåªæœ‰é€‰æ‹©æœºèº«æ­£ç‰ˆç³»ç»Ÿæ‰ä¸å—è”ç½‘é™åˆ¶ã€‚
+ä»¥ä¸‹æ˜¯è”ç½‘ä¿æŠ¤æŽªæ–½çš„è§£é™¤æ–¹æ³•
+1ï¼Œå–æ¶ˆçœŸå®žç³»ç»Ÿhostsä¿æŠ¤ï¼Œåˆ é™¤atmosphere/hosts/sysmmc.txtã€‚
+2ï¼Œå–æ¶ˆè™šæ‹Ÿç³»ç»Ÿhostsä¿æŠ¤ï¼Œåˆ é™¤atmosphere/hosts/emummc.txtã€‚
+3ï¼Œå–æ¶ˆçœŸå®žç³»ç»Ÿéšè—åºå·ä¿æŠ¤ï¼Œæ‰“å¼€æ ¹ç›®å½•æ–‡ä»¶exosphere.iniï¼Œä¿®æ”¹ä¸ºblank_prodinfo_sysmmc=0å¹¶ä¿å­˜è¯¥æ–‡ä»¶ã€‚
+4ï¼Œå–æ¶ˆè™šæ‹Ÿç³»ç»Ÿéšè—åºå·ä¿æŠ¤ï¼Œæ‰“å¼€æ ¹ç›®å½•æ–‡ä»¶exosphere.iniï¼Œä¿®æ”¹ä¸ºblank_prodinfo_emummc=0å¹¶ä¿å­˜è¯¥æ–‡ä»¶ã€‚
+ï¼ˆ3ï¼‰å¥‡ä¹åŒ…é»˜è®¤Hekateæ±‰åŒ–ç»„ä»¶ï¼Œå¦‚éœ€è¿˜åŽŸè‹±æ–‡ç‰ˆï¼Œå¯åœ¨Bootloader/sys/åˆ æ±‰åŒ–çš„nyx.binï¼ŒæŠŠnyx.bin.englishé‡å‘½ånyx.binåŽé‡å¯å¼€æœºã€‚
+ï¼ˆ4ï¼‰å¥‡ä¹åŒ…æ ¹ç›®å½•æœ‰SxGearçš„BOOT.DATå’ŒHekateæ”¹åçš„PAYLOAD.BINï¼Œæ‰€ä»¥ä¸ç®¡è½¯ç ´ç¡¬ç ´è¿˜æ˜¯OLEDï¼ŒåŽŸè£…è¿˜æ˜¯å›½äº§èŠ¯ç‰‡ï¼ŒTXæ³¨å…¥å™¨è¿˜æ˜¯å¤§æ°”å±‚æ³¨å…¥å™¨ï¼Œå¼€æœºéƒ½è¿›Hekateä¸»é¡µã€‚
+ï¼ˆ5ï¼‰å¥‡ä¹åŒ…é‡Œçš„ç»ˆæžç‰ˆç‰¹æ–¯æ‹‰æ’ä»¶å·²ä¿®æ”¹ä¸ºL+Ddownå¼€å¯èœå•ï¼Œé»˜è®¤L+Ddown+RSï¼Œé™¤teslaå¤–ï¼Œå…¶ä½™æ’ä»¶é»˜è®¤ä¸å¯åŠ¨ï¼Œæ‰€ä»¥æ’ä»¶ç‰ˆæœ¬ä½Žä¹Ÿä¸ä¼šå¡ç³»ç»Ÿï¼Œå¦‚éœ€å¯åŠ¨åœ¨ç›¸å†ŒHekate/Deepseaå·¥å…·ç®±é‡Œæ‰¾Background servicesï¼Œè®¾ONå®Œæ¯•ï¼Œç„¶åŽæŒ‰Bé€€å‡ºï¼Œå†æŒ‰Homeä¿å­˜åŽé‡å¯æœºå™¨ã€‚
+ï¼ˆ6ï¼‰å¦‚Teslaä¸»ç•Œé¢çš„æ’ä»¶ç§ç±»å¤ªå¤šï¼Œæƒ³éšè—ï¼Œå¯ä»¥å°†tfï¼šswitch/.overlays/ï¼Œé™¤äº†ovlmenu.ovlå¤–çš„å…¶å®ƒæŸæ’ä»¶çš„åŽç¼€.ovlä¿®æ”¹æˆ.ovl1å°±éšè—äº†è¯¥æ’ä»¶ï¼Œå¦‚æžœéœ€è¦å†æ¬¡æ˜¾ç¤ºï¼Œå†å°†åŽç¼€.ovl1æ”¹å›ž.ovlã€‚
+ï¼ˆ7ï¼‰å¥‡ä¹åŒ…é‡Œçš„NROè½¯ä»¶æŒ‰è·¯å¾„å­˜æ”¾ï¼Œæ‰€ä»¥åœ¨ç›¸å†Œé‡Œä¸ä¼šå‡ºçŽ°ç©ºç›®å½•ã€‚æ ¹ç›®å½•æœ‰ä¸‡èƒ½å‰ç«¯hbmenu.nspï¼Œå¦‚æœ‰æ—§çš„hbmenuä¸å¥½ç”¨ï¼Œå¯ä»¥åˆ é™¤åŽé‡æ–°å®‰è£…å¥‡ä¹åŒ…æä¾›çš„ï¼Œå®‰è£…åŽå¯è¿è¡ŒNROè½¯ä»¶ä¸å‡ºçŽ°APPLEæç¤ºï¼ŒCheckpointä¹Ÿå¯ä»¥æ­£å¸¸ä½¿ç”¨ã€‚
 
-¡¾ËÄ¡¢ÆæÀÖÈÚºÏ°üµÄÆô¶¯¡¿
-Æô¶¯½øHekate£¬µãLaunchÆô¶¯
-ÀÖÏí´óÆø²ãµÄÆô¶¯·½Ê½ÊÇ
-ATM-Auto£º×Ô¶¯Ñ¡ÔñÕæÊµ»òÐéÄâÏµÍ³£¨Ô­°æFUSEEÒýµ¼£©
-ATM-EMU£ºÐéÄâÏµÍ³£¨HekateµÄFss0Òýµ¼£©
-OFW-SYS£ºÕæÊµÕý°æÏµÍ³£¨HekateµÄFss0Òýµ¼£©
-ATM-SYS£ºÕæÊµÆÆ½âÏµÍ³£¨HekateµÄFss0Òýµ¼£©
-ÆæÏë´óÆø²ãµÄÆô¶¯·½Ê½ÊÇ
-ATM-AUTO-Fusee£º×Ô¶¯Ñ¡ÔñÕæÊµ»òÐéÄâÏµÍ³£¨Ô­°æFUSEEÒýµ¼£©
-ATM-AUTO-Fss0£º×Ô¶¯Ñ¡ÔñÕæÊµ»òÐéÄâÏµÍ³£¨HekateµÄFss0Òýµ¼£©
-ATM-SYSNAND£º»úÉí°ëÆÆÏµÍ³£¨ÊÇÕæÊµÏµÍ³°ëÆÆ×´Ì¬£¬HekateµÄFss0Òýµ¼£©
-µãmore configs¸ü¶àÅäÖÃ
-Lakka£ºlakkaÄ£ÄâÆ÷ÏµÍ³£¬ÐèÒªÁí¸´ÖÆ
-CommonProblemResolver£ºÆô¶¯´íÎóÐÞ¸´£¬¿ÉÉ¾²å¼þÆô¶¯ºÍÖ÷Ìâ
-Lockpick_RCM£ºÌáÈ¡Ö÷»úÃÜÔ¿prod.keys
-TegraExplorer£ºÏµÍ³ÎÄ¼þ¹ÜÀí£¬ÐÞ¸´ÏµÍ³ÎÄ¼þ
-Lakka-l4t£ºÊÇÐÂµÄlakkaÄ£ÄâÆ÷£¬¼æÈÝmariko/oled£¬Ä¿Ç°ÐÂlakkaÖ»ÄÜÖ§³Öfat32¸ñÊ½µÄsd¿¨
-ubuntu-l4t£ºÊÇÐÂµÄubuntuÏµÍ³£¬¼æÈÝmariko/oled£¬Ä¿Ç°ÐÂubuntuÖ»ÄÜÖ§³Öfat32¸ñÊ½µÄsd¿¨
+ã€å››ã€å¥‡ä¹èžåˆåŒ…çš„å¯åŠ¨ã€‘
+å¯åŠ¨è¿›Hekateï¼Œç‚¹Launchå¯åŠ¨
+ä¹äº«å¤§æ°”å±‚çš„å¯åŠ¨æ–¹å¼æ˜¯
+ATM-Autoï¼šè‡ªåŠ¨é€‰æ‹©çœŸå®žæˆ–è™šæ‹Ÿç³»ç»Ÿï¼ˆåŽŸç‰ˆFUSEEå¼•å¯¼ï¼‰
+ATM-EMUï¼šè™šæ‹Ÿç³»ç»Ÿï¼ˆHekateçš„Fss0å¼•å¯¼ï¼‰
+OFW-SYSï¼šçœŸå®žæ­£ç‰ˆç³»ç»Ÿï¼ˆHekateçš„Fss0å¼•å¯¼ï¼‰
+ATM-SYSï¼šçœŸå®žç ´è§£ç³»ç»Ÿï¼ˆHekateçš„Fss0å¼•å¯¼ï¼‰
+å¥‡æƒ³å¤§æ°”å±‚çš„å¯åŠ¨æ–¹å¼æ˜¯
+ATM-AUTO-Fuseeï¼šè‡ªåŠ¨é€‰æ‹©çœŸå®žæˆ–è™šæ‹Ÿç³»ç»Ÿï¼ˆåŽŸç‰ˆFUSEEå¼•å¯¼ï¼‰
+ATM-AUTO-Fss0ï¼šè‡ªåŠ¨é€‰æ‹©çœŸå®žæˆ–è™šæ‹Ÿç³»ç»Ÿï¼ˆHekateçš„Fss0å¼•å¯¼ï¼‰
+ATM-SYSNANDï¼šæœºèº«åŠç ´ç³»ç»Ÿï¼ˆæ˜¯çœŸå®žç³»ç»ŸåŠç ´çŠ¶æ€ï¼ŒHekateçš„Fss0å¼•å¯¼ï¼‰
+ç‚¹more configsæ›´å¤šé…ç½®
+Lakkaï¼šlakkaæ¨¡æ‹Ÿå™¨ç³»ç»Ÿï¼Œéœ€è¦å¦å¤åˆ¶
+CommonProblemResolverï¼šå¯åŠ¨é”™è¯¯ä¿®å¤ï¼Œå¯åˆ æ’ä»¶å¯åŠ¨å’Œä¸»é¢˜
+Lockpick_RCMï¼šæå–ä¸»æœºå¯†é’¥prod.keys
+TegraExplorerï¼šç³»ç»Ÿæ–‡ä»¶ç®¡ç†ï¼Œä¿®å¤ç³»ç»Ÿæ–‡ä»¶
+Lakka-l4tï¼šæ˜¯æ–°çš„lakkaæ¨¡æ‹Ÿå™¨ï¼Œå…¼å®¹mariko/oledï¼Œç›®å‰æ–°lakkaåªèƒ½æ”¯æŒfat32æ ¼å¼çš„sdå¡
+ubuntu-l4tï¼šæ˜¯æ–°çš„ubuntuç³»ç»Ÿï¼Œå…¼å®¹mariko/oledï¼Œç›®å‰æ–°ubuntuåªèƒ½æ”¯æŒfat32æ ¼å¼çš„sdå¡
 
-¡¾Îå¡¢Éý¼¶´óÆø²ãÎÄ¼þ¡¿
-£¨1£©Èç¹ûÖ®Ç°ÓÃÆæÀÖÈÚºÏ´óÆø²ãÆÆ½â°ü1.5.1¸ß¼¶°üv2¼°ÒÔºóµÄ£¬¿É¸²¸Çµ½TF¿¨Íê³ÉÉý¼¶¡£
-£¨2£©Èç¹û¶îÍâÌí¼Ó¹ýÆäËü²å¼þ£¬¿ÉÒÔÉ¾³ýTF¿¨ÉÏ¾ÉµÄatmosphere/contents£¬config/£¬saltysd/ºÍswitch/.overlaysËÄ¸öÎÄ¼þ¼Ðºó¸²¸ÇÉÏÈ¥¡£
-£¨3£©Èç¹ûÖ®Ç°ÓÃ±ðÈËµÄ´óÆø²ãÆÆ½â°ü£¬Ò²¿ÉÒÔTF¿¨±£Áônintendo£¬emummc£¬jksvºÍswitch/checkpoint/savesËÄ¸öÎÄ¼þ¼Ð£¬É¾³ýÆäÓàµÄÖ®ºóÔÙ½«Ñ¹Ëõ°üÖÐµÄÎÄ¼þÈ«Ñ¡¸´ÖÆµ½TF¿¨¸²¸Ç¡£
+ã€äº”ã€å‡çº§å¤§æ°”å±‚æ–‡ä»¶ã€‘
+ï¼ˆ1ï¼‰å¦‚æžœä¹‹å‰ç”¨å¥‡ä¹èžåˆå¤§æ°”å±‚ç ´è§£åŒ…1.5.1é«˜çº§åŒ…v2åŠä»¥åŽçš„ï¼Œå¯è¦†ç›–åˆ°TFå¡å®Œæˆå‡çº§ã€‚
+ï¼ˆ2ï¼‰å¦‚æžœé¢å¤–æ·»åŠ è¿‡å…¶å®ƒæ’ä»¶ï¼Œå¯ä»¥åˆ é™¤TFå¡ä¸Šæ—§çš„atmosphere/contentsï¼Œconfig/ï¼Œsaltysd/å’Œswitch/.overlayså››ä¸ªæ–‡ä»¶å¤¹åŽè¦†ç›–ä¸ŠåŽ»ã€‚
+ï¼ˆ3ï¼‰å¦‚æžœä¹‹å‰ç”¨åˆ«äººçš„å¤§æ°”å±‚ç ´è§£åŒ…ï¼Œä¹Ÿå¯ä»¥TFå¡ä¿ç•™nintendoï¼Œemummcï¼Œjksvå’Œswitch/checkpoint/saveså››ä¸ªæ–‡ä»¶å¤¹ï¼Œåˆ é™¤å…¶ä½™çš„ä¹‹åŽå†å°†åŽ‹ç¼©åŒ…ä¸­çš„æ–‡ä»¶å…¨é€‰å¤åˆ¶åˆ°TFå¡è¦†ç›–ã€‚
 
-¡¾Áù¡¢¸üÐÂÈÕÖ¾¡¿
-2022.10.7£¬´óÆø²ã1.3.2¸ß¼¶°üv2¸üÐÂmission control 0.7.1ºÍaio-switch-updater.nro 2.20.1
-2022.10.13£¬´óÆø²ã1.4.0-pre´¿¾»°üºÍ±ê×¼°üv1¸üÐÂatmosphere1.4.0-pre£¬hekate5.9.0ºÍsigpatch£¬¸ß¼¶°üÖÐµÄÈí¼þºÍ²å¼þÐèÒªµÈ¸üÐÂ¡£
-2022.10.14£¬´¿¾»°ü¸üÐÂv2£¬ÐÞ¸´´íÎóÇ©Ãû²¹¶¡£¬Ìí¼ÓLockpick£¬¸ß¼¶°üÖÐµÄÈí¼þºÍ²å¼þÔÝ²»¸üÐÂ£¬µÈ²å¼þÈí¼þÉý¼¶£¬ÆæÀÖÈÚºÏ1.4.0´¿¾»°üv2¿ÉÒÔÖ±½Ó¸²¸Çµ½1.3.2µÄ±ê×¼°üºÍ¸ß¼¶°üÍê³ÉÄÚºË¸üÐÂ¡£
-2022.10.15£¬·¢²¼1.4.0-pre±ê×¼°üv1ºÍ¸ß¼¶°üv1£¬ÕâÁ½¸öv1°ü¶¼ÊÇÔÚ1.4.0-pre´¿¾»°üv2»ù´¡ÉÏ¶¼¸üÐÂ²å¼þÈí¼þ£¬ÒÑ¸üÐÂovledizon£¬missioncontrol£¬dbi£¬tinfoil£¬Ö§³Ö15.0.0ÏµÍ³¡£
-2022.10.17£¬´óÆø²ã1.4.0pre¸üÐÂfusee.bin£¬¿ÉÒÔ×Ô¶¯Ñ¡ÔñÐéÄâÏµÍ³15.0.0£¬¸ß¼¶°ü¸üÐÂldn_mitm²å¼þ£¬ÎªÍ³Ò»°æ±¾ºÅ£¬ÆæÀÖÈÚºÏ´óÆø²ã1.4.0pre´¿¾»°ü£¬±ê×¼°üºÍ¸ß¼¶°üÍ³Ò»Îªv3¡£
-2022.10.19£¬´óÆø²ã¸üÐÂ1.4.0ÕýÊ½°æ£¬Ê¹ÓÃAK478BB´óÀÐ×öµÄÈý¼þÌ×Éý¼¶°ü£¬ÒÑ¾­¼ì²éÇ©Ãû²¹¶¡SigpatchÕý³££¬¿ÉÒÔ¸²¸ÇÉý¼¶£¬ÆæÀÖÈÚºÏ´óÆø²ã1.4.0´¿¾»°ü£¬±ê×¼°üºÍ¸ß¼¶°üÍ³Ò»Éý¼¶Îªv4¡£
-2022.10.26£¬´óÆø²ã1.4.0ÆÆ½â°üÍ³Ò»Éý¼¶Îªv5£¬ÐÞ¸Äsystem_settings.ini¿ÉÒÔÍæ×îÖÕ»ÃÏë8²»³ö´í£¬¸üÐÂldn_mitm¡¢dbi436¡¢ovledizonµÈ²å¼þÈí¼þ¡£
-2022.11.5£¬1.4.0±ê×¼°üºÍ¸ß¼¶°üÉý¼¶Îªv6£¬¸üÐÂdbi439£¬missioncontrol£¬aio-switch-updaterµÈ²å¼þÈí¼þ¡£
-2022.12.24£¬´óÆø²ã1.4.0ÆÆ½â°üÉý¼¶Îªv7²¢ÒÔ¸ß¼¶°üµÄ·½Ê½·¢²¼£¬Ä¬ÈÏÎ±×°¿ª»úÍ¼£¬²»ÔÙ·¢²¼´¿¾»°üºÍ±ê×¼°ü£¬¸üÐÂHekate6.0.1£¬¸üÐÂdbi462µÈ²å¼þÈí¼þ¡£
-2023.1.16£¬´óÆø²ã1.4.0ÆÆ½â°üÉý¼¶Îªv8£¬¸üÐÂdbi467£¬ÐÂ¼Ótencent-switcher-gui£¬linkalho£¬Calculator_NX£¬switch-time£¬wiliwiliµÈÏà²áÈí¼þ¡£
-2023.1.20£¬´óÆø²ã1.4.0ÆÆ½â°üÉý¼¶Îªv9£¬¸üÐÂdbi475
-2023.1.22£¬´óÆø²ã1.4.0ÆÆ½â°üÉý¼¶Îªv10£¬¸üÐÂwiliwili0.6.0
-2023.1.25£¬´óÆø²ã1.4.1ÆÆ½â°üv1·¢²¼
-2023.1.27£¬´óÆø²ã1.4.1ÆÆ½â°üÉý¼¶Îªv2£¬¸üÐÂdbi479£¬ÓÃHekate¹¤¾ßÏäÖØÃüÃûÌæ»»Deepsea¹¤¾ßÏä£¬Ö§³ÖÐøº½ºÍLiteÖØÆô£¬ÐÂ¼ÓÈÛµã17µÄwarmboot_mariko²¹¶¡¡£
-2023.1.28£¬´óÆø²ã1.4.1ÆÆ½â°üÉý¼¶v3£¬Õâ´ÎÊ¹ÓÃnro-asset-editor-256±à¼­NROÈí¼þ£¬È«²¿¼ÓÁËÖÐÎÄËµÃ÷£¬³ýÁËHekate¹¤¾ßÏä£¬ÆäËüNROÈí¼þµÄapp name²»±ä£¬²»Ó°ÏìÅÅÐò¡£
-2023.1.30£¬´óÆø²ã1.4.1´¿¾»°üÉý¼¶v2£¬¸ß¼¶°üÉý¼¶v4£¬¸üÐÂµÚ¶þ°æ´óÆø²ã1.4.1master-7a69f2f06£¬²»ÊÇÖ®Ç°ÓÐbugµÄ1.4.1master-32b590e7a£¬ÐÞ¸´¹Ø±ÕWebAppletsÊ±µÄ±¼À£¡£½¨ÒéËùÓÐÉý¼¶1.4.1´óÆø²ãµÄ¶¼Éý¼¶µ½1.4.1master-7a69f2f06
-2023.2.9£¬´óÆø²ã1.4.1´¿¾»°üÉý¼¶v3£¬¸ß¼¶°üÉý¼¶v5£¬ÆæÀÖ°ü´Ó1.4.1´¿¾»°üv3»ò¸ß¼¶°üv5¿ªÊ¼ÔÚ´óÆø²ãÕæÊµÏµÍ³ÐÂÔöÆôÓÃhosts±£»¤£¬É¾³ýsysmmc.txt¼´¿É½â³ý±£»¤£¬ÐéÄâÏµÍ³¼ÌÐøÑØÓÃÆôÓÃhostsºÍÒþ²ØÐòºÅµÄË«ÖØ±£»¤£¬Ö»ÓÐÑ¡Ôñ»úÉíÕý°æÏµÍ³²Å²»ÊÜÁªÍøÏÞÖÆ¡£¸ß¼¶°üv5¸üÐÂDBI480£¬°²×°ËÙ¶È¸ßÓÚDBI482£¬v5µÄÌØË¹À­²¿·Ö²å¼þÉý¼¶Ìæ»»ÁËzdm65477730µÄÖÕ¼«°æÌØË¹À­²å¼þ£¬Ìæ»»²å¼þµÄÃû³ÆÊÇnx-ovlloader£¬ovlmenu£¬ovlSysmodules£¬ovlEdiZon£¬Status-Monitor-Overlay£¬sys-clkºÍReverseNX¡£ÆäÓà²¿·Ö²å¼þ²»±ä£¬ÓÐÐèÒª¸ü»»»òÐÂ¼ÓÖÕ¼«°æ²å¼þ£¬Çë×ÔÐÐÇ°Íùhttps://www.tekqart.com ¹¤¾ßÇøÏÂÔØÔö¼Ó¡£ÆæÀÖ1.4.1´¿¾»°üv3£¬¸ß¼¶°üv5¶¼¿ÉÒÔÔÚÆæÀÖ1.4.0/1.4.1¾ÉµÄÆÆ½â°üÉÏ¸²¸ÇÉý¼¶¡£
-2023.2.24£¬´óÆø²ã1.5.0´¿¾»°üv1£¬¸ß¼¶°üv1·¢²¼£¬¸üÐÂ´óÆø²ã1.5.0-preºÍHekate6.0.2ºº»¯£¬Tesla¼æÈÝ16.0.0¡£
-2023.2.25£¬´óÆø²ã¸ß¼¶°üÉý¼¶v2£¬Tesla²å¼þ´óÀÐzdm65477730ÐÂ·¢²¼£¬¼æÈÝ16.0.0£¬¸üÐÂmissioncontrol£¬emuiiboµÈ²å¼þ£¬¸üÐÂtinfoil£¬JKSVµÈ¼æÈÝ16.0.0µÄNROÈí¼þ¡£
-2023.2.26£¬´óÆø²ã¸ß¼¶°üÉý¼¶v3£¬²¹³ä501¶íÎÄµÄdbi_ru.nro¾È¼±£¬Ö§³Ö16.0.0ÏµÍ³£¬²»ÐèÒª½µ¼¶ÏµÍ³°²×°ÓÎÏ·ÁË£¬Í¬Ê±±£ÁôDBI493Ó¢ÎÄ°æ£¬Á½¸öDBI¹²´æ£¬DBI493Ò²¿ÉÒÔÔÚ16.0.0ÏµÍ³´ò¿ª£¬µ«²»ÄÜ°²×°ÓÎÏ·¡£Á½¸öDBI¹²´æ£º°ÑDBI_ru.nro¸´ÖÆµ½Switch/»òÐÂ½¨Ò»¸öÎÄ¼þ¼Ð£¬²»ÄÜºÍDBI.nro·ÅÔÚÍ¬Ò»¸öÎÄ¼þ¼ÐÄÚ¡£µÈÍêÃÀ16.0.0µÄDBIÓ¢ÎÄ°æ·¢²¼ºó¸²¸ÇSwitch/DBI/DBI.NRO£¬Õâ¸ödbi_ru.nro¿ÉÒÔÉ¾³ý¡£
-2023.3.1£¬´óÆø²ã¸ß¼¶°üÉý¼¶v4£¬¸üÐÂÐÞ¸´µÄemuiibo£¬Status-Monitor-Overlay£¬ReverseNX²å¼þ£¬¸üÐÂDBI506¡£
-2023.3.4£¬´óÆø²ã¸ß¼¶°üÉý¼¶v5£¬¸üÐÂ×îÐÂStatus-Monitor-Overlay£¬ReverseNX²å¼þ¡£
-2023.3.6£¬´óÆø²ã¸ß¼¶°üÉý¼¶v6£¬ÆäÊµºÍv5Ò»Ñù£¬Ö»ÐÞ¸´Emuiibo²å¼þ´íÎó£¬Òòemuiibo²å¼þÐèÒªtf£ºemuiibo/Miis/ÎÄ¼þ¼Ð²Å¿ÉÒÔÆô¶¯£¬¿ÕÄ¿Â¼Ò²¿ÉÒÔ£¬µ«ÊÇÃû³Æ±ØÐëÊÇMiis£¬²»ÄÜÊÇmiis£¬ÎÄ¼þ¼ÐÃû³ÆÊ××ÖÄ¸²»ÄÜÊÇÐ¡Ð´m£¬ºÜÆæÝâµÄÉè¶¨¡£ËùÒÔÈç¹ûÊÇ1.5.0¸ß¼¶°üv5ÍêÈ«¿ÉÒÔ²»Éý¼¶£¬É¾emuiibo/miis£¬È»ºóÐÂ½¨emuiibo/Miis¾ÍµÈÓÚÐÞ¸´emuiibo´íÎó¡£
-2023.3.12£¬´óÆø²ã¸ß¼¶°üÉý¼¶v7£¬¸üÐÂgoldleaf-0.10.1£¬DBI513£¬NX-Activity-Log£¬ReverseNX£¬emuiibo£¬ÐÂÌí¼Ófastcfwswitch
-2023.3.14£¬´óÆø²ã1.5.1´¿¾»°üv1£¬¸ß¼¶°üv1·¢²¼£¬¸üÐÂ1.5.1-master-8274081e3£¨ak´óÀÐµÄÈý¼þÌ×Éý¼¶£©£¬¸üÐÂemuiiboºÍreversenx²å¼þ£¨zdm´óÀÐµÄÌØË¹À­ÖÕ¼«°æ£©
-2023.3.19£¬´óÆø²ã´¿¾»°ü¡¢¸ß¼¶°üÉý¼¶v2£¬´¿¾»°üÏµÍ³ÅäÖÃsystem_settings.iniÖÐÐÂ¼Ó´óÆø²ã1.5.1µÄÀ¶ÑÀÅä¶Ôenable_external_bluetooth_db = u8!0x1£¬´¿¾»°üÐÂ¼ÓÈëdbi¡¢jksvºÍedizon-se£¬ÆäËü²å¼þÈí¼þÈ«²¿ÔÚ¸ß¼¶°üÀï£¬´¿¾»°ü´Ó´Ë¿ÉÒÔºÜÎÈ¶¨µÄ°²×°ºÍÍæÐÂµÄÓÎÏ·£¬ÎÞ³ö´íµÄ·³ÄÕ¡£¶øÇÒÒÔºóÉý¼¶µÄ»°£¬´¿¾»°üÖ±½Ó¸²¸ÇÉý¼¶¾Í¿ÉÒÔÁË¡£¸ß¼¶°üÉý¼¶zdm´óÀÐµÄÌØË¹À­ÖÕ¼«°æ2023.3.18¸üÐÂ¡£ÒòÎªÕâ´ÎµÄZ´óÌØË¹À­²å¼þ±àÒëÃû³Æ±ä¸ü£¬´Ë´Î¸ß¼¶°üµÄ¸üÐÂ²»¿ÉÒÔÖ±½Ó¸²¸ÇÉý¼¶£¬±ØÐëÉ¾³ýTF¿¨ÉÏtf£ºatmosphere/contents/¡¢tf£ºswitch/.overlays/ºÍtf£ºconfig/ÕâÈý¸ö¾ÉµÄÎÄ¼þ¼ÐºóÔÙ¸²¸ÇÉý¼¶¡£
-2023.3.21£¬´óÆø²ã1.5.1¸ß¼¶°üÉý¼¶v3£¬¸üÐÂÁËTesla-Menu£¬ReverseNX-RTºÍsys-clk£¬ÓÅ»¯ÏµÍ³ÄÚ´æÊ¹ÓÃ£¬¿ÉÒÔ¸²¸Çµ½1.5.1¸ß¼¶°üv2Éý¼¶¡£
-2023.4.1£¬´óÆø²ã1.5.1´¿¾»°üÉý¼¶v3£¬¸ß¼¶°üÉý¼¶v4£¬¸üÐÂÁËTesla-Menu£¬emuiibo£¬ReverseNX-RT£¬ÓÅ»¯ÏµÍ³ÄÚ´æÊ¹ÓÃ£¬¸üÐÂdbi527£¨4ÔÂ1ÈÕÓÐ·­×ª×ÖÌå²Êµ°£¬ÐÞ¸ÄÏµÍ³ÈÕÆÚÊ§Ð§£©£¬¸üÐÂhaku33.nro-v5.3,appstore.nro-v2.3.2£¬¸üÐÂOLED¿ÉÓÃµÄhwfly_toolbox.binºÍCommonProblemResolver.bin£¬
-2023.4.2£¬´óÆø²ã1.5.1¸ß¼¶°üÉý¼¶v5£¬¸üÐÂÁËÈ«Ì×Tesla²å¼þ£¬¸ü¼ÓµÄÎÈ¶¨£¬¸üÐÂhaku33.nro-v5.4
-2023.4.3£¬´óÆø²ã1.5.1´¿¾»°üÉý¼¶v4£¬¼Ólakka-l4tºÍubuntu-l4tÆô¶¯Ïî£¬¸ß¼¶°üÉý¼¶v6£¬¸üÐÂZ´ó2023.4.3µÄÈ«Ì×ÌØË¹À­²å¼þ£¬±íÊ¾´óÆø²ã×÷ÕßÌá¹©·½·¨£¬³¹µ×½â¾öµ××ùÄ£Ê½¿ªÌØË¹À­ËÀ»úµÄBUG
-2023.4.7£¬´óÆø²ã1.5.1´¿¾»°üÉý¼¶v5£¬¸ß¼¶°üÉý¼¶v7£¬¸üÐÂHekate6.0.3ºº»¯°æ¡£
-2023.4.8£¬´óÆø²ã1.5.1´¿¾»°üÉý¼¶v6£¬¸ß¼¶°üÉý¼¶v8£¬¸üÐÂZ´óºº»¯Hekate6.0.3£¨nyx.binÍêÈ«ºº»¯£©£¬DBI542£¬¸üÐÂZ´óÌØË¹À­ÖÕ¼«°æReverseNX-RT£¬NX-FPS.elf¡£
-2023.4.12£¬´óÆø²ã1.5.1¸ß¼¶°üÉý¼¶v9£¬¸üÐÂAtmoXL-Titel-Installer.nro-v1.7.3£¬Goldleaf.nro-v0.10.1¡£
-2023.4.17£¬´óÆø²ã1.5.1¸ß¼¶°üÉý¼¶v10£¬¸üÐÂFirmware-Dumper.nro£¬haku33-v5.5£¬¸üÐÂZ´óÈ«Ì×ÌØË¹À­ÖÕ¼«°æ²å¼þ
-2023.4.18£¬´óÆø²ã1.5.2´¿¾»°üv1£¬¸ß¼¶°üv1·¢²¼£¬¸üÐÂatmosphere-1.5.2-master-434c8cefc£¨ak´óÀÐµÄÈý¼þÌ×Éý¼¶£©¡£¿ÉÒÔ¸²¸Çµ½1.5.1¸ß¼¶°üv2¼°ÒÔºóµÄ¸ß¼¶°üÍê³ÉÉý¼¶¡£
-2023.4.21£¬´óÆø²ã1.5.2¸ß¼¶°üÉý¼¶v2£¬¸üÐÂovledizon.ovl£¬missioncontrol-v0.9.1£¬tinfoil-16.0v2£¬É¾³ýËùÓÐtf£ºswitch/.overlays/lang/ÖÐµÄen.jsonÓïÑÔ°üÎÄ¼þ£¬´Ë´Î¸üÐÂÈç¹ûÊÇ1.5.1¸ß¼¶°üv2¼°ÒÔºóµÄ¸ß¼¶°ü»ù´¡ÉÏ£¬ÇëÉ¾³ýtf£ºswitch/.overlays/lang/µÄ¾ÉµÄÎÄ¼þ¼ÐÔÙ¸²¸Ç¡£
-2023.4.25£¬´óÆø²ã1.5.2¸ß¼¶°üÉý¼¶v3£¬¸üÐÂZ´óÖÕ¼«°ætesla²å¼þ£¬missioncontrol-v0.9.1fix£¬¸üÐÂDBI551¡£
-2023.5.4£¬´óÆø²ã1.5.2¸ß¼¶°üÉý¼¶v4£¬¸üÐÂmissioncontrol-v0.9.2£¬aio-switch-updater.nro-v2.21.4£¬Wiliwili-v1.0.1£¬ÐÂ¼ÓAwooinstaller-v1.4.1¡£
-2023.5.8£¬´óÆø²ã1.5.2¸ß¼¶°üÉý¼¶v5£¬¸üÐÂZ´óµÄÈ«Ì×Tesla-libnx v4.4.0¡£
-2023.5.10£¬´óÆø²ã1.5.3´¿¾»°üv1ºÍ¸ß¼¶°üv1·¢²¼£¬×î¸ßÖ§³ÖSW16.0.3ÏµÍ³£¬¸üÐÂatmosphere-1.5.3-master-85c23b578ºÍhekate_ctcaer_6.0.4_Nyx_1.5.3£¨ak´óÀÐµÄÈý¼þÌ×Éý¼¶£©£¬Z´óµÄÈ«Ì×Tesla-libnx v4.4.1¡£
-2023.5.13£¬´óÆø²ã1.5.3´¿¾»°üv2ºÍ¸ß¼¶°üv2·¢²¼£¬¸üÐÂdbi563£¬µ÷Õûreboot_to_payload.nroÍ¼±ê¡£
-2023.5.15£¬´óÆø²ã1.5.4´¿¾»°üv1ºÍ¸ß¼¶°üv1·¢²¼£¬¸üÐÂ´óÆø²ã1.5.4-prerelease-3cb54e2b4£¨ak´óÀÐµÄÈý¼þÌ×Éý¼¶£©¡£
-2023.5.28£¬´óÆø²ã1.5.4´¿¾»°üºÍ¸ß¼¶°ü¸üÐÂv2£¬¸üÐÂDBI--v576£¬aio-switch-updater--v2.22.0£¬NX-Activity-Log.nro--v1.5.0£¬TeslaÒÔZ´óµÄ2023.5.8±àÒëµÄ×é¼þ±È½ÏÎÈ¶¨£¬Ò²²»³öÏÖsaltynx²å¼þ¶þ´ÎÆô¶¯ÓÎÏ·±¨´í£¬ËùÒÔÔÝ²»¸üÐÂ¡£
-2023.6.15£¬´óÆø²ã1.5.4´¿¾»°üºÍ¸ß¼¶°ü¸üÐÂv3£¬¸üÐÂHekate6.0.5£¬¸üÐÂÈ«Ì×Tesla²å¼þ£¬²¿·Ö×é¼þÓÃÔ­°æ£¬²»³öÏÖsaltynx²å¼þ¶þ´ÎÆô¶¯ÓÎÏ·±¨´í¡£
-2023.6.29£¬´óÆø²ã1.5.4´¿¾»°üºÍ¸ß¼¶°ü¸üÐÂv4£¬¸üÐÂ²¿·ÖZ´óÌØË¹À­²å¼þ£¬¸üÐÂµÚ¶þ°æºº»¯nyx.bin£¬Hekate6.0.5Ò»Ö±ÊÇv2°æ£¬´óÆø²ã1.5.4-master-3cb54e2b4ºÍÖ®Ç°prerelease°æÍêÈ«Ò»Ñù¡£
-2023.7.6£¬´óÆø²ã1.5.4´¿¾»°üºÍ¸ß¼¶°ü¸üÐÂv5£¬¸üÐÂDBI--v598£¬Z´óµÄReverseNX-RT²å¼þ¡£
-2023.7.29£¬´óÆø²ã1.5.4¸ß¼¶°ü¸üÐÂv6£¬¸üÐÂwiliwili v1.1.1
-2023.8.22£¬´óÆø²ã1.5.5´¿¾»°üv1ºÍ¸ß¼¶°üv1·¢²¼£¬¸üÐÂ´óÆø²ã1.5.5-master-4fe9a89ab£¨ak´óÀÐµÄÈý¼þÌ×Éý¼¶£©×î¸ßÖ§³ÖSW16.1.0ÏµÍ³£¬¸üÐÂgoldleaf v1.0.0¡£
-2023.8.23£¬´óÆø²ã1.5.5´¿¾»°üºÍ¸ß¼¶°üÉý¼¶v2£¬¸üÐÂHekate6.0.6Ó¢ÎÄ°æ£¨µÈZ´óÀÐ¸üÐÂhekate6.0.6µÄºº»¯nyx.binÎÄ¼þ£©£¬¸üÐÂZ´óÀÐµÄTeslaÖÕ¼«°æ²å¼þ£¬¿ÉÒÔÔÚ1.5.2¸ß¼¶°üv2¼°ÒÔÉÏµÄ°æ±¾¸²¸ÇÉý¼¶¡£ÏÖÔÚ010000000000bd00missioncontrol²»¼æÈÝ16.1.0£¬ÔÝ²»Æô¶¯¿ÉÕý³£½øÏµÍ³£¬µÈ²å¼þ¸üÐÂ¡£
-2023.8.23ÏÂÎç£¬´óÆø²ã1.5.5´¿¾»°üºÍ¸ß¼¶°üÉý¼¶v3£¬¸üÐÂºº»¯°æHekate6.0.6£¬¸üÐÂ16.1.0µÄÖ÷ÌâIPS²¹¶¡£¬¸üÐÂmissioncontrol 0.9.3²å¼þ£¬¼æÈÝ16.1.0ÏµÍ³¡£
-2023.8.23ÍíÉÏ£¬´óÆø²ã1.5.5´¿¾»°üºÍ¸ß¼¶°üÉý¼¶v4£¬¸üÐÂZ´óÍêÕûºº»¯°æHekate6.0.6£¬¸üÐÂ¸üÐÂZ´óµÄReverseNX-RT²å¼þ£¬ÐÞ¸´saltynx²å¼þµÄ¶þ´ÎÆô¶¯ÓÎÏ·±¨´íµÄÇé¿ö¡£
-2023.8.26£¬´óÆø²ã1.5.5´¿¾»°üºÍ¸ß¼¶°üÉý¼¶v5£¬¸üÐÂDBI--v616£¬ÓÅ»¯dbi.config¡£
-2023.8.29£¬´óÆø²ã1.5.5¸ß¼¶°üÉý¼¶v6£¬¸üÐÂZ´óµÄReverseNX-RT1.1.1²å¼þ£¬missioncontrol-v0.9.4¡£
-2023.9.5£¬´óÆø²ã1.5.5¸ß¼¶°üÉý¼¶v7£¬¸üÐÂZ´óµÄemuiibo-2023.9.4£¬ldn_mitm-2023.9.5¡£
-2023.9.13£¬´óÆø²ã1.5.5¸ß¼¶°üÉý¼¶v8£¬ÐÂÔö°Ù¶ÈÍøÅÌ·ÖÏí£¬¸üÐÂZ´óµÄReverseNX-RT-2023.9.13¡£
-2023.10.5£¬´óÆø²ã1.5.5´¿¾»°üÉý¼¶v6£¬¸ß¼¶°üÉý¼¶v9£¬´¿¾»°üÌí¼Ólinkalho.nro£¨°ó¶¨ÐéÄâÕËºÅ£©ºÍtencent-switcher-gui.nro£¨¹úÐÐ×ªÈ«ÇòÏµÍ³£©ºÍsdloader.enc£¨Ó²ÆÆÉý¼¶sdloader£©£¬¿ÉÒÔÂú×ãËùÓÐ²ËÄñÐÂÈËÍæÆÆ½âÓÎÏ·µÄÈ«²¿ÐèÒªÁË¡£¸ß¼¶°ü¸üÐÂZ´óµÄStatus-Monitor-Overlay-2023.10.5ºÍReverseNX-RT-2023.10.5£¬ÐèÒªÉ¾µôTF¿¨saltysd/plugins/µÄNX-FPS.elfºÍReverseNX-RT.elfÁ½¸öÎÄ¼þ»òÕßÖ±½ÓÉ¾³ýTF¿¨µÄsaltysdÎÄ¼þ¼ÐÒÔºó£¬¿ÉÒÔÔÚ1.5.2¸ß¼¶°üv2¼°ÒÔÉÏµÄ°æ±¾¸²¸ÇÉý¼¶¡£
-2023.10.14£¬´óÆø²ã1.6.0´¿¾»°üºÍ¸ß¼¶°üv1·¢²¼£¬¸üÐÂatmosphere-1.6.0pre-8a9eb85e0£¬hekate_ctcaer_6.0.7_Nyx_1.5.6£¬lockpick_RCM£¬×î¸ßÖ§³ÖSW17.0.0ÏµÍ³¡£ÒòÎªsigpatchÃ»¸üÐÂ£¬tesla²å¼þÃ»¸üÐÂËùÒÔ»áÄ¬ÈÏ¹Ø±Õ£¨É¾³ýboot2.flag£©£¬½¨ÒéÐéÄâÏµÍ³×î¸ßÊÇ16.1.0£¬¿ÉÒÔÍæÆÆ½âÓÎÏ·£¬teslaÒ²ÄÜÓÃ²»»á±¨´í£¬¶øÕý°æÏµÍ³¿ÉÒÔ·ÅÐÄÉý¼¶µ½17.0.0£¬Èç¹ûÅÂ±ä×©£¬¿ÉÒÔÔÚ´óÆø²ã-ÕæÊµÏµÍ³ÓÃdaybreakÀëÏßÉý¼¶Õý°æÏµÍ³£¬²»»á±»BANµÄ¡£
-2023.10.17£¬´óÆø²ã1.6.1´¿¾»°üºÍ¸ß¼¶°üv1·¢²¼£¬¸üÐÂatmosphere-1.6.1-prerelease-7f4450f93£¬loader patch£¬¸üÐÂTegraExplorer--v4.1.1£¬MissionControl-0.10.0-master-38c9879£¬NXThemesInstaller-2.7.1ºÍ17.0µÄIPSÖ÷Ìâ²¹¶¡£¬¼æÈÝ17.0.0µÄnxdumptool.nro¡£ºÍ´óÆø²ã1.6.0Ò»Ñù£¬ÒòÎªsigpatchÃ»¸üÐÂ£¬½¨ÒéÐéÄâÏµÍ³×î¸ßÊÇ16.1.0£¬¿ÉÒÔÍæÆÆ½âÓÎÏ·£¬teslaÒ²ÄÜÓÃ²»»á±¨´í£¬¶øÕý°æÏµÍ³¿ÉÒÔ·ÅÐÄÉý¼¶µ½17.0.0£¬´óÆø²ãÒÑ¾­ÐÞ¸´ÁËBUG¡£
-2023.10.25£¬´óÆø²ã1.6.1´¿¾»°üºÍ¸ß¼¶°üÉý¼¶v2£¬¸üÐÂ17.0.0µÄFS²¹¶¡£¬Sigpatch×î¸ßÖ§³Ö17.0.0£¬ÐéÄâÏµÍ³¿ÉÉý¼¶17.0.0ÍæÆÆ½âÓÎÏ·¡£×¢Òâ£ºÈç¹ûÔÚ17.0.0ÏµÍ³ÄÚÒòTesla²å¼þ³ö´í£¬¿ÉÒÔ°ÑTeslaµÈ²å¼þÔÚDeepsea¹¤¾ßÏä»òÕßHekate¼ÓÔØCommonProblemResolver.binÒ»¼ü¹Ø±Õ£¬Ä¿Ç°Tesla£¬Edizon½ðÊÖÖ¸¶¼Õý³£Ê¹ÓÃ£¬Èç²»ÏëµÈ²å¼þ¸üÐÂ£¬Ò²¿ÉÒÔ½µ¼¶ÐéÄâÏµÍ³·µ»Ø16.1.0¡£
-2023.10.26£¬´óÆø²ã1.6.1´¿¾»°üºÍ¸ß¼¶°üÉý¼¶v3£¬ÔÝÊ±Ìæ»»¼æÈÝ17.0µÄsys-clk³¬Æµ²å¼þºÍldnÁª»ú²å¼þ£¬¸üÐÂDBI628£¬ÒòTesla¼æÈÝ17.0ËùÒÔ¸Ä»Ø¿ª»ú×Ô¶¯Æô¶¯£¨·Å»Øboot2.flag¿ÕÎÄ¼þ£©£¬ÆäÓà²å¼þÈÔÐèDeepsea¹¤¾ßÏäÀï¿ªÆôºóÉúÐ§¡£
-2023.10.28£¬´óÆø²ã1.6.2´¿¾»°üºÍ¸ß¼¶°üv1·¢²¼£¬¸üÐÂatmosphere-1.6.2ÕýÊ½°æ-f7bf379cf£¬¸üÐÂaio-switch-updater.nro-v2.23.1£¬Haku33.nro-5.7¡£
-2023.10.31£¬´óÆø²ã1.6.2¸ß¼¶°ü¸üÐÂv2£¬¸üÐÂHaku33.nro-6.0ºÍWiliwili.nro-1.2.0¡£
-2023.11.12£¬´óÆø²ã1.6.2´¿¾»°ü¸üÐÂv2£¬¸ß¼¶°ü¸üÐÂv3£¬¸üÐÂdbi633ºº»¯°æºÍnxdumptool.nro£¬Òòzdm65477730´óÀÐÔÝÎ´¸üÐÂÖÕ¼«°æTesla²å¼þ£¬ÏÖÓÐµÄ²¿·Öºº»¯°æTesla²å¼þÔÚ·Ç¼òÖÐÏµÍ³»á³öÏÖÂÒÂë¶ø·ÇÓ¢ÎÄ£¬¹Ê¸üÐÂÔ­°æsys-clk-2.0.0rc4³¬Æµ²å¼þºÍStatus-Monitor1.0.1¼à¿Ø²å¼þ¡£
-2023.11.13£¬´óÆø²ã¸ß¼¶°ü¸üÐÂv4£¬¸üÐÂsaltynx-0.7.1£¬Haku33.nro-6.1£¬Wiliwili.nro-1.2.1¡£
-2023.11.16£¬´óÆø²ã¸ß¼¶°ü¸üÐÂv5£¬¸üÐÂaio-switch-updater.nro-v2.23.2ºÍWiliwili.nro-1.2.2¡£´Ë°ü¿ÉÒÔÔÚ1.5.2¸ß¼¶°üv2¼°ÒÔÉÏµÄ°æ±¾¸²¸ÇÉý¼¶¡£
+ã€å…­ã€æ›´æ–°æ—¥å¿—ã€‘
+2022.10.7ï¼Œå¤§æ°”å±‚1.3.2é«˜çº§åŒ…v2æ›´æ–°mission control 0.7.1å’Œaio-switch-updater.nro 2.20.1
+2022.10.13ï¼Œå¤§æ°”å±‚1.4.0-preçº¯å‡€åŒ…å’Œæ ‡å‡†åŒ…v1æ›´æ–°atmosphere1.4.0-preï¼Œhekate5.9.0å’Œsigpatchï¼Œé«˜çº§åŒ…ä¸­çš„è½¯ä»¶å’Œæ’ä»¶éœ€è¦ç­‰æ›´æ–°ã€‚
+2022.10.14ï¼Œçº¯å‡€åŒ…æ›´æ–°v2ï¼Œä¿®å¤é”™è¯¯ç­¾åè¡¥ä¸ï¼Œæ·»åŠ Lockpickï¼Œé«˜çº§åŒ…ä¸­çš„è½¯ä»¶å’Œæ’ä»¶æš‚ä¸æ›´æ–°ï¼Œç­‰æ’ä»¶è½¯ä»¶å‡çº§ï¼Œå¥‡ä¹èžåˆ1.4.0çº¯å‡€åŒ…v2å¯ä»¥ç›´æŽ¥è¦†ç›–åˆ°1.3.2çš„æ ‡å‡†åŒ…å’Œé«˜çº§åŒ…å®Œæˆå†…æ ¸æ›´æ–°ã€‚
+2022.10.15ï¼Œå‘å¸ƒ1.4.0-preæ ‡å‡†åŒ…v1å’Œé«˜çº§åŒ…v1ï¼Œè¿™ä¸¤ä¸ªv1åŒ…éƒ½æ˜¯åœ¨1.4.0-preçº¯å‡€åŒ…v2åŸºç¡€ä¸Šéƒ½æ›´æ–°æ’ä»¶è½¯ä»¶ï¼Œå·²æ›´æ–°ovledizonï¼Œmissioncontrolï¼Œdbiï¼Œtinfoilï¼Œæ”¯æŒ15.0.0ç³»ç»Ÿã€‚
+2022.10.17ï¼Œå¤§æ°”å±‚1.4.0preæ›´æ–°fusee.binï¼Œå¯ä»¥è‡ªåŠ¨é€‰æ‹©è™šæ‹Ÿç³»ç»Ÿ15.0.0ï¼Œé«˜çº§åŒ…æ›´æ–°ldn_mitmæ’ä»¶ï¼Œä¸ºç»Ÿä¸€ç‰ˆæœ¬å·ï¼Œå¥‡ä¹èžåˆå¤§æ°”å±‚1.4.0preçº¯å‡€åŒ…ï¼Œæ ‡å‡†åŒ…å’Œé«˜çº§åŒ…ç»Ÿä¸€ä¸ºv3ã€‚
+2022.10.19ï¼Œå¤§æ°”å±‚æ›´æ–°1.4.0æ­£å¼ç‰ˆï¼Œä½¿ç”¨AK478BBå¤§ä½¬åšçš„ä¸‰ä»¶å¥—å‡çº§åŒ…ï¼Œå·²ç»æ£€æŸ¥ç­¾åè¡¥ä¸Sigpatchæ­£å¸¸ï¼Œå¯ä»¥è¦†ç›–å‡çº§ï¼Œå¥‡ä¹èžåˆå¤§æ°”å±‚1.4.0çº¯å‡€åŒ…ï¼Œæ ‡å‡†åŒ…å’Œé«˜çº§åŒ…ç»Ÿä¸€å‡çº§ä¸ºv4ã€‚
+2022.10.26ï¼Œå¤§æ°”å±‚1.4.0ç ´è§£åŒ…ç»Ÿä¸€å‡çº§ä¸ºv5ï¼Œä¿®æ”¹system_settings.iniå¯ä»¥çŽ©æœ€ç»ˆå¹»æƒ³8ä¸å‡ºé”™ï¼Œæ›´æ–°ldn_mitmã€dbi436ã€ovledizonç­‰æ’ä»¶è½¯ä»¶ã€‚
+2022.11.5ï¼Œ1.4.0æ ‡å‡†åŒ…å’Œé«˜çº§åŒ…å‡çº§ä¸ºv6ï¼Œæ›´æ–°dbi439ï¼Œmissioncontrolï¼Œaio-switch-updaterç­‰æ’ä»¶è½¯ä»¶ã€‚
+2022.12.24ï¼Œå¤§æ°”å±‚1.4.0ç ´è§£åŒ…å‡çº§ä¸ºv7å¹¶ä»¥é«˜çº§åŒ…çš„æ–¹å¼å‘å¸ƒï¼Œé»˜è®¤ä¼ªè£…å¼€æœºå›¾ï¼Œä¸å†å‘å¸ƒçº¯å‡€åŒ…å’Œæ ‡å‡†åŒ…ï¼Œæ›´æ–°Hekate6.0.1ï¼Œæ›´æ–°dbi462ç­‰æ’ä»¶è½¯ä»¶ã€‚
+2023.1.16ï¼Œå¤§æ°”å±‚1.4.0ç ´è§£åŒ…å‡çº§ä¸ºv8ï¼Œæ›´æ–°dbi467ï¼Œæ–°åŠ tencent-switcher-guiï¼Œlinkalhoï¼ŒCalculator_NXï¼Œswitch-timeï¼Œwiliwiliç­‰ç›¸å†Œè½¯ä»¶ã€‚
+2023.1.20ï¼Œå¤§æ°”å±‚1.4.0ç ´è§£åŒ…å‡çº§ä¸ºv9ï¼Œæ›´æ–°dbi475
+2023.1.22ï¼Œå¤§æ°”å±‚1.4.0ç ´è§£åŒ…å‡çº§ä¸ºv10ï¼Œæ›´æ–°wiliwili0.6.0
+2023.1.25ï¼Œå¤§æ°”å±‚1.4.1ç ´è§£åŒ…v1å‘å¸ƒ
+2023.1.27ï¼Œå¤§æ°”å±‚1.4.1ç ´è§£åŒ…å‡çº§ä¸ºv2ï¼Œæ›´æ–°dbi479ï¼Œç”¨Hekateå·¥å…·ç®±é‡å‘½åæ›¿æ¢Deepseaå·¥å…·ç®±ï¼Œæ”¯æŒç»­èˆªå’ŒLiteé‡å¯ï¼Œæ–°åŠ ç†”ç‚¹17çš„warmboot_marikoè¡¥ä¸ã€‚
+2023.1.28ï¼Œå¤§æ°”å±‚1.4.1ç ´è§£åŒ…å‡çº§v3ï¼Œè¿™æ¬¡ä½¿ç”¨nro-asset-editor-256ç¼–è¾‘NROè½¯ä»¶ï¼Œå…¨éƒ¨åŠ äº†ä¸­æ–‡è¯´æ˜Žï¼Œé™¤äº†Hekateå·¥å…·ç®±ï¼Œå…¶å®ƒNROè½¯ä»¶çš„app nameä¸å˜ï¼Œä¸å½±å“æŽ’åºã€‚
+2023.1.30ï¼Œå¤§æ°”å±‚1.4.1çº¯å‡€åŒ…å‡çº§v2ï¼Œé«˜çº§åŒ…å‡çº§v4ï¼Œæ›´æ–°ç¬¬äºŒç‰ˆå¤§æ°”å±‚1.4.1master-7a69f2f06ï¼Œä¸æ˜¯ä¹‹å‰æœ‰bugçš„1.4.1master-32b590e7aï¼Œä¿®å¤å…³é—­WebAppletsæ—¶çš„å¥”æºƒã€‚å»ºè®®æ‰€æœ‰å‡çº§1.4.1å¤§æ°”å±‚çš„éƒ½å‡çº§åˆ°1.4.1master-7a69f2f06
+2023.2.9ï¼Œå¤§æ°”å±‚1.4.1çº¯å‡€åŒ…å‡çº§v3ï¼Œé«˜çº§åŒ…å‡çº§v5ï¼Œå¥‡ä¹åŒ…ä»Ž1.4.1çº¯å‡€åŒ…v3æˆ–é«˜çº§åŒ…v5å¼€å§‹åœ¨å¤§æ°”å±‚çœŸå®žç³»ç»Ÿæ–°å¢žå¯ç”¨hostsä¿æŠ¤ï¼Œåˆ é™¤sysmmc.txtå³å¯è§£é™¤ä¿æŠ¤ï¼Œè™šæ‹Ÿç³»ç»Ÿç»§ç»­æ²¿ç”¨å¯ç”¨hostså’Œéšè—åºå·çš„åŒé‡ä¿æŠ¤ï¼Œåªæœ‰é€‰æ‹©æœºèº«æ­£ç‰ˆç³»ç»Ÿæ‰ä¸å—è”ç½‘é™åˆ¶ã€‚é«˜çº§åŒ…v5æ›´æ–°DBI480ï¼Œå®‰è£…é€Ÿåº¦é«˜äºŽDBI482ï¼Œv5çš„ç‰¹æ–¯æ‹‰éƒ¨åˆ†æ’ä»¶å‡çº§æ›¿æ¢äº†zdm65477730çš„ç»ˆæžç‰ˆç‰¹æ–¯æ‹‰æ’ä»¶ï¼Œæ›¿æ¢æ’ä»¶çš„åç§°æ˜¯nx-ovlloaderï¼Œovlmenuï¼ŒovlSysmodulesï¼ŒovlEdiZonï¼ŒStatus-Monitor-Overlayï¼Œsys-clkå’ŒReverseNXã€‚å…¶ä½™éƒ¨åˆ†æ’ä»¶ä¸å˜ï¼Œæœ‰éœ€è¦æ›´æ¢æˆ–æ–°åŠ ç»ˆæžç‰ˆæ’ä»¶ï¼Œè¯·è‡ªè¡Œå‰å¾€https://www.tekqart.com å·¥å…·åŒºä¸‹è½½å¢žåŠ ã€‚å¥‡ä¹1.4.1çº¯å‡€åŒ…v3ï¼Œé«˜çº§åŒ…v5éƒ½å¯ä»¥åœ¨å¥‡ä¹1.4.0/1.4.1æ—§çš„ç ´è§£åŒ…ä¸Šè¦†ç›–å‡çº§ã€‚
+2023.2.24ï¼Œå¤§æ°”å±‚1.5.0çº¯å‡€åŒ…v1ï¼Œé«˜çº§åŒ…v1å‘å¸ƒï¼Œæ›´æ–°å¤§æ°”å±‚1.5.0-preå’ŒHekate6.0.2æ±‰åŒ–ï¼ŒTeslaå…¼å®¹16.0.0ã€‚
+2023.2.25ï¼Œå¤§æ°”å±‚é«˜çº§åŒ…å‡çº§v2ï¼ŒTeslaæ’ä»¶å¤§ä½¬zdm65477730æ–°å‘å¸ƒï¼Œå…¼å®¹16.0.0ï¼Œæ›´æ–°missioncontrolï¼Œemuiiboç­‰æ’ä»¶ï¼Œæ›´æ–°tinfoilï¼ŒJKSVç­‰å…¼å®¹16.0.0çš„NROè½¯ä»¶ã€‚
+2023.2.26ï¼Œå¤§æ°”å±‚é«˜çº§åŒ…å‡çº§v3ï¼Œè¡¥å……501ä¿„æ–‡çš„dbi_ru.nroæ•‘æ€¥ï¼Œæ”¯æŒ16.0.0ç³»ç»Ÿï¼Œä¸éœ€è¦é™çº§ç³»ç»Ÿå®‰è£…æ¸¸æˆäº†ï¼ŒåŒæ—¶ä¿ç•™DBI493è‹±æ–‡ç‰ˆï¼Œä¸¤ä¸ªDBIå…±å­˜ï¼ŒDBI493ä¹Ÿå¯ä»¥åœ¨16.0.0ç³»ç»Ÿæ‰“å¼€ï¼Œä½†ä¸èƒ½å®‰è£…æ¸¸æˆã€‚ä¸¤ä¸ªDBIå…±å­˜ï¼šæŠŠDBI_ru.nroå¤åˆ¶åˆ°Switch/æˆ–æ–°å»ºä¸€ä¸ªæ–‡ä»¶å¤¹ï¼Œä¸èƒ½å’ŒDBI.nroæ”¾åœ¨åŒä¸€ä¸ªæ–‡ä»¶å¤¹å†…ã€‚ç­‰å®Œç¾Ž16.0.0çš„DBIè‹±æ–‡ç‰ˆå‘å¸ƒåŽè¦†ç›–Switch/DBI/DBI.NROï¼Œè¿™ä¸ªdbi_ru.nroå¯ä»¥åˆ é™¤ã€‚
+2023.3.1ï¼Œå¤§æ°”å±‚é«˜çº§åŒ…å‡çº§v4ï¼Œæ›´æ–°ä¿®å¤çš„emuiiboï¼ŒStatus-Monitor-Overlayï¼ŒReverseNXæ’ä»¶ï¼Œæ›´æ–°DBI506ã€‚
+2023.3.4ï¼Œå¤§æ°”å±‚é«˜çº§åŒ…å‡çº§v5ï¼Œæ›´æ–°æœ€æ–°Status-Monitor-Overlayï¼ŒReverseNXæ’ä»¶ã€‚
+2023.3.6ï¼Œå¤§æ°”å±‚é«˜çº§åŒ…å‡çº§v6ï¼Œå…¶å®žå’Œv5ä¸€æ ·ï¼Œåªä¿®å¤Emuiiboæ’ä»¶é”™è¯¯ï¼Œå› emuiiboæ’ä»¶éœ€è¦tfï¼šemuiibo/Miis/æ–‡ä»¶å¤¹æ‰å¯ä»¥å¯åŠ¨ï¼Œç©ºç›®å½•ä¹Ÿå¯ä»¥ï¼Œä½†æ˜¯åç§°å¿…é¡»æ˜¯Miisï¼Œä¸èƒ½æ˜¯miisï¼Œæ–‡ä»¶å¤¹åç§°é¦–å­—æ¯ä¸èƒ½æ˜¯å°å†™mï¼Œå¾ˆå¥‡è‘©çš„è®¾å®šã€‚æ‰€ä»¥å¦‚æžœæ˜¯1.5.0é«˜çº§åŒ…v5å®Œå…¨å¯ä»¥ä¸å‡çº§ï¼Œåˆ emuiibo/miisï¼Œç„¶åŽæ–°å»ºemuiibo/Miiså°±ç­‰äºŽä¿®å¤emuiiboé”™è¯¯ã€‚
+2023.3.12ï¼Œå¤§æ°”å±‚é«˜çº§åŒ…å‡çº§v7ï¼Œæ›´æ–°goldleaf-0.10.1ï¼ŒDBI513ï¼ŒNX-Activity-Logï¼ŒReverseNXï¼Œemuiiboï¼Œæ–°æ·»åŠ fastcfwswitch
+2023.3.14ï¼Œå¤§æ°”å±‚1.5.1çº¯å‡€åŒ…v1ï¼Œé«˜çº§åŒ…v1å‘å¸ƒï¼Œæ›´æ–°1.5.1-master-8274081e3ï¼ˆakå¤§ä½¬çš„ä¸‰ä»¶å¥—å‡çº§ï¼‰ï¼Œæ›´æ–°emuiiboå’Œreversenxæ’ä»¶ï¼ˆzdmå¤§ä½¬çš„ç‰¹æ–¯æ‹‰ç»ˆæžç‰ˆï¼‰
+2023.3.19ï¼Œå¤§æ°”å±‚çº¯å‡€åŒ…ã€é«˜çº§åŒ…å‡çº§v2ï¼Œçº¯å‡€åŒ…ç³»ç»Ÿé…ç½®system_settings.iniä¸­æ–°åŠ å¤§æ°”å±‚1.5.1çš„è“ç‰™é…å¯¹enable_external_bluetooth_db = u8!0x1ï¼Œçº¯å‡€åŒ…æ–°åŠ å…¥dbiã€jksvå’Œedizon-seï¼Œå…¶å®ƒæ’ä»¶è½¯ä»¶å…¨éƒ¨åœ¨é«˜çº§åŒ…é‡Œï¼Œçº¯å‡€åŒ…ä»Žæ­¤å¯ä»¥å¾ˆç¨³å®šçš„å®‰è£…å’ŒçŽ©æ–°çš„æ¸¸æˆï¼Œæ— å‡ºé”™çš„çƒ¦æ¼ã€‚è€Œä¸”ä»¥åŽå‡çº§çš„è¯ï¼Œçº¯å‡€åŒ…ç›´æŽ¥è¦†ç›–å‡çº§å°±å¯ä»¥äº†ã€‚é«˜çº§åŒ…å‡çº§zdmå¤§ä½¬çš„ç‰¹æ–¯æ‹‰ç»ˆæžç‰ˆ2023.3.18æ›´æ–°ã€‚å› ä¸ºè¿™æ¬¡çš„Zå¤§ç‰¹æ–¯æ‹‰æ’ä»¶ç¼–è¯‘åç§°å˜æ›´ï¼Œæ­¤æ¬¡é«˜çº§åŒ…çš„æ›´æ–°ä¸å¯ä»¥ç›´æŽ¥è¦†ç›–å‡çº§ï¼Œå¿…é¡»åˆ é™¤TFå¡ä¸Štfï¼šatmosphere/contents/ã€tfï¼šswitch/.overlays/å’Œtfï¼šconfig/è¿™ä¸‰ä¸ªæ—§çš„æ–‡ä»¶å¤¹åŽå†è¦†ç›–å‡çº§ã€‚
+2023.3.21ï¼Œå¤§æ°”å±‚1.5.1é«˜çº§åŒ…å‡çº§v3ï¼Œæ›´æ–°äº†Tesla-Menuï¼ŒReverseNX-RTå’Œsys-clkï¼Œä¼˜åŒ–ç³»ç»Ÿå†…å­˜ä½¿ç”¨ï¼Œå¯ä»¥è¦†ç›–åˆ°1.5.1é«˜çº§åŒ…v2å‡çº§ã€‚
+2023.4.1ï¼Œå¤§æ°”å±‚1.5.1çº¯å‡€åŒ…å‡çº§v3ï¼Œé«˜çº§åŒ…å‡çº§v4ï¼Œæ›´æ–°äº†Tesla-Menuï¼Œemuiiboï¼ŒReverseNX-RTï¼Œä¼˜åŒ–ç³»ç»Ÿå†…å­˜ä½¿ç”¨ï¼Œæ›´æ–°dbi527ï¼ˆ4æœˆ1æ—¥æœ‰ç¿»è½¬å­—ä½“å½©è›‹ï¼Œä¿®æ”¹ç³»ç»Ÿæ—¥æœŸå¤±æ•ˆï¼‰ï¼Œæ›´æ–°haku33.nro-v5.3,appstore.nro-v2.3.2ï¼Œæ›´æ–°OLEDå¯ç”¨çš„hwfly_toolbox.binå’ŒCommonProblemResolver.binï¼Œ
+2023.4.2ï¼Œå¤§æ°”å±‚1.5.1é«˜çº§åŒ…å‡çº§v5ï¼Œæ›´æ–°äº†å…¨å¥—Teslaæ’ä»¶ï¼Œæ›´åŠ çš„ç¨³å®šï¼Œæ›´æ–°haku33.nro-v5.4
+2023.4.3ï¼Œå¤§æ°”å±‚1.5.1çº¯å‡€åŒ…å‡çº§v4ï¼ŒåŠ lakka-l4tå’Œubuntu-l4tå¯åŠ¨é¡¹ï¼Œé«˜çº§åŒ…å‡çº§v6ï¼Œæ›´æ–°Zå¤§2023.4.3çš„å…¨å¥—ç‰¹æ–¯æ‹‰æ’ä»¶ï¼Œè¡¨ç¤ºå¤§æ°”å±‚ä½œè€…æä¾›æ–¹æ³•ï¼Œå½»åº•è§£å†³åº•åº§æ¨¡å¼å¼€ç‰¹æ–¯æ‹‰æ­»æœºçš„BUG
+2023.4.7ï¼Œå¤§æ°”å±‚1.5.1çº¯å‡€åŒ…å‡çº§v5ï¼Œé«˜çº§åŒ…å‡çº§v7ï¼Œæ›´æ–°Hekate6.0.3æ±‰åŒ–ç‰ˆã€‚
+2023.4.8ï¼Œå¤§æ°”å±‚1.5.1çº¯å‡€åŒ…å‡çº§v6ï¼Œé«˜çº§åŒ…å‡çº§v8ï¼Œæ›´æ–°Zå¤§æ±‰åŒ–Hekate6.0.3ï¼ˆnyx.binå®Œå…¨æ±‰åŒ–ï¼‰ï¼ŒDBI542ï¼Œæ›´æ–°Zå¤§ç‰¹æ–¯æ‹‰ç»ˆæžç‰ˆReverseNX-RTï¼ŒNX-FPS.elfã€‚
+2023.4.12ï¼Œå¤§æ°”å±‚1.5.1é«˜çº§åŒ…å‡çº§v9ï¼Œæ›´æ–°AtmoXL-Titel-Installer.nro-v1.7.3ï¼ŒGoldleaf.nro-v0.10.1ã€‚
+2023.4.17ï¼Œå¤§æ°”å±‚1.5.1é«˜çº§åŒ…å‡çº§v10ï¼Œæ›´æ–°Firmware-Dumper.nroï¼Œhaku33-v5.5ï¼Œæ›´æ–°Zå¤§å…¨å¥—ç‰¹æ–¯æ‹‰ç»ˆæžç‰ˆæ’ä»¶
+2023.4.18ï¼Œå¤§æ°”å±‚1.5.2çº¯å‡€åŒ…v1ï¼Œé«˜çº§åŒ…v1å‘å¸ƒï¼Œæ›´æ–°atmosphere-1.5.2-master-434c8cefcï¼ˆakå¤§ä½¬çš„ä¸‰ä»¶å¥—å‡çº§ï¼‰ã€‚å¯ä»¥è¦†ç›–åˆ°1.5.1é«˜çº§åŒ…v2åŠä»¥åŽçš„é«˜çº§åŒ…å®Œæˆå‡çº§ã€‚
+2023.4.21ï¼Œå¤§æ°”å±‚1.5.2é«˜çº§åŒ…å‡çº§v2ï¼Œæ›´æ–°ovledizon.ovlï¼Œmissioncontrol-v0.9.1ï¼Œtinfoil-16.0v2ï¼Œåˆ é™¤æ‰€æœ‰tfï¼šswitch/.overlays/lang/ä¸­çš„en.jsonè¯­è¨€åŒ…æ–‡ä»¶ï¼Œæ­¤æ¬¡æ›´æ–°å¦‚æžœæ˜¯1.5.1é«˜çº§åŒ…v2åŠä»¥åŽçš„é«˜çº§åŒ…åŸºç¡€ä¸Šï¼Œè¯·åˆ é™¤tfï¼šswitch/.overlays/lang/çš„æ—§çš„æ–‡ä»¶å¤¹å†è¦†ç›–ã€‚
+2023.4.25ï¼Œå¤§æ°”å±‚1.5.2é«˜çº§åŒ…å‡çº§v3ï¼Œæ›´æ–°Zå¤§ç»ˆæžç‰ˆteslaæ’ä»¶ï¼Œmissioncontrol-v0.9.1fixï¼Œæ›´æ–°DBI551ã€‚
+2023.5.4ï¼Œå¤§æ°”å±‚1.5.2é«˜çº§åŒ…å‡çº§v4ï¼Œæ›´æ–°missioncontrol-v0.9.2ï¼Œaio-switch-updater.nro-v2.21.4ï¼ŒWiliwili-v1.0.1ï¼Œæ–°åŠ Awooinstaller-v1.4.1ã€‚
+2023.5.8ï¼Œå¤§æ°”å±‚1.5.2é«˜çº§åŒ…å‡çº§v5ï¼Œæ›´æ–°Zå¤§çš„å…¨å¥—Tesla-libnx v4.4.0ã€‚
+2023.5.10ï¼Œå¤§æ°”å±‚1.5.3çº¯å‡€åŒ…v1å’Œé«˜çº§åŒ…v1å‘å¸ƒï¼Œæœ€é«˜æ”¯æŒSW16.0.3ç³»ç»Ÿï¼Œæ›´æ–°atmosphere-1.5.3-master-85c23b578å’Œhekate_ctcaer_6.0.4_Nyx_1.5.3ï¼ˆakå¤§ä½¬çš„ä¸‰ä»¶å¥—å‡çº§ï¼‰ï¼ŒZå¤§çš„å…¨å¥—Tesla-libnx v4.4.1ã€‚
+2023.5.13ï¼Œå¤§æ°”å±‚1.5.3çº¯å‡€åŒ…v2å’Œé«˜çº§åŒ…v2å‘å¸ƒï¼Œæ›´æ–°dbi563ï¼Œè°ƒæ•´reboot_to_payload.nroå›¾æ ‡ã€‚
+2023.5.15ï¼Œå¤§æ°”å±‚1.5.4çº¯å‡€åŒ…v1å’Œé«˜çº§åŒ…v1å‘å¸ƒï¼Œæ›´æ–°å¤§æ°”å±‚1.5.4-prerelease-3cb54e2b4ï¼ˆakå¤§ä½¬çš„ä¸‰ä»¶å¥—å‡çº§ï¼‰ã€‚
+2023.5.28ï¼Œå¤§æ°”å±‚1.5.4çº¯å‡€åŒ…å’Œé«˜çº§åŒ…æ›´æ–°v2ï¼Œæ›´æ–°DBI--v576ï¼Œaio-switch-updater--v2.22.0ï¼ŒNX-Activity-Log.nro--v1.5.0ï¼ŒTeslaä»¥Zå¤§çš„2023.5.8ç¼–è¯‘çš„ç»„ä»¶æ¯”è¾ƒç¨³å®šï¼Œä¹Ÿä¸å‡ºçŽ°saltynxæ’ä»¶äºŒæ¬¡å¯åŠ¨æ¸¸æˆæŠ¥é”™ï¼Œæ‰€ä»¥æš‚ä¸æ›´æ–°ã€‚
+2023.6.15ï¼Œå¤§æ°”å±‚1.5.4çº¯å‡€åŒ…å’Œé«˜çº§åŒ…æ›´æ–°v3ï¼Œæ›´æ–°Hekate6.0.5ï¼Œæ›´æ–°å…¨å¥—Teslaæ’ä»¶ï¼Œéƒ¨åˆ†ç»„ä»¶ç”¨åŽŸç‰ˆï¼Œä¸å‡ºçŽ°saltynxæ’ä»¶äºŒæ¬¡å¯åŠ¨æ¸¸æˆæŠ¥é”™ã€‚
+2023.6.29ï¼Œå¤§æ°”å±‚1.5.4çº¯å‡€åŒ…å’Œé«˜çº§åŒ…æ›´æ–°v4ï¼Œæ›´æ–°éƒ¨åˆ†Zå¤§ç‰¹æ–¯æ‹‰æ’ä»¶ï¼Œæ›´æ–°ç¬¬äºŒç‰ˆæ±‰åŒ–nyx.binï¼ŒHekate6.0.5ä¸€ç›´æ˜¯v2ç‰ˆï¼Œå¤§æ°”å±‚1.5.4-master-3cb54e2b4å’Œä¹‹å‰prereleaseç‰ˆå®Œå…¨ä¸€æ ·ã€‚
+2023.7.6ï¼Œå¤§æ°”å±‚1.5.4çº¯å‡€åŒ…å’Œé«˜çº§åŒ…æ›´æ–°v5ï¼Œæ›´æ–°DBI--v598ï¼ŒZå¤§çš„ReverseNX-RTæ’ä»¶ã€‚
+2023.7.29ï¼Œå¤§æ°”å±‚1.5.4é«˜çº§åŒ…æ›´æ–°v6ï¼Œæ›´æ–°wiliwili v1.1.1
+2023.8.22ï¼Œå¤§æ°”å±‚1.5.5çº¯å‡€åŒ…v1å’Œé«˜çº§åŒ…v1å‘å¸ƒï¼Œæ›´æ–°å¤§æ°”å±‚1.5.5-master-4fe9a89abï¼ˆakå¤§ä½¬çš„ä¸‰ä»¶å¥—å‡çº§ï¼‰æœ€é«˜æ”¯æŒSW16.1.0ç³»ç»Ÿï¼Œæ›´æ–°goldleaf v1.0.0ã€‚
+2023.8.23ï¼Œå¤§æ°”å±‚1.5.5çº¯å‡€åŒ…å’Œé«˜çº§åŒ…å‡çº§v2ï¼Œæ›´æ–°Hekate6.0.6è‹±æ–‡ç‰ˆï¼ˆç­‰Zå¤§ä½¬æ›´æ–°hekate6.0.6çš„æ±‰åŒ–nyx.binæ–‡ä»¶ï¼‰ï¼Œæ›´æ–°Zå¤§ä½¬çš„Teslaç»ˆæžç‰ˆæ’ä»¶ï¼Œå¯ä»¥åœ¨1.5.2é«˜çº§åŒ…v2åŠä»¥ä¸Šçš„ç‰ˆæœ¬è¦†ç›–å‡çº§ã€‚çŽ°åœ¨010000000000bd00missioncontrolä¸å…¼å®¹16.1.0ï¼Œæš‚ä¸å¯åŠ¨å¯æ­£å¸¸è¿›ç³»ç»Ÿï¼Œç­‰æ’ä»¶æ›´æ–°ã€‚
+2023.8.23ä¸‹åˆï¼Œå¤§æ°”å±‚1.5.5çº¯å‡€åŒ…å’Œé«˜çº§åŒ…å‡çº§v3ï¼Œæ›´æ–°æ±‰åŒ–ç‰ˆHekate6.0.6ï¼Œæ›´æ–°16.1.0çš„ä¸»é¢˜IPSè¡¥ä¸ï¼Œæ›´æ–°missioncontrol 0.9.3æ’ä»¶ï¼Œå…¼å®¹16.1.0ç³»ç»Ÿã€‚
+2023.8.23æ™šä¸Šï¼Œå¤§æ°”å±‚1.5.5çº¯å‡€åŒ…å’Œé«˜çº§åŒ…å‡çº§v4ï¼Œæ›´æ–°Zå¤§å®Œæ•´æ±‰åŒ–ç‰ˆHekate6.0.6ï¼Œæ›´æ–°æ›´æ–°Zå¤§çš„ReverseNX-RTæ’ä»¶ï¼Œä¿®å¤saltynxæ’ä»¶çš„äºŒæ¬¡å¯åŠ¨æ¸¸æˆæŠ¥é”™çš„æƒ…å†µã€‚
+2023.8.26ï¼Œå¤§æ°”å±‚1.5.5çº¯å‡€åŒ…å’Œé«˜çº§åŒ…å‡çº§v5ï¼Œæ›´æ–°DBI--v616ï¼Œä¼˜åŒ–dbi.configã€‚
+2023.8.29ï¼Œå¤§æ°”å±‚1.5.5é«˜çº§åŒ…å‡çº§v6ï¼Œæ›´æ–°Zå¤§çš„ReverseNX-RT1.1.1æ’ä»¶ï¼Œmissioncontrol-v0.9.4ã€‚
+2023.9.5ï¼Œå¤§æ°”å±‚1.5.5é«˜çº§åŒ…å‡çº§v7ï¼Œæ›´æ–°Zå¤§çš„emuiibo-2023.9.4ï¼Œldn_mitm-2023.9.5ã€‚
+2023.9.13ï¼Œå¤§æ°”å±‚1.5.5é«˜çº§åŒ…å‡çº§v8ï¼Œæ–°å¢žç™¾åº¦ç½‘ç›˜åˆ†äº«ï¼Œæ›´æ–°Zå¤§çš„ReverseNX-RT-2023.9.13ã€‚
+2023.10.5ï¼Œå¤§æ°”å±‚1.5.5çº¯å‡€åŒ…å‡çº§v6ï¼Œé«˜çº§åŒ…å‡çº§v9ï¼Œçº¯å‡€åŒ…æ·»åŠ linkalho.nroï¼ˆç»‘å®šè™šæ‹Ÿè´¦å·ï¼‰å’Œtencent-switcher-gui.nroï¼ˆå›½è¡Œè½¬å…¨çƒç³»ç»Ÿï¼‰å’Œsdloader.encï¼ˆç¡¬ç ´å‡çº§sdloaderï¼‰ï¼Œå¯ä»¥æ»¡è¶³æ‰€æœ‰èœé¸Ÿæ–°äººçŽ©ç ´è§£æ¸¸æˆçš„å…¨éƒ¨éœ€è¦äº†ã€‚é«˜çº§åŒ…æ›´æ–°Zå¤§çš„Status-Monitor-Overlay-2023.10.5å’ŒReverseNX-RT-2023.10.5ï¼Œéœ€è¦åˆ æŽ‰TFå¡saltysd/plugins/çš„NX-FPS.elfå’ŒReverseNX-RT.elfä¸¤ä¸ªæ–‡ä»¶æˆ–è€…ç›´æŽ¥åˆ é™¤TFå¡çš„saltysdæ–‡ä»¶å¤¹ä»¥åŽï¼Œå¯ä»¥åœ¨1.5.2é«˜çº§åŒ…v2åŠä»¥ä¸Šçš„ç‰ˆæœ¬è¦†ç›–å‡çº§ã€‚
+2023.10.14ï¼Œå¤§æ°”å±‚1.6.0çº¯å‡€åŒ…å’Œé«˜çº§åŒ…v1å‘å¸ƒï¼Œæ›´æ–°atmosphere-1.6.0pre-8a9eb85e0ï¼Œhekate_ctcaer_6.0.7_Nyx_1.5.6ï¼Œlockpick_RCMï¼Œæœ€é«˜æ”¯æŒSW17.0.0ç³»ç»Ÿã€‚å› ä¸ºsigpatchæ²¡æ›´æ–°ï¼Œteslaæ’ä»¶æ²¡æ›´æ–°æ‰€ä»¥ä¼šé»˜è®¤å…³é—­ï¼ˆåˆ é™¤boot2.flagï¼‰ï¼Œå»ºè®®è™šæ‹Ÿç³»ç»Ÿæœ€é«˜æ˜¯16.1.0ï¼Œå¯ä»¥çŽ©ç ´è§£æ¸¸æˆï¼Œteslaä¹Ÿèƒ½ç”¨ä¸ä¼šæŠ¥é”™ï¼Œè€Œæ­£ç‰ˆç³»ç»Ÿå¯ä»¥æ”¾å¿ƒå‡çº§åˆ°17.0.0ï¼Œå¦‚æžœæ€•å˜ç –ï¼Œå¯ä»¥åœ¨å¤§æ°”å±‚-çœŸå®žç³»ç»Ÿç”¨daybreakç¦»çº¿å‡çº§æ­£ç‰ˆç³»ç»Ÿï¼Œä¸ä¼šè¢«BANçš„ã€‚
+2023.10.17ï¼Œå¤§æ°”å±‚1.6.1çº¯å‡€åŒ…å’Œé«˜çº§åŒ…v1å‘å¸ƒï¼Œæ›´æ–°atmosphere-1.6.1-prerelease-7f4450f93ï¼Œloader patchï¼Œæ›´æ–°TegraExplorer--v4.1.1ï¼ŒMissionControl-0.10.0-master-38c9879ï¼ŒNXThemesInstaller-2.7.1å’Œ17.0çš„IPSä¸»é¢˜è¡¥ä¸ï¼Œå…¼å®¹17.0.0çš„nxdumptool.nroã€‚å’Œå¤§æ°”å±‚1.6.0ä¸€æ ·ï¼Œå› ä¸ºsigpatchæ²¡æ›´æ–°ï¼Œå»ºè®®è™šæ‹Ÿç³»ç»Ÿæœ€é«˜æ˜¯16.1.0ï¼Œå¯ä»¥çŽ©ç ´è§£æ¸¸æˆï¼Œteslaä¹Ÿèƒ½ç”¨ä¸ä¼šæŠ¥é”™ï¼Œè€Œæ­£ç‰ˆç³»ç»Ÿå¯ä»¥æ”¾å¿ƒå‡çº§åˆ°17.0.0ï¼Œå¤§æ°”å±‚å·²ç»ä¿®å¤äº†BUGã€‚
+2023.10.25ï¼Œå¤§æ°”å±‚1.6.1çº¯å‡€åŒ…å’Œé«˜çº§åŒ…å‡çº§v2ï¼Œæ›´æ–°17.0.0çš„FSè¡¥ä¸ï¼ŒSigpatchæœ€é«˜æ”¯æŒ17.0.0ï¼Œè™šæ‹Ÿç³»ç»Ÿå¯å‡çº§17.0.0çŽ©ç ´è§£æ¸¸æˆã€‚æ³¨æ„ï¼šå¦‚æžœåœ¨17.0.0ç³»ç»Ÿå†…å› Teslaæ’ä»¶å‡ºé”™ï¼Œå¯ä»¥æŠŠTeslaç­‰æ’ä»¶åœ¨Deepseaå·¥å…·ç®±æˆ–è€…HekateåŠ è½½CommonProblemResolver.binä¸€é”®å…³é—­ï¼Œç›®å‰Teslaï¼ŒEdizoné‡‘æ‰‹æŒ‡éƒ½æ­£å¸¸ä½¿ç”¨ï¼Œå¦‚ä¸æƒ³ç­‰æ’ä»¶æ›´æ–°ï¼Œä¹Ÿå¯ä»¥é™çº§è™šæ‹Ÿç³»ç»Ÿè¿”å›ž16.1.0ã€‚
+2023.10.26ï¼Œå¤§æ°”å±‚1.6.1çº¯å‡€åŒ…å’Œé«˜çº§åŒ…å‡çº§v3ï¼Œæš‚æ—¶æ›¿æ¢å…¼å®¹17.0çš„sys-clkè¶…é¢‘æ’ä»¶å’Œldnè”æœºæ’ä»¶ï¼Œæ›´æ–°DBI628ï¼Œå› Teslaå…¼å®¹17.0æ‰€ä»¥æ”¹å›žå¼€æœºè‡ªåŠ¨å¯åŠ¨ï¼ˆæ”¾å›žboot2.flagç©ºæ–‡ä»¶ï¼‰ï¼Œå…¶ä½™æ’ä»¶ä»éœ€Deepseaå·¥å…·ç®±é‡Œå¼€å¯åŽç”Ÿæ•ˆã€‚
+2023.10.28ï¼Œå¤§æ°”å±‚1.6.2çº¯å‡€åŒ…å’Œé«˜çº§åŒ…v1å‘å¸ƒï¼Œæ›´æ–°atmosphere-1.6.2æ­£å¼ç‰ˆ-f7bf379cfï¼Œæ›´æ–°aio-switch-updater.nro-v2.23.1ï¼ŒHaku33.nro-5.7ã€‚
+2023.10.31ï¼Œå¤§æ°”å±‚1.6.2é«˜çº§åŒ…æ›´æ–°v2ï¼Œæ›´æ–°Haku33.nro-6.0å’ŒWiliwili.nro-1.2.0ã€‚
+2023.11.12ï¼Œå¤§æ°”å±‚1.6.2çº¯å‡€åŒ…æ›´æ–°v2ï¼Œé«˜çº§åŒ…æ›´æ–°v3ï¼Œæ›´æ–°dbi633æ±‰åŒ–ç‰ˆå’Œnxdumptool.nroï¼Œå› zdm65477730å¤§ä½¬æš‚æœªæ›´æ–°ç»ˆæžç‰ˆTeslaæ’ä»¶ï¼ŒçŽ°æœ‰çš„éƒ¨åˆ†æ±‰åŒ–ç‰ˆTeslaæ’ä»¶åœ¨éžç®€ä¸­ç³»ç»Ÿä¼šå‡ºçŽ°ä¹±ç è€Œéžè‹±æ–‡ï¼Œæ•…æ›´æ–°åŽŸç‰ˆsys-clk-2.0.0rc4è¶…é¢‘æ’ä»¶å’ŒStatus-Monitor1.0.1ç›‘æŽ§æ’ä»¶ã€‚
+2023.11.13ï¼Œå¤§æ°”å±‚é«˜çº§åŒ…æ›´æ–°v4ï¼Œæ›´æ–°saltynx-0.7.1ï¼ŒHaku33.nro-6.1ï¼ŒWiliwili.nro-1.2.1ã€‚
+2023.11.16ï¼Œå¤§æ°”å±‚é«˜çº§åŒ…æ›´æ–°v5ï¼Œæ›´æ–°aio-switch-updater.nro-v2.23.2å’ŒWiliwili.nro-1.2.2ã€‚
+2023.11.28ï¼Œå¤§æ°”å±‚çº¯å‡€åŒ…æ›´æ–°v3ï¼Œé«˜çº§åŒ…æ›´æ–°v6ï¼Œæ›´æ–°2.0.0_aè¶…é¢‘æ’ä»¶ï¼ˆUncapped GPUï¼‰å’Œldnè”æœºæ’ä»¶ï¼Œæ›´æ–°DBI640ï¼ŒTinfoil-17v2ï¼Œæ­¤åŒ…å¯ä»¥åœ¨1.5.2é«˜çº§åŒ…v2åŠä»¥ä¸Šçš„ç‰ˆæœ¬è¦†ç›–å‡çº§ã€‚
