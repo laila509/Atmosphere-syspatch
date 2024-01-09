@@ -1,6 +1,6 @@
-# 奇乐融合大气层破解包v8-莱莱踢个球
+# 奇乐融合大气层破解包v9-莱莱踢个球
 
-2024.1.3，大气层1.6.2纯净包更新v5，高级包更新v8，更新Z大的全套Tesla插件（Emuiibo插件如果启动不了，请删除TF卡Emuiibo/后再重启），更新DBI657，nxdumptool，此包可以在1.5.2高级包v2及以上的版本覆盖升级。从1.6.2高级包v7开始，莱莱会集成Switch-OC-Suite极限超频插件覆盖包，非续航不建议使用极限超频，因为高级包带的普通超频插件够用。
+2024.1.9，大气层1.6.2纯净包更新v6，高级包更新v9，更新Z大的StatusMonitor和ReverseNX-RT插件，更新DBI658，加入树莓派picofly_toolbox.bin，如遇到amiibo模拟插件无法启动，删除TF：emuiibo/之后重启即可，或者改用原版emuiibo插件替换。此包可以在1.5.2高级包v2及以上的版本覆盖升级。从1.6.2高级包v7开始，莱莱会集成Switch-OC-Suite极限超频插件覆盖包，非续航不建议使用极限超频，因为高级包带的普通超频插件够用。
 
 https://github.com/laila509/QL-ATM-Package/releases
 
