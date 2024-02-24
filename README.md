@@ -1,6 +1,6 @@
 # 奇乐融合大气层破解包v13-莱莱踢个球
 
-2024.2.24，大气层1.6.2纯净包更新v7，高级包更新v12，更新hekate_ctcaer_6.1.0_Nyx_1.6.0（Z大汉化nyx.bin），更新Z大的saltynx-v0.7.2。如遇到amiibo模拟插件无法启动，删除TF：emuiibo/之后重启即可，此包可以在1.5.2高级包v2及以上的版本覆盖升级。
+2024.2.24，大气层1.6.2纯净包更新v7，高级包更新v13，更新hekate_ctcaer_6.1.0_Nyx_1.6.0（Z大汉化nyx.bin），更新Z大的saltynx-v0.7.2。如遇到amiibo模拟插件无法启动，删除TF：emuiibo/之后重启即可，此包可以在1.5.2高级包v2及以上的版本覆盖升级。
 
 https://github.com/laila509/QL-ATM-Package/releases
 
