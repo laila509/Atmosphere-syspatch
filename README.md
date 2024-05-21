@@ -2,4 +2,4 @@
 
 <img src="https://github.com/laila509/QL-ATM-Package/blob/master/QL-ATM-list.jpg?raw=true" align="center" width="80%" />
 
-<img src="https://github.com/laila509/QL-ATM-Package/blob/master/QL-ATM-package.jpg?raw=true" align="center" width="80%" />
+<img src="https://github.com/laila509/QL-ATM-Package/blob/master/QL-ATM-Package.jpg?raw=true" align="center" width="80%" />
