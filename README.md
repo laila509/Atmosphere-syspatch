@@ -39,4 +39,4 @@ https://www.tekqart.com/thread-222735-1-1.html
 
 <img src="https://github.com/laila509/QL-ATM-Package/blob/master/QL-ATM-list2.jpg?raw=true" align="center" width="80%" />
 
-<img src="https://github.com/laila509/QL-ATM-Package/blob/master/QL-ATM-Package.jpg?raw=true" align="center" width="80%" />
+<img src="https://github.com/laila509/QL-ATM-Package/blob/master/Atmosphere-1.7.1-v1-syspatch.jpg?raw=true" align="center" width="80%" />
