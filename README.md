@@ -39,6 +39,8 @@ https://www.tekqart.com/thread-222735-1-1.html
 
 大气层集成sys-patch插件破解包因为插件少，几乎等于大气层纯净包，非常的稳定，不会出现报错，一般报错就是你的TF卡或者其它硬件问题。
 
+<img src="https://github.com/laila509/QL-ATM-Package/blob/master/sys-patch-fileslist.jpg?raw=true" align="center" width="80%" />
+
 <img src="https://github.com/laila509/QL-ATM-Package/blob/master/QL-ATM-list2.jpg?raw=true" align="center" width="80%" />
 
 <img src="https://github.com/laila509/QL-ATM-Package/blob/master/Atmosphere-1.7.1-v1-syspatch.jpg?raw=true" align="center" width="80%" />
