@@ -1,7 +1,9 @@
 大气层1.7.1集成sys-patch插件破解包
 =====
 
-2024.9.9，大气层1.7.1破解包v9发布，更新StatusMonitor.ovl-1.1.3英文原版，更新极限超频插件EOS1.4.2。
+2024.9.16，大气层1.7.1破解包v10发布，Tesla将由ultrahand同名替代，优化内存使用，替换组件是ovlmenu.ovl（ultrahand-1.7.7）和ovlloader-v1.0.8+，因为是同文件名的文件替换，所以可直接覆盖TF卡完成大气层破解包的升级。更新极限超频插件EOS1.4.3。
+
+此外有几个TF卡上旧的文件可以删，虽然不删也不会影响系统稳定，因有了ultrahand，所以它们都是些无效的配置文件。分别是tf：config/tesla/config.ini，tf：config/Tesla-Menu/sort.cfg，tf：switch/.overlays/lang/Tesla-Menu/。因为StatusMonitor已替换为英文原版，所以tf：switch/.overlays/lang/StatusMonitor的语言包文件也无效。
 
 第一次使用集成sys-patch插件破解包需要看下面的更新TF卡大气层文件的说明，只要你当前用的是莱莱发布的集成sys-patch插件大气层破解包，更新日志里没有特别说明，以后都是直接覆盖到TF卡完成大气层文件的更新升级，极限超频插件每次升级后也要覆盖一次，否则会被破解包中的普通超频插件替换。
 
