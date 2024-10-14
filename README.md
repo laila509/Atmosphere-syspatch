@@ -1,7 +1,10 @@
-大气层1.7.1集成sys-patch插件破解包
+大气层1.8.0集成sys-patch插件破解包
 =====
 
-2024.10.1，大气层1.7.1破解包v11发布，更新ovlmenu-ultrahand-1.7.8中文，EdiZon.ovl-1.0.9英文，更新极限超频插件EOS1.4.4。
+2024.10.14，大气层1.8.0破解包v1发布，更新atmosphere-1.8.0-preprerelease-5717ea6c0，hekate_ctcaer_6.2.2_Nyx_1.6.4中文，sys-patch-1.5.2-fw19，最高支持SW19.0.0系统，可以玩破解游戏了。更新Lockpick_RCM.bin-1.9.13英文，StatusMonitor.ovl-1.1.4英文，sys-clk.ovl-2.0.0-dev1900-poc英文，新的万能前端hbmenu.nsp，需删除桌面旧的hbmenu图标后再安装，否则会有两个hbmenu。
+
+已知：主题补丁theme-patches未更新，最高只能支持18.1.0，如果安装过主题的可以卸载后再升级19.0.0，或者hekate加载CommonProblemResolver.bin去卸载主题。极限超频插件EOS暂不支持，如果之前安装过，请删除tf卡atmosphere/kips/loader.kip后再覆盖大气层1.8.0的破解包替换成普通超频。超频暂时不插电GPU最高614。暂时不支持自制nsp前端工具，只能通过安装新的万能前端hbmenu或按住R进游戏的方式打开nro前端软件，其中tinfoil.nro是强制前端版本，所以暂时不可用，可替换applet版的nro。
+
 
 第一次使用集成sys-patch插件破解包需要看下面的更新TF卡大气层文件的说明，只要你当前用的是莱莱发布的集成sys-patch插件大气层破解包，更新日志里没有特别说明，以后都是直接覆盖到TF卡完成大气层文件的更新升级，极限超频插件每次升级后也要覆盖一次，否则会被破解包中的普通超频插件替换。
 
