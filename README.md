@@ -1,6 +1,8 @@
 大气层1.8.0集成sys-patch插件破解包
 =====
 
+2024.10.20，大气层1.8.0破解包v4发布，更新ovlloader-1.0.9+，ovlmenu-ultrahand-1.7.9中文。
+
 2024.10.17，大气层1.8.0破解包v3发布，更新atmosphere-1.8.0-prerelease-c6014b533（sys-patch-1.5.2-fw19继续支持，无需更新），更新sys-clk.ovl-2.0.1英文、更新极限超频插件EOS1.5.0支持大气层1.8.0。
 
 2024.10.14晚，大气层1.8.0破解包v2发布，和1.8.0破解包v1一样，如有极限超频EOS的，要先删loader.kip后再覆盖完成升级。更新主题补丁theme-patches最高支持19.0.0，themes/systemPatches18.1.0/是主题补丁的备份，也是支持19.0.0的，不修改文件夹名称为了方便大气层破解包的覆盖升级。更新nxdumptool.nro，替换tinfoil.nro为applet版的nro，和wiliwili.nro一样，通过安装新的万能前端hbmenu或按住R进游戏的方式打开相册里的nro软件。
