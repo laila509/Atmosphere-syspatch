@@ -1,6 +1,8 @@
 大气层1.8.0集成sys-patch插件破解包
 =====
 
+2024.10.25，大气层1.8.0破解包v5发布，更新zdm大佬编译的汉化版hekate，中英文版的ovlloader，ovlmenu-ultrahand，sys-clk.ovl，StatusMonitor.ovl，EdiZon，ovlsysmodule，NX-Activity-Log.nro和NX-Shell.nro，更新wiliwili.nro-1.5.0，更新sys-patch_153_forwarders_2。
+
 2024.10.20，大气层1.8.0破解包v4发布，更新ovlloader-1.0.9+，ovlmenu-ultrahand-1.7.9中文。
 
 2024.10.17，大气层1.8.0破解包v3发布，更新atmosphere-1.8.0-prerelease-c6014b533（sys-patch-1.5.2-fw19继续支持，无需更新），更新sys-clk.ovl-2.0.1英文、更新极限超频插件EOS1.5.0支持大气层1.8.0。
