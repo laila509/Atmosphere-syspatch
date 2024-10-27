@@ -1,6 +1,8 @@
 大气层1.8.0集成sys-patch插件破解包
 =====
 
+2024.10.27，大气层1.8.0破解包v6发布，更新sys-patch-154，修复了17.0.0系统的bug，虽然玩大气层的都知道只要大气层更新最高支持19.0.0系统，那就没人会降级到17.0.0或更低的，肯定daybreak刷系统到19.0.0或18.1.0。
+
 2024.10.25，大气层1.8.0破解包v5发布，更新zdm大佬编译的汉化版hekate，中英文版的ovlloader，ovlmenu-ultrahand，sys-clk.ovl，StatusMonitor.ovl，EdiZon，ovlsysmodule，NX-Activity-Log.nro和NX-Shell.nro，更新wiliwili.nro-1.5.0，更新sys-patch_153_forwarders_2。
 
 2024.10.20，大气层1.8.0破解包v4发布，更新ovlloader-1.0.9+，ovlmenu-ultrahand-1.7.9中文。
