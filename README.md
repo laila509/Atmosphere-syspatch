@@ -1,6 +1,8 @@
 大气层1.8.0集成sys-patch插件破解包
 =====
 
+2024.11.18，大气层1.8.0破解包v9发布，更新sys-patch-155英文，更新NX-Activity-Log.nro-1.5.2中文，ftpd.nro-3.2.1英文。
+
 2024.11.10，大气层1.8.0破解包v8发布，更新zdm大佬编译的nyx.bin修复文件，编译的全套Tesla插件，更新NX-Activity-Log.nro-1.5.1中文。
 
 2024.11.6，大气层1.8.0破解包v7发布，换回v4的easyworld编译汉化Hekate的nyx.bin文件，更新JKSV.nro-11.05.2024，linkalho.nro，nxdumptool.nro。
