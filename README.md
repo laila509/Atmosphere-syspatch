@@ -1,6 +1,8 @@
 大气层1.8.0集成sys-patch插件破解包
 =====
 
+2025.1.6，大气层1.8.0破解包v12发布，更新DBI.nro-749俄文，新加tinwoo.nro-1.0.27（类Awoo）
+
 2024.12.11，大气层1.8.0破解包v11发布，更新sys-patch-156，Tinfoil.nro-19.0v1前端版中文，ovlsysmodule中文。
 
 2024.11.30，大气层1.8.0破解包v10发布，更新最新英文原版Tesla-ultrahand全套插件，包括edizon金手指和sys-clk超频插件，更新NX-Activity-Log.nro-1.5.4中文，新加最新俄文版dbi731，路径在switch/dbi-ru/。删除AtmoXL-Titel-Installer.nro，Calculator_NX.nro，Firmware-Dumper.nro，NX-Shell.nro四个基本废弃的nro软件，所以不影响覆盖升级，都在switch/文件夹下。
