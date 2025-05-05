@@ -1,9 +1,11 @@
 大气层1.9.0集成sys-patch插件破解包
 =====
 
-2025.5.5，大气层1.9.0破解包v1发布，更新atmosphere-1.9.0-test，hekate_ctcaer_6.2.2_Nyx_1.6.4-dirty英文，sys-patch-156-21015c1-Fix nifm for 20.0.0+，Checkpoint.nro-3.10.0英文，DBI.nro-781俄文，NX-Activity-Log.nro-1.5.7中文，Lockpick_RCM.bin-1.9.14英文。
+2025.5.5下午，大气层1.9.0破解包v2发布，更新atmosphere-1.9.0-preprerelease-20_support-9dd8269f7解决ATM-Auto大气层自动选择的引导设置，更新hekate_ctcaer_6.2.5_Nyx_1.6.4英文，sys-patch-156-21015c1-Fix nifm for 20.0.0+依然支持。可以覆盖v1升级。
 
-注意：此大气层1.9.0破解包大气层内核是测试版，真实和虚拟都可以升级到20.0.1，第一次进系统可能会需要等待较长时间，看TF卡质量，进入系统后就不会有什么问题了。但是真实和虚拟在20.0.1之后，如果想降级系统19.0.1或以下，需要提前做系统初始化，否则会报错，或在daybreak刷机、进系统前的维护模式都可以系统初始化。如果不降级系统就没事。sys-patch支持20.0.1，联网正常，可以在20.0.1系统安装和游玩破解游戏，刷B站，fusee.bin引导20.0.1可能不稳定卡logo，所以删除ATM-Auto大气层自动识别的引导设置，fss0引导不影响。Tesla，edizon，sys-clk正常，sys-clk-EOS极限超频的loader.kip未更新会黑屏，可以删除loader.kip和修改hekate_ipl.ini的kip1=atmosphere/kips/loader.kip解决启动问题。相册里的自制软件大部分都能正常使用，比如DBI，TINWOO，JKSV等，建议虚拟系统安装万能前端运行这些软件。
+2025.5.5上午，大气层1.9.0破解包v1发布，更新atmosphere-1.9.0-test，hekate_ctcaer_6.2.2_Nyx_1.6.4-dirty英文，sys-patch-156-21015c1-Fix nifm for 20.0.0+，Checkpoint.nro-3.10.0英文，DBI.nro-781俄文，NX-Activity-Log.nro-1.5.7中文，Lockpick_RCM.bin-1.9.14英文。
+
+注意：此大气层1.9.0破解包大气层内核是测试版，真实和虚拟都可以升级到20.0.1，第一次进系统可能会需要等待较长时间，进入系统后就不会有什么问题了。但是真实和虚拟在20.0.1之后，如果想降级系统19.0.1或以下，需要提前做系统初始化，否则会报错，或在daybreak刷机、进系统前的维护模式都可以系统初始化。如果不降级系统就没事。sys-patch支持20.0.1，联网正常，可以在20.0.1系统安装和游玩破解游戏，刷B站。Tesla，edizon，sys-clk正常，sys-clk-EOS极限超频的loader.kip未更新会黑屏，可以删除loader.kip和修改hekate_ipl.ini的kip1=atmosphere/kips/loader.kip解决启动问题。20.0.0的主题补丁还未发布，建议卸载主题。相册里的自制软件大部分都能正常使用，比如DBI，TINWOO，JKSV等，但是jksv进软件等待时间可能较长，建议虚拟系统安装万能前端运行这些软件。
 
 第一次使用集成sys-patch插件破解包需要看下面的更新TF卡大气层文件的说明，只要你当前用的是莱莱发布的集成sys-patch插件大气层破解包，都是直接覆盖到TF卡完成大气层文件的更新升级，每次更新TF卡上的大气层文件，不能dbi.nro或者haze.nro，建议选（1）重启hekate，在usb工具-SD卡这里usb数据线连win电脑。（2）关机取出TF卡，插入读卡器接win电脑。如果你需要打开极限超频插件Switch-OC-Suite，每次大气层升级后也要覆盖一次，否则会被破解包中的普通超频插件替换。
 
