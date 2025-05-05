@@ -1,35 +1,9 @@
-大气层1.8.0集成sys-patch插件破解包
+大气层1.9.0集成sys-patch插件破解包
 =====
 
-2025.3.27，大气层1.8.0破解包v15发布，更新Checkpoint.nro-3.8.1英文（依然需要前端模式运行该软件），DBI.nro-775俄文。
+2025.5.5，大气层1.9.0破解包v1发布，更新atmosphere-1.9.0-test，hekate_ctcaer_6.2.2_Nyx_1.6.4-dirty英文，sys-patch-156-21015c1-Fix nifm for 20.0.0+，Checkpoint.nro-3.10.0英文，DBI.nro-781俄文，NX-Activity-Log.nro-1.5.7中文，Lockpick_RCM.bin-1.9.14英文。
 
-2025.2.27，大气层1.8.0破解包v14发布，更新DBI.nro-763俄文，wiliwili.nro-1.5.1中文，更新“一键清理TF卡上旧的大气层破解包文件v2”，可删除旧的破解包文件。
-
-2025.2.2，大气层1.8.0破解包v13发布，更新DBI.nro-750俄文，nxdumptool.nro，更新极限超频插件EOS1.5.1，新加“一键清理TF卡上旧的大气层破解包文件”，可删除旧的破解包文件。
-
-2025.1.6，大气层1.8.0破解包v12发布，更新DBI.nro-749俄文，新加tinwoo.nro-1.0.27（类Awoo）
-
-2024.12.11，大气层1.8.0破解包v11发布，更新sys-patch-156，Tinfoil.nro-19.0v1前端版中文，ovlsysmodule中文。
-
-2024.11.30，大气层1.8.0破解包v10发布，更新最新英文原版Tesla-ultrahand全套插件，包括edizon金手指和sys-clk超频插件，更新NX-Activity-Log.nro-1.5.4中文，新加最新俄文版dbi731，路径在switch/dbi-ru/。删除AtmoXL-Titel-Installer.nro，Calculator_NX.nro，Firmware-Dumper.nro，NX-Shell.nro四个基本废弃的nro软件，所以不影响覆盖升级，都在switch/文件夹下。
-
-2024.11.18，大气层1.8.0破解包v9发布，更新sys-patch-155英文，更新NX-Activity-Log.nro-1.5.2中文，ftpd.nro-3.2.1英文。
-
-2024.11.10，大气层1.8.0破解包v8发布，更新zdm大佬编译的nyx.bin修复文件，编译的全套Tesla插件，更新NX-Activity-Log.nro-1.5.1中文。
-
-2024.11.6，大气层1.8.0破解包v7发布，换回v4的easyworld编译汉化Hekate的nyx.bin文件，更新JKSV.nro-11.05.2024，linkalho.nro，nxdumptool.nro。
-
-2024.10.27，大气层1.8.0破解包v6发布，更新sys-patch-154，修复了17.0.0系统的bug，虽然玩大气层的都知道只要大气层更新最高支持19.0.0系统，那就没人会降级到17.0.0或更低的，肯定daybreak刷系统到19.0.0或18.1.0。
-
-2024.10.25，大气层1.8.0破解包v5发布，更新zdm大佬编译的汉化版hekate，中英文版的ovlloader，ovlmenu-ultrahand，sys-clk.ovl，StatusMonitor.ovl，EdiZon，ovlsysmodule，NX-Activity-Log.nro和NX-Shell.nro，更新wiliwili.nro-1.5.0，更新sys-patch_153_forwarders_2。
-
-2024.10.20，大气层1.8.0破解包v4发布，更新ovlloader-1.0.9+，ovlmenu-ultrahand-1.7.9中文。
-
-2024.10.17，大气层1.8.0破解包v3发布，更新atmosphere-1.8.0-prerelease-c6014b533（sys-patch-1.5.2-fw19继续支持，无需更新），更新sys-clk.ovl-2.0.1英文、更新极限超频插件EOS1.5.0支持大气层1.8.0。
-
-2024.10.14晚，大气层1.8.0破解包v2发布，和1.8.0破解包v1一样，如有极限超频EOS的，要先删loader.kip后再覆盖完成升级。更新主题补丁theme-patches最高支持19.0.0，themes/systemPatches18.1.0/是主题补丁的备份，也是支持19.0.0的，不修改文件夹名称为了方便大气层破解包的覆盖升级。更新nxdumptool.nro，替换tinfoil.nro为applet版的nro，和wiliwili.nro一样，通过安装新的万能前端hbmenu或按住R进游戏的方式打开相册里的nro软件。
-
-2024.10.14，大气层1.8.0破解包v1发布，更新atmosphere-1.8.0-preprerelease-5717ea6c0，hekate_ctcaer_6.2.2_Nyx_1.6.4中文，sys-patch-1.5.2-fw19，最高支持SW19.0.0系统，可以玩破解游戏了。更新Lockpick_RCM.bin-1.9.13英文，StatusMonitor.ovl-1.1.4英文，sys-clk.ovl-2.0.0-dev1900-poc英文，新的万能前端hbmenu.nsp，需删除桌面旧的hbmenu图标后再安装，否则会有两个hbmenu。
+注意：此大气层1.9.0破解包大气层内核是测试版，真实和虚拟都可以升级到20.0.1，第一次进系统可能会需要等待较长时间，看TF卡质量，进入系统后就不会有什么问题了。但是真实和虚拟在20.0.1之后，如果想降级系统19.0.1或以下，需要提前做系统初始化，否则会报错，或在daybreak刷机、进系统前的维护模式都可以系统初始化。如果不降级系统就没事。sys-patch支持20.0.1，联网正常，可以在20.0.1系统安装和游玩破解游戏，刷B站，fusee.bin引导20.0.1可能不稳定卡logo，所以删除ATM-Auto大气层自动识别的引导设置，fss0引导不影响。Tesla，edizon，sys-clk正常，sys-clk-EOS极限超频的loader.kip未更新会黑屏，可以删除loader.kip和修改hekate_ipl.ini的kip1=atmosphere/kips/loader.kip解决启动问题。相册里的自制软件大部分都能正常使用，比如DBI，TINWOO，JKSV等，建议虚拟系统安装万能前端运行这些软件。
 
 第一次使用集成sys-patch插件破解包需要看下面的更新TF卡大气层文件的说明，只要你当前用的是莱莱发布的集成sys-patch插件大气层破解包，更新日志里没有特别说明，以后都是直接覆盖到TF卡完成大气层文件的更新升级，极限超频插件每次升级后也要覆盖一次，否则会被破解包中的普通超频插件替换。
 
