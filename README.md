@@ -1,6 +1,8 @@
 大气层1.9.0集成sys-patch插件破解包
 =====
 
+2025.5.10，大气层1.9.0破解包v4发布，更新atmosphere-1.9.0-prerelease-1d3f3c6e5+hbl-2.4.4+hbmenu-3.6.0，hekate_ctcaer_6.3.0_Nyx_1.7.0英文，sys-patch继续有效。
+
 2025.5.9，大气层1.9.0破解包v3发布，更新sys-patch-156-2ca9ba8-Fix nifm for 20.0.0+，Lockpick_RCM.bin-1.9.15英文，ovlmenu-ultrahand-1.8.3英文，StatusMonitor.ovl-1.1.8英文，删除sys-clk-2.0.1英文改由sys-clk-EOS-1.6.0英文替换（可选覆盖3文件启动极限超频）。更新主题补丁theme-patches最高支持20.0.1，themes/systemPatches18.1.0/是主题补丁的备份，也是支持20.0.1的，不修改文件夹名称为了方便大气层破解包的覆盖升级。更新nxdumptool.nro，DBI.nro-785俄文。
 
 2025.5.5下午，大气层1.9.0破解包v2发布，更新atmosphere-1.9.0-preprerelease-20_support-9dd8269f7解决ATM-Auto大气层自动选择的引导设置，更新hekate_ctcaer_6.2.5_Nyx_1.6.4英文，sys-patch-156-21015c1-Fix nifm for 20.0.0+依然支持。可以覆盖v1升级。
