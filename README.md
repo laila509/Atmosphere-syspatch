@@ -1,9 +1,9 @@
-大气层1.9.1集成sys-patch插件破解包v3-莱莱踢个球
+大气层1.9.1集成sys-patch插件破解包v4-莱莱踢个球
 ====
 
 大气层1.9.1最高支持20.1.1系统
 
-2025.6.11，大气层1.9.1破解包v3发布，更新zdm65477730大佬开发的汉化终极版Tesla基础5件套（ovlloader，ovlmenu-ultrahand，ovlsysmodule，EdiZon和StatusMonitor），更新时鹏亮汉化版DBI794.nro，Goldleaf.nro-1.1.1中文，更新极限超频sys-clk-EOS-1.6.2英文。
+2025.6.14，大气层1.9.1破解包v4发布，更新zdm65477730大佬开发的汉化终极版ovlmenu-ultrahand，更新超频插件sys-clk，新加switch/sphaira/sphaira.nro中文，类似相册菜单hbmenu.nro但功能强大，可复制它并重命名替换根目录的hbmenu.nro（相册菜单），默认不替换，可设置config/sphaira/config.ini修改。
 
 注意：
 ====
