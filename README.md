@@ -1,9 +1,9 @@
-大气层1.9.1集成sys-patch插件破解包v5-莱莱踢个球
+大气层1.9.1集成sys-patch插件破解包v6-莱莱踢个球
 ====
 
 大气层1.9.1最高支持20.1.5系统
 
-2025.6.19，大气层1.9.1破解包v5发布，更新zdm65477730大佬开发的汉化终极版ovlmenu-ultrahand，更新超频sys-clk-EOS-1.6.2.2英文，sphaira.nro-0.13.2中文。
+2025.7.8，大气层1.9.1破解包v6发布，更新zdm65477730大佬开发的汉化终极版ovlmenu-ultrahand，更新超频sys-clk-EOS-1.6.3.1英文，sphaira.nro-0.13.3中文，Checkpoint.nro-3.10.1英文，更新时鹏亮汉化版DBI797.nro。
 
 注意：
 ====
