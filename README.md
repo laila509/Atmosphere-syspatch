@@ -1,9 +1,11 @@
-大气层1.9.1集成sys-patch插件破解包v6-莱莱踢个球
+大气层1.9.1集成sys-patch插件破解包v7-莱莱踢个球
 ====
 
-大气层1.9.1最高支持20.1.5系统
+大气层1.9.1最高支持20.2.0系统
 
-2025.7.8，大气层1.9.1破解包v6发布，更新zdm65477730大佬开发的汉化终极版ovlmenu-ultrahand，更新超频sys-clk-EOS-1.6.3.1英文，sphaira.nro-0.13.3中文，Checkpoint.nro-3.10.1英文，更新时鹏亮汉化版DBI797.nro。
+2025.7.15，大气层1.9.1破解包v7发布，更新gbatemp的muxi大佬发布的兼容SW20.2.0的大气层1.9.1-atmosphere-1.9.1-master-7e0eb10e3（替换stratosphere.romfs，package3和fusee.bin三个文件），sys-patch-156继续支持20.2.0。极限超频EOS的loader.kip不支持，所以要删除hekate_ipl.ini中kip1=atmosphere/kips/loader.kip和删除atmosphere/kips/loader.kip文件。
+
+正版系统升级20.2.0，没有熔断，但是不更新大气层1.9.1-v7，只能进机身正版系统，虚拟系统是没有影响的，可以继续保持20.1.5。
 
 注意：
 ====
