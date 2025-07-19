@@ -1,9 +1,9 @@
-大气层1.9.2集成sys-patch插件破解包v1-莱莱踢个球
+大气层1.9.2集成sys-patch插件破解包v2-莱莱踢个球
 ====
 
 大气层1.9.2最高支持20.2.0系统，向下兼容支持19.0等低版本系统。
 
-2025.7.17，大气层1.9.2破解包v1发布，更新atmosphere-1.9.2-master-af859d9e6，极限超频sys-clk-EOS-1.6.4英文。
+2025.7.19，大气层1.9.2破解包v2发布，更新tf卡atmosphere/config/system_settings.ini配置消除wifi后待机的耗电异常高现象。更新zdm65477730大佬开发的汉化终极版Tesla基础5件套（ovlloader，ovlmenu-ultrahand，ovlsysmodule，EdiZon和StatusMonitor，其中ovlmenu-ultrahand可自动修复20.0.0+国行升级变砖的错误），更新时鹏亮汉化版DBI798.nro。
 
 注意：
 ====
