@@ -5,8 +5,6 @@
 
 2025.8.3，大气层1.9.3破解包v2发布，更新zdm65477730大佬的Tesla基础五件套（ovlloader，ovlmenu-ultrahand，ovlsysmodule，EdiZon和StatusMonitor），极限超频sys-clk-EOS-1.6.4英文的loader.kip暂时不支持atmosphere-1.9.3，等更新loader.kip才能使用极限超频，之前使用极限超频的可以先删除改普通超频。
 
-2025.7.30，大气层1.9.3破解包v1发布，更新atmosphere-1.9.3-master-8b8e4438e，更新zdm65477730大佬的ovlmenu-ultrahand，更新时鹏亮汉化版DBI800.nro。极限超频sys-clk-EOS-1.6.4英文的loader.kip暂时不支持atmosphere-1.9.3，等更新loader.kip才能使用极限超频，之前使用极限超频的可以先删除改普通超频。
-
 注意：
 ====
 
