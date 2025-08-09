@@ -1,9 +1,9 @@
-大气层1.9.3集成sys-patch插件破解包v2-莱莱踢个球
+大气层1.9.3集成sys-patch插件破解包v3-莱莱踢个球
 ====
 
 大气层1.9.3最高支持20.3.0系统，向下兼容支持19.0等低版本系统。
 
-2025.8.3，大气层1.9.3破解包v2发布，更新zdm65477730大佬的Tesla基础五件套（ovlloader，ovlmenu-ultrahand，ovlsysmodule，EdiZon和StatusMonitor），极限超频sys-clk-EOS-1.6.4英文的loader.kip暂时不支持atmosphere-1.9.3，等更新loader.kip才能使用极限超频，之前使用极限超频的可以先删除改普通超频。
+2025.8.9，大气层1.9.3破解包v3发布，更新极限超频sys-clk-EOS-1.6.5.1英文，loader.kip支持atmosphere-1.9.3，更新wiliwili.nro-1.5.2中文。
 
 注意：
 ====
