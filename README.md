@@ -1,9 +1,9 @@
-大气层1.9.3集成sys-patch插件破解包v3-莱莱踢个球
+大气层1.9.3集成sys-patch插件破解包v4-莱莱踢个球
 ====
 
 大气层1.9.3最高支持20.3.0系统，向下兼容支持19.0等低版本系统。
 
-2025.8.9，大气层1.9.3破解包v3发布，更新极限超频sys-clk-EOS-1.6.5.1英文，loader.kip支持atmosphere-1.9.3，更新wiliwili.nro-1.5.2中文。
+2025.8.20，大气层1.9.3破解包v4发布，更新zdm65477730大佬的Tesla（ovlmenu-ultrahand和StatusMonitor），更新时鹏亮汉化版DBI802.nro，更新极限超频sys-clk-EOS-1.6.7英文。
 
 注意：
 ====
