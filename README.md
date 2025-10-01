@@ -1,15 +1,9 @@
-大气层1.9.4集成sys-patch插件破解包v3-莱莱踢个球
+大气层1.9.5集成sys-patch插件破解包v1-莱莱踢个球
 ====
 
-大气层1.9.4最高支持20.4.0系统，向下兼容支持19.0等低版本系统。
+大气层1.9.5最高支持20.5.0系统，向下兼容支持19.0等低版本系统。
 
-Ultrahand 2.1.0-pre有点小bug，如需启动在相册Hekate/Deepsea工具箱里找Background services，设ON完毕，然后按B退出，再按Home保存后重启机器。切记：sys-patch必须每次ON。
-
-2025.9.14，大气层1.9.4破解包v3发布，更新zdm65477730大佬的Ultrahand 2.1.0-pre和StatusMonitor.ovl，Ultrahand特斯拉的启动快捷键L+Ddown，StatusMonitor状态监控的启动快捷键LSTICK+RSTICK。更新DBI.nro-810英文和中文版，更新JKSV.nro-09.08.2025中文。
-
-2025.9.5，大气层1.9.4破解包v2发布，更新极限超频sys-clk-EOS-1.6.8英文（和EOS-1.6.7的区别是loader.kip支持大气层1.9.4），如不使用极限超频的，大气层1.9.4破解包v1和v2无区别。
-
-2025.9.3，大气层1.9.4破解包v1发布，更新atmosphere-1.9.4-master-d7936d3fa，更新时鹏亮汉化版DBI806.nro，更新JKSV.nro-08.25.2025中文，极限超频sys-clk-EOS-1.6.7英文的loader.kip暂时不支持atmosphere-1.9.4，等更新loader.kip才能使用极限超频，之前使用极限超频的可以先删除改普通超频。
+2025.10.1，大气层1.9.5破解包v1发布，更新atmosphere-1.9.5-master-de9b02007，更新JKSV.nro-09.13.2025中文，DBI中英文版810，更新极限超频sys-clk-EOS-1.6.9英文，loader.kip支持大气层1.9.5。Ultrahand 2.1.0-pre有点小bug，如需启动在相册Hekate/Deepsea工具箱里找Background services，设ON完毕，然后按B退出，再按Home保存后重启机器。切记：sys-patch必须每次ON。
 
 注意：
 ====
