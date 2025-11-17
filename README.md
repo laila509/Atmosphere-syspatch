@@ -1,18 +1,20 @@
-大气层1.9.5集成sys-patch插件破解包v1-莱莱踢个球
-====
+大气层1.10.0集成sys-patch插件破解包v1-莱莱踢个球
+=====
 
-大气层1.9.5最高支持20.5.0系统，向下兼容支持19.0等低版本系统。
+大气层1.10.0最高支持21.0.0系统，向下兼容支持20.5.0等低版本系统。
 
-2025.10.1，大气层1.9.5破解包v1发布，更新atmosphere-1.9.5-master-de9b02007，更新JKSV.nro-09.13.2025中文，DBI中英文版810，更新极限超频sys-clk-EOS-1.6.9英文，loader.kip支持大气层1.9.5。Ultrahand 2.1.0-pre有点小bug，如需启动在相册Hekate/Deepsea工具箱里找Background services，设ON完毕，然后按B退出，再按Home保存后重启机器。切记：sys-patch必须每次ON。
+2025.11.18，大气层1.10.0破解包v1发布，更新atmosphere-1.10.0-prerelease-d9fc6e99e，hekate_ctcaer_6.4.1_Nyx_1.8.1，sys-patch_1.5.8-2，更新Lockpick_RCM.bin-1.9.16英文，万能前端hbmenu.nsp，更新全套Tesla插件为ppkantorski的英文版，当前的极限超频loader.kip不可用，Edizon金手指不可用。相册里更新JKSV.nro-11.16.2025中文，DeepseaToolbox.nro-47大佬汉化版，sphaira.nro-0.13.3中文（可以安装NSP），新增Awoo-Installer.nro-1.3.6中文（永久删除tinwoo.nro），这些都支持大气层1.10.0。其余软件和插件都有兼容问题，只能等更新。
 
 注意：
-====
+=====
 
-（1）莱莱从大气层1.9.1开始永久删除相册的一些无用且不怎么更新的NRO软件：Switch_90DNS_tester.nro、appstore.nro、Awoo-Installer.nro、ftpd.nro、nxdumptool.nro、NXThemesInstaller.nro（主题软件）、Haku33.nro、pplay.nro、switchtime.nro、tinfoil.nro。推荐使用一键清理TF卡上旧的大气层破解包文件v2。
+（1）大气层更新1.10.0系统后，所有之前适配的插件和软件都要更新，如DBI，wiliwili等常用软件，菜鸟最好只折腾虚拟系统在20.0玩当前所有的破解游戏，使用大气层1.9.5的破解包，那些玩正版系统升级21.0.0是为了dump正版游戏分享用的，菜鸟不要去折腾正版系统，因为升级21.0.0会导致熔断efuse=22，熔断不可逆。
 
-（2）国行系统强制升级20.0.0+也不会变砖，其中zdm大佬开发的ovlmenu-ultrahand可自动将20.0.0+的国行系统转成国际系统。
+（2）真实和虚拟在20.0.0+之后，如果想降级系统19.0.1或以下，需要在daybreak刷机、进系统前的维护模式做系统初始化，否则会报错。如果不降级系统就没事。同样的现象在21.0.0+后也出现，所以20.5.0降级20.1.0或20.2.0没事，但是21.0.0降级20.5.0或19.0.1都需要格式化。
 
-（3）真实和虚拟在20.0.0+之后，如果想降级系统19.0.1或以下，需要在daybreak刷机、进系统前的维护模式做系统初始化，否则会报错。如果不降级系统就没事。。
+（3）莱莱从大气层1.9.1开始永久删除相册的一些无用且不怎么更新的NRO软件：Switch_90DNS_tester.nro、appstore.nro、Awoo-Installer.nro、ftpd.nro、nxdumptool.nro、NXThemesInstaller.nro（主题软件）、Haku33.nro、pplay.nro、switchtime.nro、tinfoil.nro。
+推荐每次系统大版本更新，比如19.0升级到20.0或21.0的时候，建议使用一键清理TF卡上旧的大气层破解包文件v3再覆盖最新大气层破解包。
+注意国行系统强制升级20.0.0+前要先使用Tencent-switcher-GUI.nro转成全球系统才能升。
 
 第一次使用集成sys-patch插件破解包需要看下面的更新TF卡大气层文件的说明，只要你当前用的是莱莱发布的集成sys-patch插件大气层破解包，都是直接覆盖到TF卡完成大气层文件的更新升级，每次更新TF卡上的大气层文件，不能dbi.nro或者haze.nro，建议选（1）重启hekate，在usb工具-SD卡这里usb数据线连win电脑。（2）关机取出TF卡，插入读卡器接win电脑。如果你需要打开极限超频插件Switch-OC-Suite，每次大气层升级后也要覆盖一次，否则会被破解包中的普通超频插件替换。
 
