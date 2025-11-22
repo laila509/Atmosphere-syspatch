@@ -1,14 +1,14 @@
-大气层1.10.0集成sys-patch插件破解包v2-莱莱踢个球
+大气层1.10.0集成sys-patch插件破解包v3-莱莱踢个球
 =====
 
 大气层1.10.0最高支持21.0.0系统，向下兼容支持20.5.0等低版本系统。
 
-2025.11.20，大气层1.10.0破解包v2发布，可以在1.10.0的v1基础上覆盖升级，更新sys-patch-158-5，更新Zdm大佬的汉化版ovlmenu-ultrahand，nx-ovlloader，ovl-sysmodules（国行系统如果升级20.0+会自动转全球系统），StatusMonitor和EdiZon，相册里更新Checkpoint.nro，DBI.nro-839俄文版，linkalho.nro-2.02英文，sphaira.nro-1.0.0中文兼容大气层1.10.0。所以除了极限超频loader.kip不可用（升级大气层文件记得删除TF卡上loader.kip和还原hekate_ipl.ini），相册里还剩Goldleaf.nro，NX-Activity-Log.nro，wiliwili.nro，DBI.nro-838汉化版还不兼容，建议相册nro用前端模式进，不会内存报错。
+2025.11.22，大气层1.10.0破解包v3发布，可以在1.10.0的v1或v2基础上覆盖升级，更新DBI.nro-843汉化版和842俄文版，Goldleaf.nro，linkalho.nro，NX-Activity-Log.nro，wiliwili.nro，Tencent-switcher-GUI.nro，V3破解包除了极限超频loader.kip，其余插件和软件都兼容大气层1.10和SW21.0.0系统了。
 
 注意：
 =====
 
-（1）如果使用了linkalho假关联过任天堂账号，那么升级到21.0.0连wifi后运行破解游戏有各种问题，包括内存报错，建议启动飞行模式玩破解游戏，或解绑假关联账号，或新建本机账号，因为只有少数几个破解游戏需要假关联任天堂账号才能运行。
+（1）如果使用了linkalho假关联过任天堂账号，那么升级到21.0.0连wifi后运行破解游戏有各种问题，包括内存报错，建议启动飞行模式玩破解游戏，或解绑假关联账号，使用大气层1.10.0v3的破解包里带mod版linkalho.nro，或新建本机账号，因为只有少数几个破解游戏需要假关联任天堂账号才能运行。
 
 （2）菜鸟最好只折腾虚拟系统最高在20.5.0玩当前所有的破解游戏，那些玩正版系统升级21.0.0是为了dump正版游戏分享用的，菜鸟不要去折腾正版系统，因为升级21.0.0会导致熔断efuse=22，熔断不可逆。
 
