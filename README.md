@@ -1,14 +1,14 @@
-大气层1.10.0集成sys-patch插件破解包v4-莱莱踢个球
+大气层1.10.0集成sys-patch插件破解包v5-莱莱踢个球
 =====
 
 大气层1.10.0最高支持21.0.1系统，向下兼容支持20.5.0、19.0.1等低版本系统。
 
-2025.11.27，大气层1.10.0破解包v4发布，可以在1.10.0的v1-v3基础上覆盖升级，StatusMonitor.ovl-1.3.2+英文消除Zdm大佬终极汉化版的取消bug，更新lockpick，更新DBI.nro844俄文版，Checkpoint.nro-3.10.2，NX-Activity-Log.nr0-1.5.8中文，补充游戏安装器tinwoo。
+2025.11.30，大气层1.10.0破解包v5发布，可以在1.10.0的v1-v4基础上覆盖升级，更新StatusMonitor.ovl-Zdm大佬终极汉化版消除bug，更新DBI.nro845英文版，更新极限超频sys-clk-EOS-1.7.0英文，loader.kip支持AMS1.10.0。更新CommonProblemResolver.bin，更新hekate中文的nyx.bin。
 
 注意：
 =====
 
-（1）如果之前使用了linkalho假关联过任天堂账号，升级到21.0.0建议重新使用破解包里带mod版linkalho.nro重新假关联一次或者解除假关联，这样虚拟系统wifi下玩破解游戏会消除启动游戏弹窗的bug。虽然更新atmosphere/config/system_settings.ini配置加上default_auto_upload_global_setting = u8!0x0，但是依然无法根本上消除这个bug。最保险的还是解除账号关联或者启动飞行模式打开游戏。
+（1）如果之前使用了linkalho假关联过任天堂账号，升级到21.0.0建议重新使用破解包里带mod版linkalho.nro重新假关联一次或者解除假关联，这样虚拟系统wifi下玩破解游戏会消除启动游戏弹窗的bug。但以后更新大气层文件还需要重新关联一次，所以最保险的还是解除账号关联或者启动飞行模式打开游戏。
 
 （2）第一次使用集成sys-patch插件破解包需要看下面的更新TF卡大气层文件的说明，每次更新TF卡上的大气层文件，不能dbi.nro或者haze.nro来更新TF卡上的大气层破解包文件，建议选择1、重启hekate，在usb工具-SD卡这里usb数据线连win电脑。2、也可以选择关机取出TF卡，插入读卡器接win电脑。推荐每次SW系统大版本更新，比如19.0升级到20.0或21.0的时候，建议使用一键清理TF卡上旧的大气层破解包，再覆盖最新大气层破解包。
 
