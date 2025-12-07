@@ -1,9 +1,17 @@
-大气层1.10.0集成sys-patch插件破解包v5-莱莱踢个球
+大气层1.10.0集成sys-patch插件破解包v6-莱莱踢个球
 =====
 
-大气层1.10.0最高支持21.0.1系统，向下兼容支持20.5.0、19.0.1等低版本系统。
+2025.12.7，大气层1.10.0破解包v6发布，可以在1.10.0的v1-v5基础上覆盖升级，更新hekate_ctcaer_6.4.2_Nyx_1.8.2中文消除前一个版本部分型号主机开机卡logo的bug，更新DBI.nro-849英文版和849汉化版，更新JKSV.nro-12.02.2025中文。
 
 2025.11.30，大气层1.10.0破解包v5发布，可以在1.10.0的v1-v4基础上覆盖升级，更新StatusMonitor.ovl-Zdm大佬终极汉化版消除bug，更新DBI.nro845英文版，更新极限超频sys-clk-EOS-1.7.0英文，loader.kip支持AMS1.10.0。更新CommonProblemResolver.bin，更新hekate中文的nyx.bin。
+
+2025.11.27，大气层1.10.0破解包v4发布，可以在1.10.0的v1-v3基础上覆盖升级，StatusMonitor.ovl-1.3.2+英文消除Zdm大佬终极汉化版的取消bug，更新lockpick，更新DBI.nro844俄文版，Checkpoint.nro-3.10.2，NX-Activity-Log.nro-1.5.8中文，补充游戏安装器tinwoo。
+
+2025.11.22，大气层1.10.0破解包v3发布，可以在1.10.0的v1v2基础上覆盖升级，更新DBI.nro-843汉化版和842俄文版，Goldleaf.nro，linkalho.nro，NX-Activity-Log.nro，wiliwili.nro，Tencent-switcher-GUI.nro，V3破解包除了极限超频loader.kip，其余插件和软件都兼容大气层1.10和SW21.0.0系统了。
+
+2025.11.20，大气层1.10.0破解包v2发布，可以在1.10.0的v1基础上覆盖升级，更新sys-patch-158-5，更新Zdm大佬的汉化版ovlmenu-ultrahand，nx-ovlloader，ovl-sysmodules（国行系统如果升级20.0+会自动转全球系统），StatusMonitor和EdiZon，相册里更新Checkpoint.nro，DBI.nro-839俄文版，linkalho.nro-2.02英文，sphaira.nro-1.0.0中文兼容大气层1.10.0。所以除了极限超频loader.kip不可用（升级大气层文件记得删除TF卡上loader.kip和还原hekate_ipl.ini），相册里还剩Goldleaf.nro，NX-Activity-Log.nro，wiliwili.nro，DBI.nro-838汉化版还不兼容，建议相册nro用前端模式进，不会内存报错。虚拟系统如果联网内存报错启动飞行模式解决。
+
+2025.11.18，大气层1.10.0破解包v1发布，更新atmosphere-1.10.0-prerelease-d9fc6e99e，hekate_ctcaer_6.4.1_Nyx_1.8.1，sys-patch_1.5.8-2，更新Lockpick_RCM.bin-1.9.16英文，万能前端hbmenu.nsp，更新全套Tesla插件为ppkantorski的英文版，当前的极限超频loader.kip不可用，Edizon金手指不可用。相册里更新JKSV.nro-11.16.2025中文，DeepseaToolbox.nro-47大佬汉化版，sphaira.nro-0.13.3中文（可以安装NSP），新增Awoo-Installer.nro-1.3.6中文，这些都支持大气层1.10.0。其余软件和插件都有兼容问题，只能等更新。
 
 注意：
 =====
