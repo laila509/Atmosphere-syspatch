@@ -1,7 +1,9 @@
-大气层1.10.2集成sys-patch插件破解包v0beta-莱莱踢个球
+大气层1.10.2集成sys-patch插件破解包v1-莱莱踢个球
 =====
 
 大气层1.10.2最高支持21.2.0系统，向下兼容支持21.0.1、19.0.1等低版本系统。
+
+2026.1.15，大气层1.10.2破解包v1发布，可以在1.10.0/1.10.1的基础上覆盖升级，更新hekate_ctcaer_6.5.0_Nyx_1.9.0中文，更新ovlmenu-ultrahand-Zdm和ovlsysmodule的大佬终极汉化版。极限超频插件的loader.kip暂时不支持大气层1.10.2，所以使用极限超频升级的要删除loader.kip和还原hekate_ipl.ini文件。
 
 2026.1.14，大气层1.10.2破解包v0beta发布，更新atmosphere-1.10.2-master-eb34f9789，sys-patch-159英文继续支持。所以大气层自动选择ATM-Auto和机身正版系统OFW-SYS最高支持21.2.0系统，但是大气层真实系统ATM-SYS、虚拟系统ATM-EMU引导设置都要等Hekate更新才能最高支持21.2.0系统，下一版破解包会更新。极限超频插件的loader.kip暂时不支持大气层1.10.2，所以使用极限超频升级的要删除loader.kip和还原hekate_ipl.ini文件。
 
