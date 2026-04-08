@@ -1,14 +1,14 @@
-大气层1.11.0集成sys-patch插件破解包v1-莱莱踢个球
-====
+大气层1.11.1集成sys-patch插件破解包v1-莱莱踢个球
+=====
 
-大气层1.11.0最高支持22.0.0系统，向下兼容支持21.x、19.x等低版本系统，可以在莱莱之前发的破解包1.10.0/1.10.1/1.10.2/1.10.3/1.11.0的基础上覆盖升级。
+大气层1.11.1最高支持22.1.0系统，向下兼容支持21.x、20.x、19.x等低版本系统，可以在莱莱之前发的破解包1.10.0/1.10.1/1.10.2/1.10.3/1.11.0的基础上覆盖升级。
 
-2026.4.4，大气层1.11.0破解包v1发布，更新正式版大气层atmosphere-1.11.0-master-931e3c37f，恢复原来bootloader/hekate_ipl.ini中的自动选择，恢复原根目录hbmenu.nro，所有nro在22.0.0下可以直接运行。极限超频的loader.kip未更新适配大气层1.11.0，暂时不能用。
+2026.4.8，大气层1.11.1破解包v1发布，更新正式版大气层atmosphere-1.11.1-master-d04c20a04，更新Zdm大佬的汉化版nyx.bin，更新sys-patch-161英文，原极限超频EOS停更，用极限超频Horizon-OC的loader.kip和ovl重命名适配大气层1.11.1，删除原sys-clk的sys-clk-manager.nro和config/sys-clk/配置文件，配置文件路径改成config/horizon-oc/config.ini，只要不加loader.kip，Horizon-OC等于普通超频插件。
 
 注意：
 =====
 
-（1）目前大气层1.11.0正式版完美适配系统到22.0.0，如果想替换sphaira为相册的，随时去相册菜单找到并打开sphaira.nro，按Y进高级选项，打开退出后用sphaira替换hbmenu，和手动重命名sphaira.nro替换也一样。
+（1）目前大气层1.11.1正式版完美适配系统到22.1.0，如果想替换sphaira为相册的，随时去相册菜单找到并打开sphaira.nro，按Y进高级选项，打开退出后用sphaira替换hbmenu，和手动重命名sphaira.nro替换也一样。
 
 （2）现在Zdm大佬终极汉化版的Tesla-ultrahand插件，开机启动会识别20.0+的国行系统自动转成全球系统，国行升级20.0+不会再变砖，也不再需要手动tencent-switcher-gui.nro或者Tesla的ovl-sysmodules.ovl去做系统一键转区。大气层破解包更新了system_setting的配置，所以虚拟系统wifi下玩破解游戏可以自动消除启动游戏弹窗的bug。
 
