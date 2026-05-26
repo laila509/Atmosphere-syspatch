@@ -1,7 +1,9 @@
-大气层1.11.1集成sys-patch插件破解包v2-莱莱踢个球
+大气层1.11.1集成sys-patch插件破解包v3-莱莱踢个球
 =====
 
 大气层1.11.1最高支持22.1.0系统，向下兼容支持21.x、20.x、19.x等低版本系统，可以在莱莱之前发的破解包1.10.0以后的破解包基础上覆盖升级。
+
+2026.5.26，大气层1.11.1破解包v3发布，更新sys-patch-162英文，DowngradeFixer.bin-1.0.1英文，更新N-Xplorer.nro-0.7.1fix英文。更新极限超频Horizon-OC-2.3.1，如使用极限超频还要更新hoc.kip。
 
 2026.5.4，大气层1.11.1破解包v2发布，更新CyberFoil.nro-1.4.4中文，wiliwili.nro-1.6.0中文，更新DBI.nro-895汉化版和俄文原版，DBI语言包改成translation.bin且只支持switch/dbi/路径。更新极限超频Horizon-OC-2.1.0英文，改动：玩极限超频的，loader.kip改回hoc.kip，会显示正常，可删除原来旧的loader.kip，不使用loader.kip（hoc.kip）直接拿HOC当普通超频的可以无视。
 
