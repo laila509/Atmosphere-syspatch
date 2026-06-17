@@ -1,19 +1,14 @@
-大气层1.11.1集成sys-patch插件破解包v3-莱莱踢个球
-=====
+大气层1.11.2集成sys-patch插件破解包v1-莱莱踢个球
+====
 
-大气层1.11.1最高支持22.1.0系统，向下兼容支持21.x、20.x、19.x等低版本系统，可以在莱莱之前发的破解包1.10.0以后的破解包基础上覆盖升级。
+大气层1.11.2最高支持22.5.0系统，向下兼容支持21.x、20.x、19.x等低版本系统，可以在莱莱之前发的破解包1.10.0以后的破解包基础上覆盖升级。
 
-2026.5.26，大气层1.11.1破解包v3发布，更新sys-patch-162英文，DowngradeFixer.bin-1.0.1英文，更新N-Xplorer.nro-0.7.1fix英文。更新极限超频Horizon-OC-2.3.1，如使用极限超频还要更新hoc.kip。
-
-2026.5.4，大气层1.11.1破解包v2发布，更新CyberFoil.nro-1.4.4中文，wiliwili.nro-1.6.0中文，更新DBI.nro-895汉化版和俄文原版，DBI语言包改成translation.bin且只支持switch/dbi/路径。更新极限超频Horizon-OC-2.1.0英文，改动：玩极限超频的，loader.kip改回hoc.kip，会显示正常，可删除原来旧的loader.kip，不使用loader.kip（hoc.kip）直接拿HOC当普通超频的可以无视。
-
-2026.4.8，大气层1.11.1破解包v1发布，更新正式版大气层atmosphere-1.11.1-master-d04c20a04
-，更新Zdm大佬的汉化版nyx.bin，更新sys-patch-161英文，原极限超频EOS停更，用极限超频Horizon-OC的loader.kip和ovl重命名适配大气层1.11.1，删除原sys-clk的sys-clk-manager.nro和config/sys-clk/配置文件，配置文件路径改成config/horizon-oc/config.ini，只要不加loader.kip，Horizon-OC等于普通超频插件。
+2026.6.17，大气层1.11.2破解包v1发布，更新atmosphere-1.11.2-master-5388824be，hekate_ctcaer_6.5.3_Nyx_1.9.3中文，sys-patch-v1.6.2.3英文，更新CyberFoil.nro-1.4.5中文，更新极限超频Horizon-OC-2.4.2，如使用极限超频还要更新hoc.kip。
 
 注意：
-=====
+====
 
-（1）目前大气层1.11.1正式版完美适配系统到22.1.0，如果想替换sphaira为相册的，随时去相册菜单找到并打开sphaira.nro，按Y进高级选项，打开退出后用sphaira替换hbmenu，和手动重命名sphaira.nro替换也一样。
+（1）目前大气层1.11.2正式版完美适配系统到22.5.0，如果想替换sphaira为相册的，随时去相册菜单找到并打开sphaira.nro，按Y进高级选项，打开退出后用sphaira替换hbmenu，和手动重命名sphaira.nro替换也一样。
 
 （2）现在Zdm大佬终极汉化版的Tesla-ultrahand插件，开机启动会识别20.0+的国行系统自动转成全球系统，国行升级20.0+不会再变砖，也不再需要手动tencent-switcher-gui.nro或者Tesla的ovl-sysmodules.ovl去做系统一键转区。大气层破解包更新了system_setting的配置，所以虚拟系统wifi下玩破解游戏可以自动消除启动游戏弹窗的bug。
 
